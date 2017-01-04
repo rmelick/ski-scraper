@@ -1,11 +1,13 @@
 import com.fasterxml.jackson.databind.JsonNode;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import com.fasterxml.jackson.databind.ObjectWriter;
+import com.fasterxml.jackson.databind.node.ObjectNode;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import parser.EventDetailsParser;
 import parser.ResultParser;
 import parser.ScheduleParser;
+import types.EventDetails;
 
 import java.io.File;
 import java.io.IOException;
@@ -67,18 +69,19 @@ public class App {
     for (String detailPageUrl : detailPages) {
       System.out.println("Downloading detail page from " + detailPageUrl);
       Document detailPage = Jsoup.connect(detailPageUrl).get();
-      List<String> resultPages = EventDetailsParser.parse(detailPage);
+      List<EventDetails> resultPages = EventDetailsParser.parse(detailPage);
 
-      for (String resultUrl : resultPages) {
-        File outputFile = new File(seasonDirectory, String.format("race-%s.json", extractRaceId(resultUrl)));
+      for (EventDetails eventResult: resultPages) {
+        File outputFile = new File(seasonDirectory, String.format("race-%s.json", extractRaceId(eventResult.getResultsUrl())));
         if (outputFile.exists()) {
           System.out.println("Skipping downloading " + outputFile);
           continue;
         }
 
-        System.out.println("Downloading result page from " + resultUrl);
-        Document resultPage = Jsoup.connect(resultUrl).get();
-        JsonNode parsedResult = ResultParser.parse(resultPage);
+        System.out.println("Downloading result page from " + eventResult.getResultsUrl());
+        Document resultPage = Jsoup.connect(eventResult.getResultsUrl()).get();
+        ObjectNode parsedResult = ResultParser.parse(resultPage);
+        parsedResult.set("eventInfo", eventResult.getAdditionalInfo());
         _writer.writeValue(outputFile, parsedResult);
 
         System.out.println("Sleeping 100ms");

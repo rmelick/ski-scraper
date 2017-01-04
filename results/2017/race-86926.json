@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GAJA ELENA",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "M. BONNEVIE",
+        "country" : "FRA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2550 m.",
+      "Finish Altitude" : "1810 m.",
+      "Vertical Drop" : "740 m.",
+      "Homologation Number" : "11362/09/14"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "38",
+      "Turning Gates" : "",
+      "Start Time" : "10:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. VIALE",
+        "country" : "ITA"
+      },
+      "Number of Gates" : "63",
+      "Turning Gates" : "62",
+      "Start Time" : "14:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "8",
     "FIS Code" : "565360",
@@ -593,5 +633,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "16.12.2016",
+    "Place" : "Val d`Isere RUN CET LOC STATUS Run 1 10:30 10:30 Official result Run 2 14:00 14:00 Official result",
+    "Nation" : "FRA",
+    "Codex" : "5102",
+    "Discipline" : "Alpine combined",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.7 MB)Results 2nd run (137.51 kb)Start List 2nd run (135.08 kb)Results 1st run (135.69 kb)Start List 1st run (73.1 kb)"
+  }
 }

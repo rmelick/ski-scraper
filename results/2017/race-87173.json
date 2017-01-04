@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BIZJAK PETER",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "E. COUDER",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "R. FLEISS",
+        "country" : "CRO"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "978 m.",
+      "Finish Altitude" : "768 m.",
+      "Vertical Drop" : "210 m.",
+      "Homologation Number" : "11055/11/13"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "I. LOOKED",
+        "country" : "USA"
+      },
+      "Number of Gates" : "72",
+      "Turning Gates" : "69",
+      "Start Time" : "14:45"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. PIRCHER",
+        "country" : "AUT"
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : "18:00"
+    }
+  },
+  "results" : [ {
     "Bib" : "1",
     "FIS Code" : "480736",
     "Name" : "KHOROSHILOV Alexander",
@@ -526,5 +570,16 @@
     "Skis" : ""
   }, {
     "Bib" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "05.01.2017",
+    "Place" : "Zagreb RUN CET LOC STATUS Run 1 14:45 14:45 Scheduled Run 2 18:00 18:00",
+    "Nation" : "CRO",
+    "Codex" : "0084",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Extended start list (html)Start List 1st run (158.06 kb)Event Program"
+  }
 }

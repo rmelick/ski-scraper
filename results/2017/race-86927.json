@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GAJA ELENA",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "M. BONNEVIE",
+        "country" : "FRA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2550 m.",
+      "Finish Altitude" : "1810 m.",
+      "Vertical Drop" : "740 m.",
+      "Course Length" : "2877 m.",
+      "Homologation Number" : "11362/09/14"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "38",
+      "Start Time" : "10:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "538573",
@@ -541,5 +581,16 @@
     "FIS Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "16.12.2016",
+    "Place" : "Val d`Isere",
+    "Nation" : "FRA",
+    "Codex" : "5101",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "COM",
+    "Comments" : "",
+    "Down load" : "Results (137.08 kb)Results, Analysis, Standings (244.93 kb)"
+  }
 }

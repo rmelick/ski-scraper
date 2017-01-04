@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GAJA ELENA",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "M. BONNEVIE",
+        "country" : "FRA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2550 m.",
+      "Finish Altitude" : "1810 m.",
+      "Vertical Drop" : "740 m.",
+      "Course Length" : "2877 m.",
+      "Homologation Number" : "11362/09/14"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "38",
+      "Start Time" : "10:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "20",
     "FIS Code" : "298323",
@@ -635,5 +679,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "15.12.2016",
+    "Place" : "Val d`Isere RUN CET LOC STATUS Run 1 10:30 10:30 Official result",
+    "Nation" : "FRA",
+    "Codex" : "5100",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Training Analysis 2 (767.4 kb)Results Training 2 (138.5 kb)Start List Training 2 (73.67 kb)"
+  }
 }

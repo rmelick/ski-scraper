@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HOPPER DAVID",
+        "country" : "CAN"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "T. SUTTON",
+        "country" : "USA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1128 m.",
+      "Finish Altitude" : "780 m.",
+      "Vertical Drop" : "348 m.",
+      "Homologation Number" : "11885/12/15"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J. CHENAL",
+        "country" : "FRA"
+      },
+      "Number of Gates" : "42",
+      "Turning Gates" : "40",
+      "Start Time" : "9:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "C. THOMA",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "40",
+      "Turning Gates" : "39",
+      "Start Time" : "12:45"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "8",
     "FIS Code" : "196928",
@@ -806,5 +850,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "26.11.2016",
+    "Place" : "Killington RUN CET LOC Run 1 15:30 09:30 Run 2 18:30 12:30",
+    "Nation" : "USA",
+    "Codex" : "5227",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (322.02 kb)Results 2nd run (1.01 MB)Start List 2nd run (463.4 kb)Results 1st run (750.18 kb)Start List 1st run (747.56 kb)Event Program"
+  }
 }

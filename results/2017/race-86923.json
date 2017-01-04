@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GURI CHRISTOPHE",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "L. CONCI",
+        "country" : "ITA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2220 m.",
+      "Finish Altitude" : "2046 m.",
+      "Vertical Drop" : "174 m.",
+      "Homologation Number" : "9632/10/10"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "W. ZURBUCHEN",
+        "country" : "SUI"
+      },
+      "Number of Gates" : "61",
+      "Turning Gates" : "59",
+      "Start Time" : "10:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. DAY",
+        "country" : "USA"
+      },
+      "Number of Gates" : "58",
+      "Turning Gates" : "57",
+      "Start Time" : "13:30"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "1",
     "FIS Code" : "6535237",
@@ -810,5 +854,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "11.12.2016",
+    "Place" : "Sestriere RUN CET LOC STATUS Run 1 10:30 10:30 Official result Run 2 13:30 13:30 Official result",
+    "Nation" : "ITA",
+    "Codex" : "5120",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (282.85 kb)Results 2nd run (1.06 MB)Start List 2nd run (506.99 kb)Results 1st run (795.21 kb)Start List 1st run (794.08 kb)Event Program"
+  }
 }

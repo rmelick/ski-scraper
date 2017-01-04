@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HOFER FRANZ",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "R. GSTREIN",
+        "country" : "AUT"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "3040 m.",
+      "Finish Altitude" : "2670 m.",
+      "Vertical Drop" : "370 m.",
+      "Homologation Number" : "9667/10/10"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "G. RULFI",
+        "country" : "ITA"
+      },
+      "Number of Gates" : "51",
+      "Turning Gates" : "47",
+      "Start Time" : "10:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "R. KRUMBACHER",
+        "country" : "GER"
+      },
+      "Number of Gates" : "48",
+      "Turning Gates" : "47",
+      "Start Time" : "13:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "2",
     "FIS Code" : "516138",
@@ -871,5 +915,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "22.10.2016",
+    "Place" : "Soelden RUN CET LOC STATUS Run 1 10:00 10:00 Run 2 13:00 13:00 Official result",
+    "Nation" : "AUT",
+    "Codex" : "5032",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (4.98 MB)Results 2nd run (449.03 kb)Start List 2nd run (402.25 kb)Results 1st run (445.23 kb)Start List 1st run (431.28 kb)"
+  }
 }

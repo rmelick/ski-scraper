@@ -19,32 +19,44 @@ import java.util.List;
 public class ResultParser {
   private static final JsonNodeFactory FACTORY = JsonNodeFactory.instance;
 
-  public static JsonNode parse(Document document) {
+  public static ObjectNode parse(Document document) {
     Elements tableSections = document.select("div.bloc-tab");
     Element raceInfoSection = tableSections.get(0);
     Element resultsSection = tableSections.get(1);
 
 
     ObjectNode resultsJson = FACTORY.objectNode();
-    resultsJson.set("result", parseResultSection(resultsSection));
+    resultsJson.set("raceInfo", parseRaceInfoSection(raceInfoSection));
+    resultsJson.set("results", parseResultSection(resultsSection));
 
     return resultsJson;
   }
 
-  /**
-   * Not yet ready
-   */
-  private static void parseRaceInfoSection(Element raceInfoSection) {
+  private static JsonNode parseRaceInfoSection(Element raceInfoSection) {
     ObjectNode raceInfo = FACTORY.objectNode();
     for (Element dataTable : raceInfoSection.select("table.table-datas")) {
-      Element header = dataTable.getElementsByTag("thead").get(0);
-      String headerName = text(header.getElementsByTag("th").get(0));
-      Element body = dataTable.getElementsByTag("tbody").get(0);
+      Element tableName = dataTable.child(0);
+      ObjectNode tableValues = FACTORY.objectNode();
+
+      Elements data = dataTable.child(1).select("tr");
+      for (Element dataRow : data) {
+        Elements children = dataRow.children();
+        if (children.size() == 3) {
+          ObjectNode personNode = FACTORY.objectNode();
+          personNode.put("name", text(children.get(1)));
+          personNode.put("country", text(children.get(2)));
+          tableValues.set(text(children.get(0)), personNode);
+        } else if (children.size() == 2) {
+          tableValues.put(text(children.get(0)), text(children.get(1)));
+        }
+      }
+
+      raceInfo.set(text(tableName), tableValues);
     }
+    return raceInfo;
   }
 
   private static JsonNode parseResultSection(Element resultsSection) {
-    //List<RacerResult> results = new ArrayList<RacerResult>();
     Element resultTable = resultsSection.select("table.table-datas").get(0);
     Element headerRow = resultTable.child(0);
 

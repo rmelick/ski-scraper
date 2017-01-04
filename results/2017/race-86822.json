@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GILLIAND ALAIN",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "H. TRINKL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "O. GALLI",
+        "country" : "ITA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2720 m.",
+      "Finish Altitude" : "1745 m.",
+      "Vertical Drop" : "975 m.",
+      "Course Length" : "3175 m.",
+      "Homologation Number" : "11566/12/14"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "H. TRINKL",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "37",
+      "Start Time" : "11:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "2",
     "FIS Code" : "293006",
@@ -693,5 +737,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "26.12.2016",
+    "Place" : "Santa Caterina RUN CET LOC STATUS Run 1 11:00 11:00 Official result",
+    "Nation" : "ITA",
+    "Codex" : "0131",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Training Analysis 1 (368.32 kb)Results Training 1 (149.05 kb)Start List Training 1 (3.84 MB)"
+  }
 }
