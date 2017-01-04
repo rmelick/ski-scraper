@@ -1,0 +1,229 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "23",
+    "FIS Code" : "194873",
+    "Name" : "SARRAZIN Cyprien",
+    "Year" : "1994",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "2",
+    "Bib" : "20",
+    "FIS Code" : "511313",
+    "Name" : "JANKA Carlo",
+    "Year" : "1986",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "3",
+    "Bib" : "17",
+    "FIS Code" : "421483",
+    "Name" : "JANSRUD Kjetil",
+    "Year" : "1985",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "4",
+    "Bib" : "11",
+    "FIS Code" : "421669",
+    "Name" : "HAUGEN Leif Kristian",
+    "Year" : "1987",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "5",
+    "Bib" : "15",
+    "FIS Code" : "501017",
+    "Name" : "MYHRER Andre",
+    "Year" : "1983",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "6",
+    "Bib" : "9",
+    "FIS Code" : "202437",
+    "Name" : "LUITZ Stefan",
+    "Year" : "1992",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "7",
+    "Bib" : "28",
+    "FIS Code" : "511852",
+    "Name" : "CAVIEZEL Gino",
+    "Year" : "1992",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "8",
+    "Bib" : "3",
+    "FIS Code" : "194495",
+    "Name" : "FAIVRE Mathieu",
+    "Year" : "1992",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "2",
+    "FIS Code" : "194364",
+    "Name" : "PINTURAULT Alexis",
+    "Year" : "1991",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "10",
+    "Bib" : "4",
+    "FIS Code" : "422304",
+    "Name" : "KRISTOFFERSEN Henrik",
+    "Year" : "1994",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "11",
+    "Bib" : "7",
+    "FIS Code" : "51007",
+    "Name" : "SCHOERGHOFER Philipp",
+    "Year" : "1983",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "12",
+    "Bib" : "32",
+    "FIS Code" : "192506",
+    "Name" : "MISSILLIER Steve",
+    "Year" : "1984",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "13",
+    "Bib" : "14",
+    "FIS Code" : "561244",
+    "Name" : "KRANJEC Zan",
+    "Year" : "1992",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "14",
+    "Bib" : "8",
+    "FIS Code" : "292967",
+    "Name" : "EISATH Florian",
+    "Year" : "1984",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "15",
+    "Bib" : "6",
+    "FIS Code" : "193967",
+    "Name" : "MUFFAT-JEANDET Victor",
+    "Year" : "1989",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "16",
+    "Bib" : "12",
+    "FIS Code" : "54063",
+    "Name" : "FELLER Manuel",
+    "Year" : "1992",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "17",
+    "Bib" : "31",
+    "FIS Code" : "501324",
+    "Name" : "OLSSON Matts",
+    "Year" : "1988",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "18",
+    "Bib" : "1",
+    "FIS Code" : "53831",
+    "Name" : "HIRSCHER Marcel",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "19",
+    "Bib" : "30",
+    "FIS Code" : "422073",
+    "Name" : "NETELAND Bjoernar",
+    "Year" : "1991",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "20",
+    "Bib" : "26",
+    "FIS Code" : "6530319",
+    "Name" : "COCHRAN-SIEGLE Ryan",
+    "Year" : "1992",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "21",
+    "Bib" : "27",
+    "FIS Code" : "292491",
+    "Name" : "MOELGG Manfred",
+    "Year" : "1982",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "22",
+    "Bib" : "13",
+    "FIS Code" : "990116",
+    "Name" : "DE ALIPRANDINI Luca",
+    "Year" : "1990",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "23",
+    "Bib" : "5",
+    "FIS Code" : "201702",
+    "Name" : "NEUREUTHER Felix",
+    "Year" : "1984",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "24",
+    "Bib" : "25",
+    "FIS Code" : "51159",
+    "Name" : "NOESIG Christoph",
+    "Year" : "1985",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "25",
+    "Bib" : "21",
+    "FIS Code" : "531799",
+    "Name" : "FORD Tommy",
+    "Year" : "1989",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "26",
+    "Bib" : "16",
+    "FIS Code" : "294890",
+    "Name" : "NANI Roberto",
+    "Year" : "1988",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "27",
+    "Bib" : "22",
+    "FIS Code" : "54031",
+    "Name" : "LEITINGER Roland",
+    "Year" : "1991",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "28",
+    "Bib" : "19",
+    "FIS Code" : "422139",
+    "Name" : "KILDE Aleksander Aamodt",
+    "Year" : "1992",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "29",
+    "Bib" : "10",
+    "FIS Code" : "511896",
+    "Name" : "MURISIER Justin",
+    "Year" : "1992",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "30",
+    "Bib" : "18",
+    "FIS Code" : "291459",
+    "Name" : "PARIS Dominik",
+    "Year" : "1989",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "31",
+    "Bib" : "29",
+    "FIS Code" : "512269",
+    "Name" : "ODERMATT Marco",
+    "Year" : "1997",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "32",
+    "Bib" : "24",
+    "FIS Code" : "380335",
+    "Name" : "ZUBCIC Filip",
+    "Year" : "1993",
+    "Nation" : "CRO"
+  }, {
+    "Rank" : ""
+  } ]
+}
