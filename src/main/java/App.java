@@ -41,12 +41,17 @@ public class App {
       List<String> resultPages = EventDetailsParser.parse(detailPage);
 
       for (String resultUrl : resultPages) {
+        File outputFile = new File(outputDirectory, String.format("race-%s.json", extractRaceId(resultUrl)));
+        if (outputFile.exists()) {
+          System.out.println("Skipping downloading " + outputFile);
+          continue;
+        }
+
         System.out.println("Downloading result page from " + resultUrl);
         Document resultPage = Jsoup.connect(resultUrl).get();
         JsonNode parsedResult = ResultParser.parse(resultPage);
         System.out.println(_writer.writeValueAsString(parsedResult));
 
-        File outputFile = new File(outputDirectory, String.format("race-%s.json", extractRaceId(resultUrl)));
         _writer.writeValue(outputFile, parsedResult);
 
         System.out.println("Sleeping 500ms");

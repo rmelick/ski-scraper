@@ -10,6 +10,7 @@ import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 
 /**
@@ -47,9 +48,11 @@ public class ResultParser {
     Element resultTable = resultsSection.select("table.table-datas").get(0);
     Element headerRow = resultTable.child(0);
 
-    List<String> headers = new ArrayList<>();
-    for (Element header : headerRow.getElementsByTag("th")) {
-      headers.add(text(header));
+    List<String> headers = getDefaultHeaders();
+    Elements headerElements = headerRow.getElementsByTag("th");
+    for (int headerIndex = 0; headerIndex < headerElements.size(); headerIndex++) {
+      Element header = headerElements.get(headerIndex);
+      headers.set(headerIndex, text(header));
     }
 
     ArrayNode resultsJson = FACTORY.arrayNode();
@@ -73,5 +76,21 @@ public class ResultParser {
    */
   private static String text(Element element) {
     return element.text().replace((char) 160, ' ').trim();
+  }
+
+  private static List<String> getDefaultHeaders() {
+    return Arrays.asList(
+        "Rank",
+        "Bib",
+        "FIS Code",
+        "Name",
+        "Year",
+        "Nation",
+        "Run 1",
+        "Run 2",
+        "Total Time",
+        "Diff.",
+        "FIS Points",
+        "WC Points");
   }
 }

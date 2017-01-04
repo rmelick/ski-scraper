@@ -28,4 +28,13 @@ public class ResultParserTest {
 
     System.out.println(_writer.writeValueAsString(parsedDocument));
   }
+
+  @Test
+  public void testParseMissingColumnHeader() throws Exception {
+    File testFile = Paths.get(getClass().getResource("results/missing-column-header.html").toURI()).toFile();
+    Document document = Jsoup.parse(testFile, "UTF-8");
+    JsonNode parsedDocument = ResultParser.parse(document);
+
+    System.out.println(_writer.writeValueAsString(parsedDocument));
+  }
 }
