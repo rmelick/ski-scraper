@@ -25,7 +25,7 @@ public class EventDetailsParser {
     Set<String> resultUrls = new HashSet<>();
     for (Element link : allLinks) {
       String url = link.attr("href");
-      if (url.contains("raceid")) {
+      if (url.contains("raceid") && url.contains("results.html")) {
         resultUrls.add(url);
       }
     }

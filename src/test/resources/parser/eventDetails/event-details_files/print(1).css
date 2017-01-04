@@ -1,0 +1,23 @@
+header,
+footer,
+#career,
+.noprint
+{
+    display:none !important;
+}
+.bloc-tab,
+.bloc-tab .bloc-title,
+.bloc-info{
+    padding:0 !important;
+    margin:0 !important;
+}
+#searchForm select, .formpage select, #filterForm select,
+input,label{
+    margin:0 !important;
+    padding:0 !important;
+    height:20px !important;
+    width:auto !important;
+}
+label.right{
+    float:left !important;
+}

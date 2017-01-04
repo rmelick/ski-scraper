@@ -1,0 +1,530 @@
+{
+  "result" : [ {
+    "Bib" : "1",
+    "FIS Code" : "480736",
+    "Name" : "KHOROSHILOV Alexander",
+    "Year" : "1984",
+    "Nation" : "RUS",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "2",
+    "FIS Code" : "293797",
+    "Name" : "GROSS Stefano",
+    "Year" : "1986",
+    "Nation" : "ITA",
+    "Skis" : "Voelkl"
+  }, {
+    "Bib" : "3",
+    "FIS Code" : "501017",
+    "Name" : "MYHRER Andre",
+    "Year" : "1983",
+    "Nation" : "SWE",
+    "Skis" : "Head"
+  }, {
+    "Bib" : "4",
+    "FIS Code" : "292491",
+    "Name" : "MOELGG Manfred",
+    "Year" : "1982",
+    "Nation" : "ITA",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "5",
+    "FIS Code" : "201702",
+    "Name" : "NEUREUTHER Felix",
+    "Year" : "1984",
+    "Nation" : "GER",
+    "Skis" : "Nordica"
+  }, {
+    "Bib" : "6",
+    "FIS Code" : "53831",
+    "Name" : "HIRSCHER Marcel",
+    "Year" : "1989",
+    "Nation" : "AUT",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "7",
+    "FIS Code" : "422304",
+    "Name" : "KRISTOFFERSEN Henrik",
+    "Year" : "1994",
+    "Nation" : "NOR",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "8",
+    "FIS Code" : "191459",
+    "Name" : "LIZEROUX Julien",
+    "Year" : "1979",
+    "Nation" : "FRA",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "9",
+    "FIS Code" : "54170",
+    "Name" : "MATT Michael",
+    "Year" : "1993",
+    "Nation" : "AUT",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "10",
+    "FIS Code" : "54320",
+    "Name" : "SCHWARZ Marco",
+    "Year" : "1995",
+    "Nation" : "AUT",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "11",
+    "FIS Code" : "511996",
+    "Name" : "YULE Daniel",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "12",
+    "FIS Code" : "290732",
+    "Name" : "THALER Patrick",
+    "Year" : "1978",
+    "Nation" : "ITA",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "13",
+    "FIS Code" : "194364",
+    "Name" : "PINTURAULT Alexis",
+    "Year" : "1991",
+    "Nation" : "FRA",
+    "Skis" : "Head"
+  }, {
+    "Bib" : "14",
+    "FIS Code" : "501111",
+    "Name" : "HARGIN Mattias",
+    "Year" : "1985",
+    "Nation" : "SWE",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "15",
+    "FIS Code" : "51395",
+    "Name" : "DIGRUBER Marc",
+    "Year" : "1988",
+    "Nation" : "AUT",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "16",
+    "FIS Code" : "193967",
+    "Name" : "MUFFAT-JEANDET Victor",
+    "Year" : "1989",
+    "Nation" : "FRA",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "17",
+    "FIS Code" : "422082",
+    "Name" : "FOSS-SOLEVAAG Sebastian",
+    "Year" : "1991",
+    "Nation" : "NOR",
+    "Skis" : "Voelkl"
+  }, {
+    "Bib" : "18",
+    "FIS Code" : "192665",
+    "Name" : "GRANGE Jean-Baptiste",
+    "Year" : "1984",
+    "Nation" : "FRA",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "19",
+    "FIS Code" : "220689",
+    "Name" : "RYDING Dave",
+    "Year" : "1986",
+    "Nation" : "GBR",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "20",
+    "FIS Code" : "534508",
+    "Name" : "CHODOUNSKY David",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Skis" : "Nordica"
+  }, {
+    "Bib" : "21",
+    "FIS Code" : "54063",
+    "Name" : "FELLER Manuel",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "22",
+    "FIS Code" : "293098",
+    "Name" : "RAZZOLI Giuliano",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "23",
+    "FIS Code" : "511983",
+    "Name" : "AERNI Luca",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "24",
+    "FIS Code" : "421860",
+    "Name" : "NORDBOTTEN Jonathan",
+    "Year" : "1989",
+    "Nation" : "NOR",
+    "Skis" : "Head"
+  }, {
+    "Bib" : "25",
+    "FIS Code" : "201896",
+    "Name" : "STEHLE Dominik",
+    "Year" : "1986",
+    "Nation" : "GER",
+    "Skis" : "Nordica"
+  }, {
+    "Bib" : "26",
+    "FIS Code" : "501101",
+    "Name" : "BYGGMARK Jens",
+    "Year" : "1985",
+    "Nation" : "SWE",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "27",
+    "FIS Code" : "511902",
+    "Name" : "ZENHAEUSERN Ramon",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "28",
+    "FIS Code" : "501116",
+    "Name" : "LAHDENPERAE Anton",
+    "Year" : "1985",
+    "Nation" : "SWE",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "29",
+    "FIS Code" : "301709",
+    "Name" : "YUASA Naoki",
+    "Year" : "1983",
+    "Nation" : "JPN",
+    "Skis" : "Hart"
+  }, {
+    "Bib" : "30",
+    "FIS Code" : "421669",
+    "Name" : "HAUGEN Leif Kristian",
+    "Year" : "1987",
+    "Nation" : "NOR",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "31",
+    "FIS Code" : "194262",
+    "Name" : "BUFFET Robin",
+    "Year" : "1991",
+    "Nation" : "FRA",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "32",
+    "FIS Code" : "511127",
+    "Name" : "GINI Marc",
+    "Year" : "1984",
+    "Nation" : "SUI",
+    "Skis" : "Voelkl"
+  }, {
+    "Bib" : "33",
+    "FIS Code" : "700830",
+    "Name" : "ZAMPA Adam",
+    "Year" : "1990",
+    "Nation" : "SVK",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "34",
+    "FIS Code" : "103729",
+    "Name" : "READ Erik",
+    "Year" : "1991",
+    "Nation" : "CAN",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "35",
+    "FIS Code" : "150644",
+    "Name" : "KRYZL Krystof",
+    "Year" : "1986",
+    "Nation" : "CZE",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "36",
+    "FIS Code" : "930160",
+    "Name" : "KELLEY Robby",
+    "Year" : "1990",
+    "Nation" : "USA",
+    "Skis" : "Blizzard"
+  }, {
+    "Bib" : "37",
+    "FIS Code" : "320266",
+    "Name" : "JUNG Dong-hyun",
+    "Year" : "1988",
+    "Nation" : "KOR",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "38",
+    "FIS Code" : "103865",
+    "Name" : "PHILP Trevor",
+    "Year" : "1992",
+    "Nation" : "CAN",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "39",
+    "FIS Code" : "291318",
+    "Name" : "TONETTI Riccardo",
+    "Year" : "1989",
+    "Nation" : "ITA",
+    "Skis" : "Voelkl"
+  }, {
+    "Bib" : "40",
+    "FIS Code" : "290095",
+    "Name" : "BALLERIN Andrea",
+    "Year" : "1989",
+    "Nation" : "ITA",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "41",
+    "FIS Code" : "511908",
+    "Name" : "SCHMIDIGER Reto",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Skis" : "Nordica"
+  }, {
+    "Bib" : "42",
+    "FIS Code" : "380334",
+    "Name" : "VIDOVIC Matej",
+    "Year" : "1993",
+    "Nation" : "CRO",
+    "Skis" : "Head"
+  }, {
+    "Bib" : "43",
+    "FIS Code" : "6291574",
+    "Name" : "SALA Tommaso",
+    "Year" : "1995",
+    "Nation" : "ITA",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "44",
+    "FIS Code" : "202451",
+    "Name" : "STRASSER Linus",
+    "Year" : "1992",
+    "Nation" : "GER",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "45",
+    "FIS Code" : "934523",
+    "Name" : "ENGEL Mark",
+    "Year" : "1991",
+    "Nation" : "USA",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "46",
+    "FIS Code" : "53889",
+    "Name" : "HIRSCHBUEHL Christian",
+    "Year" : "1990",
+    "Nation" : "AUT",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "47",
+    "FIS Code" : "380361",
+    "Name" : "RODES Istok",
+    "Year" : "1996",
+    "Nation" : "CRO",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "48",
+    "FIS Code" : "481327",
+    "Name" : "TRIKHICHEV Pavel",
+    "Year" : "1992",
+    "Nation" : "RUS",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "49",
+    "FIS Code" : "511899",
+    "Name" : "ROCHAT Marc",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "50",
+    "FIS Code" : "512138",
+    "Name" : "SIMONET Sandro",
+    "Year" : "1995",
+    "Nation" : "SUI",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "51",
+    "FIS Code" : "561322",
+    "Name" : "HADALIN Stefan",
+    "Year" : "1995",
+    "Nation" : "SLO",
+    "Skis" : ""
+  }, {
+    "Bib" : "52",
+    "FIS Code" : "6290183",
+    "Name" : "RONCI Giordano",
+    "Year" : "1992",
+    "Nation" : "ITA",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "53",
+    "FIS Code" : "934502",
+    "Name" : "ANKENY Michael",
+    "Year" : "1991",
+    "Nation" : "USA",
+    "Skis" : "Nordica"
+  }, {
+    "Bib" : "54",
+    "FIS Code" : "202520",
+    "Name" : "HOLZMANN Sebastian",
+    "Year" : "1993",
+    "Nation" : "GER",
+    "Skis" : "Rossignol"
+  }, {
+    "Bib" : "55",
+    "FIS Code" : "502015",
+    "Name" : "JAKOBSEN Kristoffer",
+    "Year" : "1994",
+    "Nation" : "SWE",
+    "Skis" : ""
+  }, {
+    "Bib" : "56",
+    "FIS Code" : "550054",
+    "Name" : "ZVEJNIEKS Kristaps",
+    "Year" : "1992",
+    "Nation" : "LAT",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "57",
+    "FIS Code" : "54252",
+    "Name" : "RASCHNER Dominik",
+    "Year" : "1994",
+    "Nation" : "AUT",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "58",
+    "FIS Code" : "6531063",
+    "Name" : "GINNIS AJ",
+    "Year" : "1994",
+    "Nation" : "USA",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "59",
+    "FIS Code" : "194207",
+    "Name" : "THEOLIER Steven",
+    "Year" : "1990",
+    "Nation" : "NED",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "60",
+    "FIS Code" : "380363",
+    "Name" : "KOLEGA Elias",
+    "Year" : "1996",
+    "Nation" : "CRO",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "61",
+    "FIS Code" : "180567",
+    "Name" : "RASANEN Joonas",
+    "Year" : "1989",
+    "Nation" : "FIN",
+    "Skis" : "Croc Ski"
+  }, {
+    "Bib" : "62",
+    "FIS Code" : "380260",
+    "Name" : "KOSTELIC Ivica",
+    "Year" : "1979",
+    "Nation" : "CRO",
+    "Skis" : "Fischer"
+  }, {
+    "Bib" : "63",
+    "FIS Code" : "380290",
+    "Name" : "SAMSAL Dalibor",
+    "Year" : "1985",
+    "Nation" : "HUN",
+    "Skis" : ""
+  }, {
+    "Bib" : "64",
+    "FIS Code" : "561291",
+    "Name" : "GROSELJ Zan",
+    "Year" : "1993",
+    "Nation" : "SLO",
+    "Skis" : "Nordica"
+  }, {
+    "Bib" : "65",
+    "FIS Code" : "60253",
+    "Name" : "MARCHANT Armand",
+    "Year" : "1997",
+    "Nation" : "BEL",
+    "Skis" : "Salomon"
+  }, {
+    "Bib" : "66",
+    "FIS Code" : "380335",
+    "Name" : "ZUBCIC Filip",
+    "Year" : "1993",
+    "Nation" : "CRO",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "67",
+    "FIS Code" : "303696",
+    "Name" : "KONO Kyosuke",
+    "Year" : "1991",
+    "Nation" : "JPN",
+    "Skis" : ""
+  }, {
+    "Bib" : "68",
+    "FIS Code" : "60160",
+    "Name" : "ALAERTS Kai",
+    "Year" : "1989",
+    "Nation" : "BEL",
+    "Skis" : ""
+  }, {
+    "Bib" : "69",
+    "FIS Code" : "430633",
+    "Name" : "JASICZEK Michal",
+    "Year" : "1994",
+    "Nation" : "POL",
+    "Skis" : "Nordica"
+  }, {
+    "Bib" : "70",
+    "FIS Code" : "700868",
+    "Name" : "FALAT Matej",
+    "Year" : "1993",
+    "Nation" : "SVK",
+    "Skis" : "Croc Ski"
+  }, {
+    "Bib" : "71",
+    "FIS Code" : "710353",
+    "Name" : "SLJIVIC Marko",
+    "Year" : "1996",
+    "Nation" : "BIH",
+    "Skis" : ""
+  }, {
+    "Bib" : "72",
+    "FIS Code" : "380374",
+    "Name" : "VUKELIC William",
+    "Year" : "1998",
+    "Nation" : "CRO",
+    "Skis" : ""
+  }, {
+    "Bib" : "73",
+    "FIS Code" : "750088",
+    "Name" : "RISTEVSKI Antonio",
+    "Year" : "1989",
+    "Nation" : "MKD",
+    "Skis" : ""
+  }, {
+    "Bib" : "74",
+    "FIS Code" : "660021",
+    "Name" : "DANILOCHKIN Yuri",
+    "Year" : "1991",
+    "Nation" : "BLR",
+    "Skis" : "Atomic"
+  }, {
+    "Bib" : "75",
+    "FIS Code" : "54106",
+    "Name" : "BREITFUSS KAMMERLANDER Simon",
+    "Year" : "1992",
+    "Nation" : "BOL",
+    "Skis" : ""
+  }, {
+    "Bib" : ""
+  } ]
+}
