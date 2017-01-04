@@ -20,8 +20,10 @@ repositories {
 }
 
 dependencies {
-    // The production code uses Guava
     compile 'com.google.guava:guava:20.0'
+    compile 'jsoup:jsoup:1.10.2'
+    compile 'com.fasterxml.jackson.core:jackson-annotations:2.8.5'
+    compile 'com.fasterxml.jackson.core:jackson-databind:2.8.5'
 
     // Use JUnit test framework
     testCompile 'junit:junit:4.12'
