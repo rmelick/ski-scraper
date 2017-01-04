@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10009",
+    "Name" : "PENZ Alain",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:34.16",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10781",
+    "Name" : "CHAFFEE Rick",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:34.96",
+    "Diff." : "+0.80",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:35.44",
+    "Diff." : "+1.28",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10935",
+    "Name" : "BLEINER Werner",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:35.63",
+    "Diff." : "+1.47",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10100",
+    "Name" : "COCHRAN Bob",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.32",
+    "Diff." : "+2.16",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.37",
+    "Diff." : "+3.21",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10734",
+    "Name" : "DUNCAN Peter",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.75",
+    "Diff." : "+3.59",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.77",
+    "Diff." : "+3.61",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10726",
+    "Name" : "RACHETTO Paul",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.09",
+    "Diff." : "+6.93",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10907",
+    "Name" : "PALMER Tyler",
+    "Year" : "1950",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.45",
+    "Diff." : "+7.29",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "420470",
+    "Name" : "KJUS Lasse",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "420382",
+    "Name" : "AAMODT Kjetil Andre",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+2.83"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "50423",
+    "Name" : "MAIER Hermann",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+7.09"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "50043",
+    "Name" : "FRANZ Werner",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+10.74"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "290255",
+    "Name" : "GHEDINA Kristian",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+10.97"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "510478",
+    "Name" : "KERNEN Bruno",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+11.94"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "510030",
+    "Name" : "CUCHE Didier",
+    "Year" : "1974",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+11.96"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "510476",
+    "Name" : "HERRMANN Markus",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+12.14"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "500139",
+    "Name" : "NYBERG Fredrik",
+    "Year" : "1969",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+12.30"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "290117",
+    "Name" : "CATTANEO Luca",
+    "Year" : "1972",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+18.12"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,201 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10158",
+    "Name" : "COOPER Christin",
+    "Year" : "1959",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.53",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10731",
+    "Name" : "PELEN Perrine",
+    "Year" : "1960",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.79",
+    "Diff." : "+0.26",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10912",
+    "Name" : "KONZETT Ursula",
+    "Year" : "1959",
+    "Nation" : "LIE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.11",
+    "Diff." : "+0.58",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10751",
+    "Name" : "WENZEL Petra",
+    "Year" : "",
+    "Nation" : "LIE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.60",
+    "Diff." : "+1.07",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10196",
+    "Name" : "ZINI Daniela",
+    "Year" : "1959",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.65",
+    "Diff." : "+1.12",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10760",
+    "Name" : "MACCHI Piera",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.97",
+    "Diff." : "+1.44",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10221",
+    "Name" : "TLALKA Dorota",
+    "Year" : "1963",
+    "Nation" : "POL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.50",
+    "Diff." : "+1.97",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10569",
+    "Name" : "TLALKA Malgorzata",
+    "Year" : "1963",
+    "Nation" : "POL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.51",
+    "Diff." : "+1.98",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10041",
+    "Name" : "LESKOVSEK Anja",
+    "Year" : "",
+    "Nation" : "JUG",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.56",
+    "Diff." : "+2.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10585",
+    "Name" : "QUARIO Maria-Rosa",
+    "Year" : "1961",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.61",
+    "Diff." : "+2.08",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10171",
+    "Name" : "NELSON Cindy",
+    "Year" : "1955",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.61",
+    "Diff." : "+2.08",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "-10932",
+    "Name" : "BIELER Wanda",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.73",
+    "Diff." : "+2.20",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "-10114",
+    "Name" : "ORTLI Brigitte",
+    "Year" : "1962",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.77",
+    "Diff." : "+2.24",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "-10042",
+    "Name" : "ZAVADLAV Anja",
+    "Year" : "",
+    "Nation" : "JUG",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:39.08",
+    "Diff." : "+2.55",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "-10552",
+    "Name" : "FRIGO Lorena",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:39.12",
+    "Diff." : "+2.59",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "-10269",
+    "Name" : "SERRAT Fabienne",
+    "Year" : "1956",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

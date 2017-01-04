@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10761",
+    "Name" : "GROS Piero",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:40.41",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10341",
+    "Name" : "THOENI Gustavo",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:40.48",
+    "Diff." : "+0.07",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10154",
+    "Name" : "NEUREUTHER Christian",
+    "Year" : "1949",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:40.68",
+    "Diff." : "+0.27",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10100",
+    "Name" : "COCHRAN Bob",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.25",
+    "Diff." : "+0.84",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10174",
+    "Name" : "PERROT Claude",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.69",
+    "Diff." : "+1.28",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10890",
+    "Name" : "PIETROGIOVANNA Tino",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.29",
+    "Diff." : "+1.88",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10281",
+    "Name" : "FERNANDEZ-OCHOA Francisco",
+    "Year" : "1950",
+    "Nation" : "ESP",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.42",
+    "Diff." : "+2.01",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10930",
+    "Name" : "TRESCH Walter",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.43",
+    "Diff." : "+2.02",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10204",
+    "Name" : "ZWILLING David",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.44",
+    "Diff." : "+2.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10633",
+    "Name" : "RIEGER Max",
+    "Year" : "1946",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.46",
+    "Diff." : "+2.05",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

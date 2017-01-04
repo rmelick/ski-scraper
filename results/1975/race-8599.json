@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10931",
+    "Name" : "VESTI Walter",
+    "Year" : "1950",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10776",
+    "Name" : "BERTHOD Rene",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.07"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10756",
+    "Name" : "ROUX Philippe",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.68"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10250",
+    "Name" : "HAKER Erik",
+    "Year" : "1952",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.44"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10377",
+    "Name" : "PLANK Herbert",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.56"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10259",
+    "Name" : "WINKLER Ernst",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.69"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.90"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10506",
+    "Name" : "READ Ken",
+    "Year" : "1955",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+3.03"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10341",
+    "Name" : "THOENI Gustavo",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.32"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10715",
+    "Name" : "PELLAT-FINET Patrice",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.65"
+  }, {
+    "Rank" : ""
+  } ]
+}

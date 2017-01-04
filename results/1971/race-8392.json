@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10341",
+    "Name" : "THOENI Gustavo",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:35.15",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10436",
+    "Name" : "AUGERT Jean-Noel",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.26",
+    "Diff." : "+1.11",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10719",
+    "Name" : "RUSSEL Patrick",
+    "Year" : "1946",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.63",
+    "Diff." : "+1.48",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10355",
+    "Name" : "ROFFNER Harald",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.99",
+    "Diff." : "+1.84",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10234",
+    "Name" : "BRUGGMANN Edmund",
+    "Year" : "1943",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.78",
+    "Diff." : "+2.63",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10154",
+    "Name" : "NEUREUTHER Christian",
+    "Year" : "1949",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.28",
+    "Diff." : "+3.13",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10024",
+    "Name" : "MATT Alfred",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.80",
+    "Diff." : "+3.65",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10009",
+    "Name" : "PENZ Alain",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.81",
+    "Diff." : "+3.66",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10738",
+    "Name" : "FREI Peter",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:39.21",
+    "Diff." : "+4.06",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10204",
+    "Name" : "ZWILLING David",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:39.26",
+    "Diff." : "+4.11",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

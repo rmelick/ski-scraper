@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10253",
+    "Name" : "SCHINEGGER Erika",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.31"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.37"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10680",
+    "Name" : "GREENE Nancy",
+    "Year" : "1943",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.78"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10904",
+    "Name" : "HECHER Traudl",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.98"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.65"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.69"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10876",
+    "Name" : "CHAFFEE Suzy",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.74"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.35"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10328",
+    "Name" : "DEMETZ Giustina",
+    "Year" : "1941",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.36"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10169",
+    "Name" : "HAAS Christl",
+    "Year" : "1943",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.26"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10215",
+    "Name" : "GALICA Divina",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.47"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10115",
+    "Name" : "SEIWALD Brigitte",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.69"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10054",
+    "Name" : "ZYRD Annerösli",
+    "Year" : "1949",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.84"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10123",
+    "Name" : "FARBINGER Burgl",
+    "Year" : "1945",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.96"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.28"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.69"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10245",
+    "Name" : "PALL Elizabeth",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.72"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10947",
+    "Name" : "DREXEL Wiltrud",
+    "Year" : "1950",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.56"
+  }, {
+    "Rank" : ""
+  } ]
+}

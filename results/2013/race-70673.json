@@ -1,0 +1,117 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "1",
+    "FIS Code" : "53831",
+    "Name" : "HIRSCHER Marcel",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "2",
+    "Bib" : "3",
+    "FIS Code" : "501017",
+    "Name" : "MYHRER Andre",
+    "Year" : "1983",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "3",
+    "Bib" : "4",
+    "FIS Code" : "380260",
+    "Name" : "KOSTELIC Ivica",
+    "Year" : "1979",
+    "Nation" : "CRO"
+  }, {
+    "Rank" : "4",
+    "Bib" : "2",
+    "FIS Code" : "201702",
+    "Name" : "NEUREUTHER Felix",
+    "Year" : "1984",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "Bib" : "12",
+    "FIS Code" : "534508",
+    "Name" : "CHODOUNSKY David",
+    "Year" : "1984",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "5",
+    "Bib" : "10",
+    "FIS Code" : "192665",
+    "Name" : "GRANGE Jean-Baptiste",
+    "Year" : "1984",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "Bib" : "8",
+    "FIS Code" : "501101",
+    "Name" : "BYGGMARK Jens",
+    "Year" : "1985",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "5",
+    "Bib" : "6",
+    "FIS Code" : "202462",
+    "Name" : "DOPFER Fritz",
+    "Year" : "1987",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "9",
+    "Bib" : "16",
+    "FIS Code" : "421849",
+    "Name" : "JOHANSEN Truls",
+    "Year" : "1989",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "9",
+    "Bib" : "15",
+    "FIS Code" : "54063",
+    "Name" : "FELLER Manuel",
+    "Year" : "1992",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "14",
+    "FIS Code" : "421669",
+    "Name" : "HAUGEN Leif Kristian",
+    "Year" : "1987",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "9",
+    "Bib" : "13",
+    "FIS Code" : "480736",
+    "Name" : "KHOROSHILOV Alexander",
+    "Year" : "1984",
+    "Nation" : "RUS"
+  }, {
+    "Rank" : "9",
+    "Bib" : "11",
+    "FIS Code" : "50981",
+    "Name" : "HOERL Wolfgang",
+    "Year" : "1983",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "9",
+    "FIS Code" : "50605",
+    "Name" : "HERBST Reinfried",
+    "Year" : "1978",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "7",
+    "FIS Code" : "293797",
+    "Name" : "GROSS Stefano",
+    "Year" : "1986",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "5",
+    "FIS Code" : "292491",
+    "Name" : "MOELGG Manfred",
+    "Year" : "1982",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : ""
+  } ]
+}

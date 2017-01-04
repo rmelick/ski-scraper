@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10094",
+    "Name" : "KIDD Billy",
+    "Year" : "1943",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.55",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10009",
+    "Name" : "PENZ Alain",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.95",
+    "Diff." : "+0.40",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10719",
+    "Name" : "RUSSEL Patrick",
+    "Year" : "1946",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.17",
+    "Diff." : "+0.62",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10781",
+    "Name" : "CHAFFEE Rick",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.20",
+    "Diff." : "+0.65",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10376",
+    "Name" : "HUBER Herbert",
+    "Year" : "1944",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.28",
+    "Diff." : "+0.73",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.37",
+    "Diff." : "+0.82",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.40",
+    "Diff." : "+0.85",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10772",
+    "Name" : "TRITSCHER Reinhard",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.42",
+    "Diff." : "+0.87",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10035",
+    "Name" : "BACHLEDA I Andrzej",
+    "Year" : "1947",
+    "Nation" : "POL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.02",
+    "Diff." : "+1.47",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10861",
+    "Name" : "SABICH Spider",
+    "Year" : "1945",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.17",
+    "Diff." : "+1.62",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

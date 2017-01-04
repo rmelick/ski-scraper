@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10680",
+    "Name" : "GREENE Nancy",
+    "Year" : "1943",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:23.29",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:23.89",
+    "Diff." : "+0.60",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10276",
+    "Name" : "BOCHATAY Fernande",
+    "Year" : "1946",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:24.13",
+    "Diff." : "+0.84",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10315",
+    "Name" : "GABL Gertrude",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:25.16",
+    "Diff." : "+1.87",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:25.39",
+    "Diff." : "+2.10",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10215",
+    "Name" : "GALICA Divina",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:25.42",
+    "Diff." : "+2.13",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10508",
+    "Name" : "CUTTER Kiki",
+    "Year" : "1949",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:25.83",
+    "Diff." : "+2.54",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10815",
+    "Name" : "MITTERMAIER Rosi",
+    "Year" : "1950",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:26.18",
+    "Diff." : "+2.89",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10123",
+    "Name" : "FARBINGER Burgl",
+    "Year" : "1945",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:26.21",
+    "Diff." : "+2.92",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:26.96",
+    "Diff." : "+3.67",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

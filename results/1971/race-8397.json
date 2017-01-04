@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10290",
+    "Name" : "VOGLER Franz",
+    "Year" : "1944",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+0.56"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10636",
+    "Name" : "DAETWYLER Michael",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.60"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.84"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10646",
+    "Name" : "STEFANI Michele",
+    "Year" : "1948",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.09"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10568",
+    "Name" : "MILNE Malcolm",
+    "Year" : "1948",
+    "Nation" : "AUS",
+    "Total Time" : "0.00",
+    "Diff." : "+1.44"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.44"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10762",
+    "Name" : "CHARVIN Pierre",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.78"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.87"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.96"
+  }, {
+    "Rank" : ""
+  } ]
+}

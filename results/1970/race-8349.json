@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10719",
+    "Name" : "RUSSEL Patrick",
+    "Year" : "1946",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:25.85",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10009",
+    "Name" : "PENZ Alain",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:26.93",
+    "Diff." : "+1.08",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10373",
+    "Name" : "BRECHU Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:27.30",
+    "Diff." : "+1.45",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10154",
+    "Name" : "NEUREUTHER Christian",
+    "Year" : "1949",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:27.92",
+    "Diff." : "+2.07",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10633",
+    "Name" : "RIEGER Max",
+    "Year" : "1946",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:27.96",
+    "Diff." : "+2.11",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10701",
+    "Name" : "ROLEN Olle",
+    "Year" : "",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:28.46",
+    "Diff." : "+2.61",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10738",
+    "Name" : "FREI Peter",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:28.90",
+    "Diff." : "+3.05",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10100",
+    "Name" : "COCHRAN Bob",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:28.95",
+    "Diff." : "+3.10",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10344",
+    "Name" : "BJORGE Hakan",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:29.16",
+    "Diff." : "+3.31",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:29.24",
+    "Diff." : "+3.39",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

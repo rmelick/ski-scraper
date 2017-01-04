@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:31.50",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.41",
+    "Diff." : "+0.91",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.67",
+    "Diff." : "+1.17",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10904",
+    "Name" : "HECHER Traudl",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:34.11",
+    "Diff." : "+2.61",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:34.31",
+    "Diff." : "+2.81",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10730",
+    "Name" : "MCCOY Penny",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.67",
+    "Diff." : "+5.17",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10329",
+    "Name" : "CIPOLLA Glorianda",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:36.88",
+    "Diff." : "+5.38",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.04",
+    "Diff." : "+5.54",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10081",
+    "Name" : "RAUTER Bernadette",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:37.44",
+    "Diff." : "+5.94",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10876",
+    "Name" : "CHAFFEE Suzy",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:38.05",
+    "Diff." : "+6.55",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

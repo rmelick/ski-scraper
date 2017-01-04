@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10772",
+    "Name" : "TRITSCHER Reinhard",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:01.58",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10861",
+    "Name" : "SABICH Spider",
+    "Year" : "1945",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:02.01",
+    "Diff." : "+0.43",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10738",
+    "Name" : "FREI Peter",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:02.15",
+    "Diff." : "+0.57",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10024",
+    "Name" : "MATT Alfred",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:02.30",
+    "Diff." : "+0.72",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10224",
+    "Name" : "GIOVANOLI Dumeng",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:02.49",
+    "Diff." : "+0.91",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10178",
+    "Name" : "DE TASIS Claudio",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:03.03",
+    "Diff." : "+1.45",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:03.66",
+    "Diff." : "+2.08",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10438",
+    "Name" : "AUGERT Jean-Pierre",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:04.21",
+    "Diff." : "+2.63",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:04.37",
+    "Diff." : "+2.79",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:04.38",
+    "Diff." : "+2.80",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

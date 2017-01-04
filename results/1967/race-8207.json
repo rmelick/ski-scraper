@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10376",
+    "Name" : "HUBER Herbert",
+    "Year" : "1944",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:05.03",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10301",
+    "Name" : "MAUDUIT Georges",
+    "Year" : "1942",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:05.64",
+    "Diff." : "+0.61",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10935",
+    "Name" : "BLEINER Werner",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:07.54",
+    "Diff." : "+2.51",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10541",
+    "Name" : "LACROIX Leo",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:07.76",
+    "Diff." : "+2.73",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10224",
+    "Name" : "GIOVANOLI Dumeng",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:09.38",
+    "Diff." : "+4.35",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10861",
+    "Name" : "SABICH Spider",
+    "Year" : "1945",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:09.41",
+    "Diff." : "+4.38",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10835",
+    "Name" : "HENDERSON Scott",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:09.90",
+    "Diff." : "+4.87",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10451",
+    "Name" : "CLOUGH John",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:10.78",
+    "Diff." : "+5.75",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10207",
+    "Name" : "MCCOY Dennis",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:11.05",
+    "Diff." : "+6.02",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:11.08",
+    "Diff." : "+6.05",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

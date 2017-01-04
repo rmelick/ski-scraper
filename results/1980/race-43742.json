@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10033",
+    "Name" : "WENZEL Andreas",
+    "Year" : "1958",
+    "Nation" : "LIE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.10",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10154",
+    "Name" : "NEUREUTHER Christian",
+    "Year" : "1949",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.78",
+    "Diff." : "+0.68",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10415",
+    "Name" : "LUTHY Jacques",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.91",
+    "Diff." : "+0.81",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10104",
+    "Name" : "KRIZAJ Bojan",
+    "Year" : "1957",
+    "Nation" : "SLO",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:41.94",
+    "Diff." : "+0.84",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10121",
+    "Name" : "NOCKLER Bruno",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.02",
+    "Diff." : "+0.92",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "50031",
+    "Name" : "ENN Hans",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.07",
+    "Diff." : "+0.97",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10727",
+    "Name" : "SKAJEM Paul-Arne",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.14",
+    "Diff." : "+1.04",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10761",
+    "Name" : "GROS Piero",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.22",
+    "Diff." : "+1.12",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10728",
+    "Name" : "DE CHIESA Paolo",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.46",
+    "Diff." : "+1.36",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10871",
+    "Name" : "STRAND Stig",
+    "Year" : "1956",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.49",
+    "Diff." : "+1.39",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

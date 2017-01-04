@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:23.86",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:26.86",
+    "Diff." : "+3.00",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10118",
+    "Name" : "LAFFORGUE Britt",
+    "Year" : "1948",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:27.78",
+    "Diff." : "+3.92",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10285",
+    "Name" : "MACCHI Francoise",
+    "Year" : "1951",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:29.59",
+    "Diff." : "+5.73",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10811",
+    "Name" : "JOUX Roselda",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:30.24",
+    "Diff." : "+6.38",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10157",
+    "Name" : "RAY Christiane",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.38",
+    "Diff." : "+8.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10072",
+    "Name" : "NEWALL B",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.95",
+    "Diff." : "+9.09",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10414",
+    "Name" : "ROUVIER Jacqueline",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:33.97",
+    "Diff." : "+10.11",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10707",
+    "Name" : "STRAUSS P",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:34.12",
+    "Diff." : "+10.26",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10583",
+    "Name" : "SCHRANZ Maria Roberta",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:34.56",
+    "Diff." : "+10.70",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

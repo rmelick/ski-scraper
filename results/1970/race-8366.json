@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10009",
+    "Name" : "PENZ Alain",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:04.47",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10935",
+    "Name" : "BLEINER Werner",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:04.49",
+    "Diff." : "+0.02",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10719",
+    "Name" : "RUSSEL Patrick",
+    "Year" : "1946",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:06.37",
+    "Diff." : "+1.90",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10416",
+    "Name" : "TISCHHAUSER Jakob",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:06.41",
+    "Diff." : "+1.94",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:06.98",
+    "Diff." : "+2.51",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10633",
+    "Name" : "RIEGER Max",
+    "Year" : "1946",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:07.43",
+    "Diff." : "+2.96",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10734",
+    "Name" : "DUNCAN Peter",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:07.99",
+    "Diff." : "+3.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:08.12",
+    "Diff." : "+3.65",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10224",
+    "Name" : "GIOVANOLI Dumeng",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:08.26",
+    "Diff." : "+3.79",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:08.41",
+    "Diff." : "+3.94",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

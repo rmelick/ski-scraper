@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10117",
+    "Name" : "TOTSCHNIG Brigitte",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10197",
+    "Name" : "DEBERNARD Danielle",
+    "Year" : "1954",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.39"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10815",
+    "Name" : "MITTERMAIER Rosi",
+    "Year" : "1950",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+0.51"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10675",
+    "Name" : "KASERER Monika",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.06"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10171",
+    "Name" : "NELSON Cindy",
+    "Year" : "1955",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.06"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10685",
+    "Name" : "SPIESS Nicola",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.26"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10265",
+    "Name" : "MITTERMAIER Evi",
+    "Year" : "1952",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.27"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10617",
+    "Name" : "ELLMER Martina",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.34"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10082",
+    "Name" : "ZURBRIGGEN Bernadette",
+    "Year" : "1956",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.37"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10599",
+    "Name" : "NADIG Marie-Therese",
+    "Year" : "1954",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.51"
+  }, {
+    "Rank" : ""
+  } ]
+}

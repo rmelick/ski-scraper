@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10289",
+    "Name" : "KLAMMER Franz",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.09"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10756",
+    "Name" : "ROUX Philippe",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.29"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10100",
+    "Name" : "COCHRAN Bob",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.37"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10204",
+    "Name" : "ZWILLING David",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.64"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10337",
+    "Name" : "BESSON Guiliano",
+    "Year" : "1950",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.89"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10462",
+    "Name" : "LOIDL Josef",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.24"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.31"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.54"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10283",
+    "Name" : "BIELER Franco",
+    "Year" : "1950",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.69"
+  }, {
+    "Rank" : ""
+  } ]
+}

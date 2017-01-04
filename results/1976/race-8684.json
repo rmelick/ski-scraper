@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10506",
+    "Name" : "READ Ken",
+    "Year" : "1955",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10377",
+    "Name" : "PLANK Herbert",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.61"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.65"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10200",
+    "Name" : "IRWIN Dave",
+    "Year" : "1954",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+0.88"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.26"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10756",
+    "Name" : "ROUX Philippe",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.80"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10639",
+    "Name" : "VEITH Michael",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.87"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.09"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10442",
+    "Name" : "HUNTER Jim",
+    "Year" : "1953",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.14"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10869",
+    "Name" : "PODBORSKI Steve",
+    "Year" : "1957",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.31"
+  }, {
+    "Rank" : ""
+  } ]
+}

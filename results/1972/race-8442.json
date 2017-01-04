@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.19"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.50"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.22"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.49"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10568",
+    "Name" : "MILNE Malcolm",
+    "Year" : "1948",
+    "Nation" : "AUS",
+    "Total Time" : "0.00",
+    "Diff." : "+1.77"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10805",
+    "Name" : "COLLUMBIN Rolland",
+    "Year" : "1951",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.04"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.09"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10100",
+    "Name" : "COCHRAN Bob",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.64"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10462",
+    "Name" : "LOIDL Josef",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.64"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,68 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "385022",
+    "Name" : "KOSTELIC Janica",
+    "Year" : "1982",
+    "Nation" : "CRO",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "205117",
+    "Name" : "GERG Hilde",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+0.54"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "425031",
+    "Name" : "GIMLE Trude",
+    "Year" : "1974",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+0.59"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "55198",
+    "Name" : "DORFMEISTER Michaela",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.05"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "55212",
+    "Name" : "MEISSNITZER Alexandra",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.52"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "55261",
+    "Name" : "OBERMOSER Brigitte",
+    "Year" : "1976",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.15"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "515348",
+    "Name" : "BORGHI Catherine",
+    "Year" : "1976",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+6.29"
+  }, {
+    "Rank" : ""
+  } ]
+}

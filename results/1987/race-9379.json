@@ -1,0 +1,140 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10743",
+    "Name" : "MULLER Peter",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "360002",
+    "Name" : "GIRARDELLI Marc",
+    "Year" : "1963",
+    "Nation" : "LUX",
+    "Total Time" : "0.00",
+    "Diff." : "+0.75"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10638",
+    "Name" : "MAIR Michael",
+    "Year" : "1962",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.95"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10490",
+    "Name" : "ALPIGER Karl",
+    "Year" : "1961",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.98"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "100040",
+    "Name" : "BOYD Rob",
+    "Year" : "1966",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.15"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10822",
+    "Name" : "HUBER Rudolf",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.22"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10222",
+    "Name" : "LEWIS Doug",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.41"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10219",
+    "Name" : "STEVENS Donald",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.46"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10380",
+    "Name" : "AIHARA Hiroyuki",
+    "Year" : "",
+    "Nation" : "JPN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.64"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "200088",
+    "Name" : "GATTERMANN Klaus",
+    "Year" : "1961",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.81"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "-10651",
+    "Name" : "CARNEY Mike",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.86"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "-10750",
+    "Name" : "WIRNSBERGER Peter",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.87"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "50199",
+    "Name" : "STOCK Leonard",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.04"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "530284",
+    "Name" : "OLSON Jeff",
+    "Year" : "1966",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.07"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "100017",
+    "Name" : "BELCZYK Felix",
+    "Year" : "1961",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.08"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.54"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10866",
+    "Name" : "ANZI Stefano",
+    "Year" : "1949",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.57"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10646",
+    "Name" : "STEFANI Michele",
+    "Year" : "1948",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.68"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.72"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.75"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.82"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10930",
+    "Name" : "TRESCH Walter",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.83"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.88"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10772",
+    "Name" : "TRITSCHER Reinhard",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.94"
+  }, {
+    "Rank" : ""
+  } ]
+}

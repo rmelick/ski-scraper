@@ -1,0 +1,203 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "195277",
+    "Name" : "PICCARD Leila",
+    "Year" : "1971",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "505084",
+    "Name" : "NOWEN Ylva",
+    "Year" : "1970",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "55212",
+    "Name" : "MEISSNITZER Alexandra",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "205378",
+    "Name" : "ERTL Martina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "55068",
+    "Name" : "SALVENMOSER Ingrid",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "55302",
+    "Name" : "EGGER Sabine",
+    "Year" : "1977",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "425077",
+    "Name" : "MARKEN Ingeborg Helen",
+    "Year" : "1975",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "295588",
+    "Name" : "KOSTNER Isolde",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "195113",
+    "Name" : "MASNADA Florence",
+    "Year" : "1968",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "195195",
+    "Name" : "CAVAGNOUD Regine",
+    "Year" : "1970",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "55075",
+    "Name" : "SCHUSTER Stefanie",
+    "Year" : "1969",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "55069",
+    "Name" : "GOETSCHL Renate",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "195374",
+    "Name" : "MONTILLET Carole",
+    "Year" : "1973",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "515348",
+    "Name" : "BORGHI Catherine",
+    "Year" : "1976",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "515374",
+    "Name" : "ROTEN MEIER Karin",
+    "Year" : "1976",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "295117",
+    "Name" : "MAGONI Lara",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "295267",
+    "Name" : "COMPAGNONI Deborah",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "18",
+    "Bib" : "",
+    "FIS Code" : "295191",
+    "Name" : "MERLIN Barbara",
+    "Year" : "1972",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "205171",
+    "Name" : "SEIZINGER Katja",
+    "Year" : "1972",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "515268",
+    "Name" : "NEF Sonja",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "21",
+    "Bib" : "",
+    "FIS Code" : "205117",
+    "Name" : "GERG Hilde",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "515142",
+    "Name" : "ZURBRIGGEN Heidi",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ]
+}

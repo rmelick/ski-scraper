@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10051",
+    "Name" : "MOSER-PROELL Annemarie",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10414",
+    "Name" : "ROUVIER Jacqueline",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.22"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.40"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10947",
+    "Name" : "DREXEL Wiltrud",
+    "Year" : "1950",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.55"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.65"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10874",
+    "Name" : "CORROCK Susie",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.81"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10647",
+    "Name" : "JACOT Michelle",
+    "Year" : "1952",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.92"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10580",
+    "Name" : "HAFEN Margret",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+2.06"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10602",
+    "Name" : "COCHRAN Marilyn",
+    "Year" : "1950",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.08"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10469",
+    "Name" : "CRAWFORD Judy",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.42"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,86 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10752",
+    "Name" : "MAHRE Phil",
+    "Year" : "1957",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10743",
+    "Name" : "MULLER Peter",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10033",
+    "Name" : "WENZEL Andreas",
+    "Year" : "1958",
+    "Nation" : "LIE",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10104",
+    "Name" : "KRIZAJ Bojan",
+    "Year" : "1957",
+    "Nation" : "JUG",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10851",
+    "Name" : "KERSCHBAUMER Sigfrid",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "200088",
+    "Name" : "GATTERMANN Klaus",
+    "Year" : "1961",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "200271",
+    "Name" : "ROTH Peter",
+    "Year" : "1961",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10106",
+    "Name" : "STREL Boris",
+    "Year" : "1959",
+    "Nation" : "JUG",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10789",
+    "Name" : "MCKEE Robert",
+    "Year" : "",
+    "Nation" : "IRL",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ]
+}

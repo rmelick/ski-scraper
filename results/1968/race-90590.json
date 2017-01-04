@@ -1,0 +1,115 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:25.86",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10680",
+    "Name" : "GREENE Nancy",
+    "Year" : "1943",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:26.15",
+    "Diff." : "+0.29"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:27.89",
+    "Diff." : "+2.03"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10319",
+    "Name" : "HATHORN Gina",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:27.92",
+    "Diff." : "+2.06"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:28.22",
+    "Diff." : "+2.36"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10123",
+    "Name" : "FARBINGER Burgl",
+    "Year" : "1945",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:28.90",
+    "Diff." : "+3.04"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10329",
+    "Name" : "CIPOLLA Glorianda",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:29.74",
+    "Diff." : "+3.88"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10081",
+    "Name" : "RAUTER Bernadette",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:30.44",
+    "Diff." : "+4.58"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:31.11",
+    "Diff." : "+5.25"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10164",
+    "Name" : "LAPRELL Christine",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:31.25",
+    "Diff." : "+5.39"
+  }, {
+    "Rank" : ""
+  } ]
+}

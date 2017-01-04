@@ -1,0 +1,77 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "50423",
+    "Name" : "MAIER Hermann",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "510478",
+    "Name" : "KERNEN Bruno Ii",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.66"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "510001",
+    "Name" : "ACCOLA Paul",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.73"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "530527",
+    "Name" : "GROSJEAN Matthew",
+    "Year" : "1970",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+6.12"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "50024",
+    "Name" : "EBERHARTER Stephan",
+    "Year" : "1969",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+8.46"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "50043",
+    "Name" : "FRANZ Werner",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+9.38"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "500150",
+    "Name" : "JAERBYN Patrik",
+    "Year" : "1969",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+10.46"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "50124",
+    "Name" : "SCHIFFERER Andreas",
+    "Year" : "1974",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+11.14"
+  }, {
+    "Rank" : ""
+  } ]
+}

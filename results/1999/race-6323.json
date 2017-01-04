@@ -1,0 +1,255 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "55212",
+    "Name" : "MEISSNITZER Alexandra",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "1:54.16",
+    "Diff." : "",
+    "FIS Points" : "-4.00",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "425077",
+    "Name" : "MARKEN Ingeborg Helen",
+    "Year" : "1975",
+    "Nation" : "NOR",
+    "Total Time" : "1:54.47",
+    "Diff." : "+0.31",
+    "FIS Points" : "-0.50",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "105546",
+    "Name" : "TURGEON Melanie",
+    "Year" : "1976",
+    "Nation" : "CAN",
+    "Total Time" : "1:54.70",
+    "Diff." : "+0.54",
+    "FIS Points" : "2.10",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "55069",
+    "Name" : "GOETSCHL Renate",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Total Time" : "1:54.97",
+    "Diff." : "+0.81",
+    "FIS Points" : "5.15",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "195113",
+    "Name" : "MASNADA Florence",
+    "Year" : "1968",
+    "Nation" : "FRA",
+    "Total Time" : "1:55.00",
+    "Diff." : "+0.84",
+    "FIS Points" : "5.49",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "55198",
+    "Name" : "DORFMEISTER Michaela",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "1:55.01",
+    "Diff." : "+0.85",
+    "FIS Points" : "5.60",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "535505",
+    "Name" : "GERETY Megan",
+    "Year" : "1971",
+    "Nation" : "USA",
+    "Total Time" : "1:55.66",
+    "Diff." : "+1.50",
+    "FIS Points" : "12.95",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "205117",
+    "Name" : "GERG Hilde",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "1:55.84",
+    "Diff." : "+1.68",
+    "FIS Points" : "14.98",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "205392",
+    "Name" : "HAEUSL Regina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Total Time" : "1:55.85",
+    "Diff." : "+1.69",
+    "FIS Points" : "15.10",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "195374",
+    "Name" : "MONTILLET Carole",
+    "Year" : "1973",
+    "Nation" : "FRA",
+    "Total Time" : "1:55.88",
+    "Diff." : "+1.72",
+    "FIS Points" : "15.44",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "295588",
+    "Name" : "KOSTNER Isolde",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Total Time" : "1:55.89",
+    "Diff." : "+1.73",
+    "FIS Points" : "15.55",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "55261",
+    "Name" : "OBERMOSER Brigitte",
+    "Year" : "1976",
+    "Nation" : "AUT",
+    "Total Time" : "1:56.02",
+    "Diff." : "+1.86",
+    "FIS Points" : "17.02",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "515409",
+    "Name" : "BERTHOD Sylviane",
+    "Year" : "1977",
+    "Nation" : "SUI",
+    "Total Time" : "1:56.12",
+    "Diff." : "+1.96",
+    "FIS Points" : "18.15",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "295463",
+    "Name" : "BASSIS Patrizia",
+    "Year" : "1973",
+    "Nation" : "ITA",
+    "Total Time" : "1:56.23",
+    "Diff." : "+2.07",
+    "FIS Points" : "19.39",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "565037",
+    "Name" : "SUHADOLC Mojca",
+    "Year" : "1975",
+    "Nation" : "SLO",
+    "Total Time" : "1:56.23",
+    "Diff." : "+2.07",
+    "FIS Points" : "19.39",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "205043",
+    "Name" : "BRAUNER Sibylle",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "1:56.34",
+    "Diff." : "+2.18",
+    "FIS Points" : "20.63",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "55051",
+    "Name" : "SALCHINGER Marianna",
+    "Year" : "1974",
+    "Nation" : "AUT",
+    "Total Time" : "1:56.66",
+    "Diff." : "+2.50",
+    "FIS Points" : "24.25",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "",
+    "FIS Code" : "515098",
+    "Name" : "REY BELLET Corinne",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "1:56.68",
+    "Diff." : "+2.52",
+    "FIS Points" : "24.48",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "295303",
+    "Name" : "PEREZ Bibiana",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Total Time" : "1:56.78",
+    "Diff." : "+2.62",
+    "FIS Points" : "25.61",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "385022",
+    "Name" : "KOSTELIC Janica",
+    "Year" : "1982",
+    "Nation" : "CRO",
+    "Total Time" : "1:57.02",
+    "Diff." : "+2.86",
+    "FIS Points" : "28.32",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "Did not start 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "55383",
+    "Name" : "BLASER Karin",
+    "Year" : "1979",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "195503",
+    "Name" : "SUCHET Melanie",
+    "Year" : "1976",
+    "Nation" : "FRA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

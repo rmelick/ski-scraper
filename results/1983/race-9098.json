@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10752",
+    "Name" : "MAHRE Phil",
+    "Year" : "1957",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10033",
+    "Name" : "WENZEL Andreas",
+    "Year" : "1958",
+    "Nation" : "LIE",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "360002",
+    "Name" : "GIRARDELLI Marc",
+    "Year" : "1963",
+    "Nation" : "LUX",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10764",
+    "Name" : "ZURBRIGGEN Pirmin",
+    "Year" : "1963",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10741",
+    "Name" : "LUSCHER Peter",
+    "Year" : "1956",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10120",
+    "Name" : "KERNEN Bruno",
+    "Year" : "1961",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10855",
+    "Name" : "MELI Silvano",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10870",
+    "Name" : "LEE Steven",
+    "Year" : "1962",
+    "Nation" : "AUS",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10911",
+    "Name" : "RABER Urs",
+    "Year" : "1958",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "540001",
+    "Name" : "VON HOHENLOHE Hubertus",
+    "Year" : "1959",
+    "Nation" : "MEX",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ]
+}

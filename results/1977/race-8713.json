@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10075",
+    "Name" : "GENSBICHLER Bartl",
+    "Year" : "1956",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10259",
+    "Name" : "WINKLER Ernst",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.22"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10737",
+    "Name" : "FISCHER Peter",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+0.61"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.23"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "50199",
+    "Name" : "STOCK Leonard",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.47"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10466",
+    "Name" : "WALCHER Josef",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.84"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.89"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10614",
+    "Name" : "BERTHOD Martin",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.94"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10776",
+    "Name" : "BERTHOD Rene",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.96"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10750",
+    "Name" : "WIRNSBERGER Peter",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.11"
+  }, {
+    "Rank" : ""
+  } ]
+}

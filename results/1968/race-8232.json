@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10094",
+    "Name" : "KIDD Billy",
+    "Year" : "1943",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:06.18",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10376",
+    "Name" : "HUBER Herbert",
+    "Year" : "1944",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:06.28",
+    "Diff." : "+0.10",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10024",
+    "Name" : "MATT Alfred",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:06.56",
+    "Diff." : "+0.38",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10427",
+    "Name" : "KILLY Jean-Claude",
+    "Year" : "1943",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:07.13",
+    "Diff." : "+0.95",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:09.77",
+    "Diff." : "+3.59",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10444",
+    "Name" : "HUEGA Jimmy",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:12.15",
+    "Diff." : "+5.97",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10207",
+    "Name" : "MCCOY Dennis",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:13.34",
+    "Diff." : "+7.16",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10734",
+    "Name" : "DUNCAN Peter",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:13.64",
+    "Diff." : "+7.46",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10234",
+    "Name" : "BRUGGMANN Edmund",
+    "Year" : "1943",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:14.21",
+    "Diff." : "+8.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10790",
+    "Name" : "SWAN Robert",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:16.79",
+    "Diff." : "+10.61",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

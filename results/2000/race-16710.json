@@ -1,0 +1,113 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "420382",
+    "Name" : "AAMODT Kjetil Andre",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "500139",
+    "Name" : "NYBERG Fredrik",
+    "Year" : "1969",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+3.71"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "50423",
+    "Name" : "MAIER Hermann",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+4.32"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "50182",
+    "Name" : "STROBL Fritz",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+6.60"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "510478",
+    "Name" : "KERNEN Bruno",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+6.95"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "510001",
+    "Name" : "ACCOLA Paul",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+6.97"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "290255",
+    "Name" : "GHEDINA Kristian",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+8.32"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "350032",
+    "Name" : "BUECHEL Marco",
+    "Year" : "1971",
+    "Nation" : "LIE",
+    "Total Time" : "0.00",
+    "Diff." : "+9.39"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "50043",
+    "Name" : "FRANZ Werner",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+9.85"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "50221",
+    "Name" : "TRINKL Hannes",
+    "Year" : "1968",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+10.75"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "190930",
+    "Name" : "DENERIAZ Antoine",
+    "Year" : "1976",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+10.99"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "500150",
+    "Name" : "JAERBYN Patrik",
+    "Year" : "1969",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+14.02"
+  }, {
+    "Rank" : ""
+  } ]
+}

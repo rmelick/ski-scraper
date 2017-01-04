@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10907",
+    "Name" : "PALMER Tyler",
+    "Year" : "1950",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:55.30",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10436",
+    "Name" : "AUGERT Jean-Noel",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:55.84",
+    "Diff." : "+0.54",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10355",
+    "Name" : "ROFFNER Harald",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:56.15",
+    "Diff." : "+0.85",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10804",
+    "Name" : "THOENI Rolando",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:56.44",
+    "Diff." : "+1.14",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10341",
+    "Name" : "THOENI Gustavo",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:56.57",
+    "Diff." : "+1.27",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:57.65",
+    "Diff." : "+2.35",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10281",
+    "Name" : "FERNANDEZ-OCHOA Francisco",
+    "Year" : "1950",
+    "Nation" : "ESP",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:58.02",
+    "Diff." : "+2.72",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10035",
+    "Name" : "BACHLEDA I Andrzej",
+    "Year" : "1947",
+    "Nation" : "POL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:58.33",
+    "Diff." : "+3.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10706",
+    "Name" : "TSCHUDI Otto",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:58.45",
+    "Diff." : "+3.15",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10234",
+    "Name" : "BRUGGMANN Edmund",
+    "Year" : "1943",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:58.45",
+    "Diff." : "+3.15",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

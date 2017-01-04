@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "50127",
+    "Name" : "MADER Guenther",
+    "Year" : "1964",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "420382",
+    "Name" : "AAMODT Kjetil Andre",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.18"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "510478",
+    "Name" : "KERNEN Bruno Ii",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.25"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "420102",
+    "Name" : "JAGGE Finn Chr.",
+    "Year" : "1966",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+3.51"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "510001",
+    "Name" : "ACCOLA Paul",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.85"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "500139",
+    "Name" : "NYBERG Fredrik",
+    "Year" : "1969",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+5.90"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "290255",
+    "Name" : "GHEDINA Kristian",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+6.70"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "50124",
+    "Name" : "SCHIFFERER Andreas",
+    "Year" : "1974",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+7.63"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "50043",
+    "Name" : "FRANZ Werner",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+8.89"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "560013",
+    "Name" : "BREZAVSEK Ales",
+    "Year" : "1972",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+11.06"
+  }, {
+    "Rank" : ""
+  } ]
+}

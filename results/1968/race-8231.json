@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10680",
+    "Name" : "GREENE Nancy",
+    "Year" : "1943",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.88"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.77"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10081",
+    "Name" : "RAUTER Bernadette",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.85"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10928",
+    "Name" : "INABNIT Vreni",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.19"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10276",
+    "Name" : "BOCHATAY Fernande",
+    "Year" : "1946",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.24"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10481",
+    "Name" : "BUDGE Karen",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.26"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10115",
+    "Name" : "SEIWALD Brigitte",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.36"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10215",
+    "Name" : "GALICA Divina",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Total Time" : "0.00",
+    "Diff." : "+2.41"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10254",
+    "Name" : "SKINGER Erika",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.86"
+  }, {
+    "Rank" : ""
+  } ]
+}

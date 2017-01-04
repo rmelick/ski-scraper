@@ -1,0 +1,275 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "530194",
+    "Name" : "KITT A J",
+    "Year" : "1968",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "50199",
+    "Name" : "STOCK Leonard",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.49"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "510109",
+    "Name" : "HEINZER Franz",
+    "Year" : "1962",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.52"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "510154",
+    "Name" : "MAHRER Daniel",
+    "Year" : "1962",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.53"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "510086",
+    "Name" : "GIGANDET Xavier",
+    "Year" : "1966",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.89"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "50144",
+    "Name" : "ORTLIEB Patrick",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.10"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "420182",
+    "Name" : "SKAARDAL Atle",
+    "Year" : "1966",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.20"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "50002",
+    "Name" : "ASSINGER Armin",
+    "Year" : "1964",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.29"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "200141",
+    "Name" : "HUBER Berni",
+    "Year" : "1967",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.42"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "50310",
+    "Name" : "RZEHAK Peter",
+    "Year" : "1970",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.43"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "420205",
+    "Name" : "THORSEN Jan Einar",
+    "Year" : "1966",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.48"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "200367",
+    "Name" : "WASMEIER Markus",
+    "Year" : "1963",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.53"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "530622",
+    "Name" : "MOE Tommy",
+    "Year" : "1970",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.60"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "-10371",
+    "Name" : "HOFLEHNER Helmut",
+    "Year" : "1959",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.64"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "360002",
+    "Name" : "GIRARDELLI Marc",
+    "Year" : "1963",
+    "Nation" : "LUX",
+    "Total Time" : "0.00",
+    "Diff." : "+1.73"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "100294",
+    "Name" : "STEMMLE Brian",
+    "Year" : "1966",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.74"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "-10689",
+    "Name" : "HENNING (SWE) Niklas",
+    "Year" : "1964",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+1.80"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "190010",
+    "Name" : "ALPHAND Luc",
+    "Year" : "1965",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.80"
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "290255",
+    "Name" : "GHEDINA Kristian",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.81"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "-10743",
+    "Name" : "MULLER Peter",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.89"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "510379",
+    "Name" : "BRUNNER Daniel",
+    "Year" : "1970",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.89"
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "510029",
+    "Name" : "BESSE William",
+    "Year" : "1968",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.94"
+  }, {
+    "Rank" : "23",
+    "Bib" : "",
+    "FIS Code" : "200392",
+    "Name" : "ZEHENTNER Hannes",
+    "Year" : "1965",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+2.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "",
+    "FIS Code" : "190297",
+    "Name" : "REY Denis",
+    "Year" : "1966",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.01"
+  }, {
+    "Rank" : "25",
+    "Bib" : "",
+    "FIS Code" : "50221",
+    "Name" : "TRINKL Hannes",
+    "Year" : "1968",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.03"
+  }, {
+    "Rank" : "26",
+    "Bib" : "",
+    "FIS Code" : "290573",
+    "Name" : "VITALINI Pietro",
+    "Year" : "1967",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.05"
+  }, {
+    "Rank" : "27",
+    "Bib" : "",
+    "FIS Code" : "530284",
+    "Name" : "OLSON Jeff",
+    "Year" : "1966",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.18"
+  }, {
+    "Rank" : "28",
+    "Bib" : "",
+    "FIS Code" : "510313",
+    "Name" : "LEHMANN Urs",
+    "Year" : "1969",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.24"
+  }, {
+    "Rank" : "29",
+    "Bib" : "",
+    "FIS Code" : "200340",
+    "Name" : "TAUSCHER Hansjoerg",
+    "Year" : "1967",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+2.35"
+  }, {
+    "Rank" : "30",
+    "Bib" : "",
+    "FIS Code" : "480082",
+    "Name" : "ANDREEV Vitalij",
+    "Year" : "1969",
+    "Nation" : "SOV",
+    "Total Time" : "0.00",
+    "Diff." : "+2.44"
+  }, {
+    "Rank" : ""
+  } ]
+}

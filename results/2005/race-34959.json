@@ -1,0 +1,373 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "2",
+    "FIS Code" : "155415",
+    "Name" : "ZAHROBSKA Sarka",
+    "Year" : "1985",
+    "Nation" : "CZE",
+    "Run 1" : "42.54",
+    "Run 2" : "",
+    "Total Time" : "42.54",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "8",
+    "FIS Code" : "537772",
+    "Name" : "STIEGLER Resi",
+    "Year" : "1985",
+    "Nation" : "USA",
+    "Run 1" : "42.56",
+    "Run 2" : "",
+    "Total Time" : "42.56",
+    "Diff." : "+0.02",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "27",
+    "FIS Code" : "505483",
+    "Name" : "PAERSON Anja",
+    "Year" : "1981",
+    "Nation" : "SWE",
+    "Run 1" : "43.32",
+    "Run 2" : "",
+    "Total Time" : "43.32",
+    "Diff." : "+0.78",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "21",
+    "FIS Code" : "55690",
+    "Name" : "HOSP Nicole",
+    "Year" : "1983",
+    "Nation" : "AUT",
+    "Run 1" : "43.40",
+    "Run 2" : "",
+    "Total Time" : "43.40",
+    "Diff." : "+0.86",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "9",
+    "FIS Code" : "205636",
+    "Name" : "BERGMANN-SCHMUDERER Monika",
+    "Year" : "1978",
+    "Nation" : "GER",
+    "Run 1" : "43.58",
+    "Run 2" : "",
+    "Total Time" : "43.58",
+    "Diff." : "+1.04",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "30",
+    "FIS Code" : "385022",
+    "Name" : "KOSTELIC Janica",
+    "Year" : "1982",
+    "Nation" : "CRO",
+    "Run 1" : "43.70",
+    "Run 2" : "",
+    "Total Time" : "43.70",
+    "Diff." : "+1.16",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "23",
+    "FIS Code" : "537545",
+    "Name" : "MANCUSO Julia",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Run 1" : "43.76",
+    "Run 2" : "",
+    "Total Time" : "43.76",
+    "Diff." : "+1.22",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "7",
+    "FIS Code" : "537626",
+    "Name" : "RICHARDSON Kaylin L",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Run 1" : "44.11",
+    "Run 2" : "",
+    "Total Time" : "44.11",
+    "Diff." : "+1.57",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "13",
+    "FIS Code" : "505260",
+    "Name" : "HARGIN Janette",
+    "Year" : "1977",
+    "Nation" : "SWE",
+    "Run 1" : "44.15",
+    "Run 2" : "",
+    "Total Time" : "44.15",
+    "Diff." : "+1.61",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "28",
+    "FIS Code" : "105997",
+    "Name" : "BRYDON Emily",
+    "Year" : "1980",
+    "Nation" : "CAN",
+    "Run 1" : "44.24",
+    "Run 2" : "",
+    "Total Time" : "44.24",
+    "Diff." : "+1.70",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "17",
+    "FIS Code" : "55590",
+    "Name" : "SCHILD Marlies",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Run 1" : "44.25",
+    "Run 2" : "",
+    "Total Time" : "44.25",
+    "Diff." : "+1.71",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "25",
+    "FIS Code" : "537544",
+    "Name" : "KILDOW Lindsey C.",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Run 1" : "44.27",
+    "Run 2" : "",
+    "Total Time" : "44.27",
+    "Diff." : "+1.73",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "16",
+    "FIS Code" : "106527",
+    "Name" : "ACTON Brigitte",
+    "Year" : "1985",
+    "Nation" : "CAN",
+    "Run 1" : "44.31",
+    "Run 2" : "",
+    "Total Time" : "44.31",
+    "Diff." : "+1.77",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "4",
+    "FIS Code" : "106022",
+    "Name" : "JANYK Britt",
+    "Year" : "1980",
+    "Nation" : "CAN",
+    "Run 1" : "44.37",
+    "Run 2" : "",
+    "Total Time" : "44.37",
+    "Diff." : "+1.83",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "15",
+    "FIS Code" : "55576",
+    "Name" : "GOERGL Elisabeth",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Run 1" : "44.55",
+    "Run 2" : "",
+    "Total Time" : "44.55",
+    "Diff." : "+2.01",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "3",
+    "FIS Code" : "315149",
+    "Name" : "LOLOVIC Jelena",
+    "Year" : "1981",
+    "Nation" : "SCG",
+    "Run 1" : "44.75",
+    "Run 2" : "",
+    "Total Time" : "44.75",
+    "Diff." : "+2.21",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "5",
+    "FIS Code" : "35089",
+    "Name" : "SIMARI BIRKNER Macarena",
+    "Year" : "1984",
+    "Nation" : "ARG",
+    "Run 1" : "45.00",
+    "Run 2" : "",
+    "Total Time" : "45.00",
+    "Diff." : "+2.46",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "18",
+    "FIS Code" : "536473",
+    "Name" : "LALIVE Caroline",
+    "Year" : "1979",
+    "Nation" : "USA",
+    "Run 1" : "45.09",
+    "Run 2" : "",
+    "Total Time" : "45.09",
+    "Diff." : "+2.55",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "11",
+    "FIS Code" : "515370",
+    "Name" : "OESTER Marlies",
+    "Year" : "1976",
+    "Nation" : "SUI",
+    "Run 1" : "45.50",
+    "Run 2" : "",
+    "Total Time" : "45.50",
+    "Diff." : "+2.96",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "29",
+    "FIS Code" : "55069",
+    "Name" : "GOETSCHL Renate",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Run 1" : "45.61",
+    "Run 2" : "",
+    "Total Time" : "45.61",
+    "Diff." : "+3.07",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "21",
+    "Bib" : "1",
+    "FIS Code" : "35079",
+    "Name" : "SIMARI BIRKNER Maria Belen",
+    "Year" : "1982",
+    "Nation" : "ARG",
+    "Run 1" : "46.06",
+    "Run 2" : "",
+    "Total Time" : "46.06",
+    "Diff." : "+3.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "26",
+    "FIS Code" : "55198",
+    "Name" : "DORFMEISTER Michaela",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Run 1" : "46.55",
+    "Run 2" : "",
+    "Total Time" : "46.55",
+    "Diff." : "+4.01",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "23",
+    "Bib" : "20",
+    "FIS Code" : "55261",
+    "Name" : "OBERMOSER Brigitte",
+    "Year" : "1976",
+    "Nation" : "AUT",
+    "Run 1" : "47.78",
+    "Run 2" : "",
+    "Total Time" : "47.78",
+    "Diff." : "+5.24",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "10",
+    "FIS Code" : "106465",
+    "Name" : "LAWRENCE Sherry",
+    "Year" : "1984",
+    "Nation" : "CAN",
+    "Run 1" : "48.44",
+    "Run 2" : "",
+    "Total Time" : "48.44",
+    "Diff." : "+5.90",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "25",
+    "Bib" : "14",
+    "FIS Code" : "295136",
+    "Name" : "CECCARELLI Daniela",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Run 1" : "48.62",
+    "Run 2" : "",
+    "Total Time" : "48.62",
+    "Diff." : "+6.08",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "26",
+    "Bib" : "22",
+    "FIS Code" : "205117",
+    "Name" : "GERG Hilde",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Run 1" : "49.46",
+    "Run 2" : "",
+    "Total Time" : "49.46",
+    "Diff." : "+6.92",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "27",
+    "Bib" : "12",
+    "FIS Code" : "296431",
+    "Name" : "STUFFER Verena",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Run 1" : "49.54",
+    "Run 2" : "",
+    "Total Time" : "49.54",
+    "Diff." : "+7.00",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "28",
+    "Bib" : "24",
+    "FIS Code" : "295588",
+    "Name" : "KOSTNER Isolde",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Run 1" : "49.87",
+    "Run 2" : "",
+    "Total Time" : "49.87",
+    "Diff." : "+7.33",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "Did not start 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "6",
+    "FIS Code" : "225206",
+    "Name" : "ALCOTT Chemmy",
+    "Year" : "1982",
+    "Nation" : "GBR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "19",
+    "FIS Code" : "205378",
+    "Name" : "ERTL Martina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

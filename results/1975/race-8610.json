@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10289",
+    "Name" : "KLAMMER Franz",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10377",
+    "Name" : "PLANK Herbert",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.36"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.88"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.41"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10572",
+    "Name" : "GRABLER Manfred",
+    "Year" : "",
+    "Nation" : "AUS",
+    "Total Time" : "0.00",
+    "Diff." : "+2.43"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10937",
+    "Name" : "MARGREITER Werner",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.86"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10466",
+    "Name" : "WALCHER Josef",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.93"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10337",
+    "Name" : "BESSON Guiliano",
+    "Year" : "1950",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.01"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10204",
+    "Name" : "ZWILLING David",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.05"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10772",
+    "Name" : "TRITSCHER Reinhard",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.63"
+  }, {
+    "Rank" : ""
+  } ]
+}

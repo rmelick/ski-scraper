@@ -1,0 +1,261 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "50065",
+    "Name" : "GRUBER Franz",
+    "Year" : "1959",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:28.62",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10871",
+    "Name" : "STRAND Stig",
+    "Year" : "1956",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:28.96",
+    "Diff." : "+0.34",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10643",
+    "Name" : "CANAC Michel",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:29.43",
+    "Diff." : "+0.81",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10728",
+    "Name" : "DE CHIESA Paolo",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:29.77",
+    "Diff." : "+1.15",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10724",
+    "Name" : "FROMMELT Paul",
+    "Year" : "1957",
+    "Nation" : "LIE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:30.14",
+    "Diff." : "+1.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10532",
+    "Name" : "HALVARSSON Lars-Goran",
+    "Year" : "",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:31.42",
+    "Diff." : "+2.80",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10513",
+    "Name" : "HEIDEGGER Klaus",
+    "Year" : "1957",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:31.62",
+    "Diff." : "+3.00",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "50265",
+    "Name" : "GSTREIN Helmut",
+    "Year" : "1960",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:31.71",
+    "Diff." : "+3.09",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10211",
+    "Name" : "BOUVET Didier",
+    "Year" : "1961",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.03",
+    "Diff." : "+3.41",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "200019",
+    "Name" : "BECK Florian",
+    "Year" : "1958",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.14",
+    "Diff." : "+3.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "-10745",
+    "Name" : "POPANGELOV Peter",
+    "Year" : "1959",
+    "Nation" : "BUL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.23",
+    "Diff." : "+3.61",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "-10347",
+    "Name" : "SPISS Hannes",
+    "Year" : "1959",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.29",
+    "Diff." : "+3.67",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "-10016",
+    "Name" : "GIORGI Alex",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.30",
+    "Diff." : "+3.68",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "-10727",
+    "Name" : "SKAJEM Paul-Arne",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:32.40",
+    "Diff." : "+3.78",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "-10893",
+    "Name" : "CERKOVNIK Tomaz",
+    "Year" : "",
+    "Nation" : "JUG",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:33.14",
+    "Diff." : "+4.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "-10868",
+    "Name" : "MAHRE Steve",
+    "Year" : "1957",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:34.06",
+    "Diff." : "+5.44",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "-10391",
+    "Name" : "STENMARK Ingemar",
+    "Year" : "1956",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "-10033",
+    "Name" : "WENZEL Andreas",
+    "Year" : "1958",
+    "Nation" : "LIE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "-10764",
+    "Name" : "ZURBRIGGEN Pirmin",
+    "Year" : "1963",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "-10752",
+    "Name" : "MAHRE Phil",
+    "Year" : "1957",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "360002",
+    "Name" : "GIRARDELLI Marc",
+    "Year" : "1963",
+    "Nation" : "LUX",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

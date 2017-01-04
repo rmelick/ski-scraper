@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10752",
+    "Name" : "MAHRE Phil",
+    "Year" : "1957",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:47.15",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10391",
+    "Name" : "STENMARK Ingemar",
+    "Year" : "1956",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:47.24",
+    "Diff." : "+0.09",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10868",
+    "Name" : "MAHRE Steve",
+    "Year" : "1957",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:47.64",
+    "Diff." : "+0.49",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10724",
+    "Name" : "FROMMELT Paul",
+    "Year" : "1957",
+    "Nation" : "LIE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:47.93",
+    "Diff." : "+0.78",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10350",
+    "Name" : "HINTERSEER Hans",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:48.20",
+    "Diff." : "+1.05",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10283",
+    "Name" : "BIELER Franco",
+    "Year" : "1950",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:48.56",
+    "Diff." : "+1.41",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10154",
+    "Name" : "NEUREUTHER Christian",
+    "Year" : "1949",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:48.61",
+    "Diff." : "+1.46",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10121",
+    "Name" : "NOCKLER Bruno",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:48.65",
+    "Diff." : "+1.50",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10104",
+    "Name" : "KRIZAJ Bojan",
+    "Year" : "1957",
+    "Nation" : "JUG",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:48.81",
+    "Diff." : "+1.66",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10271",
+    "Name" : "RADICI Fausto",
+    "Year" : "1953",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:49.23",
+    "Diff." : "+2.08",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

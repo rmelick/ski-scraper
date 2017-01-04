@@ -1,0 +1,589 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "19",
+    "FIS Code" : "510478",
+    "Name" : "KERNEN Bruno",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "2:28.69",
+    "Diff." : "",
+    "FIS Points" : "0.00",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "28",
+    "FIS Code" : "50041",
+    "Name" : "WALCHHOFER Michael",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Total Time" : "2:28.92",
+    "Diff." : "+0.23",
+    "FIS Points" : "2.09",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "30",
+    "FIS Code" : "50024",
+    "Name" : "EBERHARTER Stephan",
+    "Year" : "1969",
+    "Nation" : "AUT",
+    "Total Time" : "2:29.14",
+    "Diff." : "+0.45",
+    "FIS Points" : "4.09",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "22",
+    "FIS Code" : "510767",
+    "Name" : "HOFFMANN Ambrosi",
+    "Year" : "1977",
+    "Nation" : "SUI",
+    "Total Time" : "2:29.51",
+    "Diff." : "+0.82",
+    "FIS Points" : "7.45",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "16",
+    "FIS Code" : "50124",
+    "Name" : "SCHIFFERER Andreas",
+    "Year" : "1974",
+    "Nation" : "AUT",
+    "Total Time" : "2:29.70",
+    "Diff." : "+1.01",
+    "FIS Points" : "9.17",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "18",
+    "FIS Code" : "190930",
+    "Name" : "DENERIAZ Antoine",
+    "Year" : "1976",
+    "Nation" : "FRA",
+    "Total Time" : "2:30.20",
+    "Diff." : "+1.51",
+    "FIS Points" : "13.71",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "14",
+    "FIS Code" : "50423",
+    "Name" : "MAIER Hermann",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "2:30.60",
+    "Diff." : "+1.91",
+    "FIS Points" : "17.34",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "26",
+    "FIS Code" : "531040",
+    "Name" : "RAHLVES Daron",
+    "Year" : "1973",
+    "Nation" : "USA",
+    "Total Time" : "2:30.66",
+    "Diff." : "+1.97",
+    "FIS Points" : "17.89",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "24",
+    "FIS Code" : "420382",
+    "Name" : "AAMODT Kjetil Andre",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "2:30.69",
+    "Diff." : "+2.00",
+    "FIS Points" : "18.16",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "29",
+    "FIS Code" : "50182",
+    "Name" : "STROBL Fritz",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "2:31.09",
+    "Diff." : "+2.40",
+    "FIS Points" : "21.79",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "15",
+    "FIS Code" : "532431",
+    "Name" : "MILLER Bode",
+    "Year" : "1977",
+    "Nation" : "USA",
+    "Total Time" : "2:31.18",
+    "Diff." : "+2.49",
+    "FIS Points" : "22.61",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "1",
+    "FIS Code" : "200705",
+    "Name" : "RAUFFER Max",
+    "Year" : "1972",
+    "Nation" : "GER",
+    "Total Time" : "2:31.21",
+    "Diff." : "+2.52",
+    "FIS Points" : "22.88",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "4",
+    "FIS Code" : "510756",
+    "Name" : "VON WEISSENFLUH Rolf",
+    "Year" : "1977",
+    "Nation" : "SUI",
+    "Total Time" : "2:31.25",
+    "Diff." : "+2.56",
+    "FIS Points" : "23.24",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "11",
+    "FIS Code" : "291641",
+    "Name" : "SULZENBACHER Kurt",
+    "Year" : "1976",
+    "Nation" : "ITA",
+    "Total Time" : "2:31.31",
+    "Diff." : "+2.62",
+    "FIS Points" : "23.79",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "7",
+    "FIS Code" : "533131",
+    "Name" : "SULLIVAN Marco",
+    "Year" : "1980",
+    "Nation" : "USA",
+    "Total Time" : "2:31.37",
+    "Diff." : "+2.68",
+    "FIS Points" : "24.33",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "21",
+    "FIS Code" : "50043",
+    "Name" : "FRANZ Werner",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Total Time" : "2:31.54",
+    "Diff." : "+2.85",
+    "FIS Points" : "25.88",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "27",
+    "FIS Code" : "50221",
+    "Name" : "TRINKL Hannes",
+    "Year" : "1968",
+    "Nation" : "AUT",
+    "Total Time" : "2:31.60",
+    "Diff." : "+2.91",
+    "FIS Points" : "26.42",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "3",
+    "FIS Code" : "560332",
+    "Name" : "JERMAN Andrej",
+    "Year" : "1978",
+    "Nation" : "SLO",
+    "Total Time" : "2:31.65",
+    "Diff." : "+2.96",
+    "FIS Points" : "26.87",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "12",
+    "FIS Code" : "510727",
+    "Name" : "DEFAGO Didier",
+    "Year" : "1977",
+    "Nation" : "SUI",
+    "Total Time" : "2:31.75",
+    "Diff." : "+3.06",
+    "FIS Points" : "27.78",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "23",
+    "FIS Code" : "510035",
+    "Name" : "CAVEGN Franco",
+    "Year" : "1971",
+    "Nation" : "SUI",
+    "Total Time" : "2:31.88",
+    "Diff." : "+3.19",
+    "FIS Points" : "28.96",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "21",
+    "Bib" : "20",
+    "FIS Code" : "50310",
+    "Name" : "RZEHAK Peter",
+    "Year" : "1970",
+    "Nation" : "AUT",
+    "Total Time" : "2:31.89",
+    "Diff." : "+3.20",
+    "FIS Points" : "29.05",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "10",
+    "FIS Code" : "290255",
+    "Name" : "GHEDINA Kristian",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Total Time" : "2:32.09",
+    "Diff." : "+3.40",
+    "FIS Points" : "30.87",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "23",
+    "Bib" : "2",
+    "FIS Code" : "290489",
+    "Name" : "SELETTO Erik",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Total Time" : "2:32.29",
+    "Diff." : "+3.60",
+    "FIS Points" : "32.69",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "8",
+    "FIS Code" : "190945",
+    "Name" : "FOURNIER-BIDOZ Sebastien",
+    "Year" : "1976",
+    "Nation" : "FRA",
+    "Total Time" : "2:32.39",
+    "Diff." : "+3.70",
+    "FIS Points" : "33.59",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "25",
+    "Bib" : "32",
+    "FIS Code" : "50831",
+    "Name" : "GRAGGABER Thomas",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "2:32.49",
+    "Diff." : "+3.80",
+    "FIS Points" : "34.50",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "26",
+    "Bib" : "17",
+    "FIS Code" : "510030",
+    "Name" : "CUCHE Didier",
+    "Year" : "1974",
+    "Nation" : "SUI",
+    "Total Time" : "2:32.69",
+    "Diff." : "+4.00",
+    "FIS Points" : "36.32",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "26",
+    "Bib" : "13",
+    "FIS Code" : "420470",
+    "Name" : "KJUS Lasse",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "2:32.69",
+    "Diff." : "+4.00",
+    "FIS Points" : "36.32",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "28",
+    "Bib" : "6",
+    "FIS Code" : "190097",
+    "Name" : "BURTIN Nicolas",
+    "Year" : "1972",
+    "Nation" : "FRA",
+    "Total Time" : "2:32.72",
+    "Diff." : "+4.03",
+    "FIS Points" : "36.59",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "29",
+    "Bib" : "37",
+    "FIS Code" : "510476",
+    "Name" : "HERRMANN Markus",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "2:33.17",
+    "Diff." : "+4.48",
+    "FIS Points" : "40.68",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "30",
+    "Bib" : "33",
+    "FIS Code" : "510051",
+    "Name" : "GRUENENFELDER Juerg",
+    "Year" : "1974",
+    "Nation" : "SUI",
+    "Total Time" : "2:33.24",
+    "Diff." : "+4.55",
+    "FIS Points" : "41.31",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "31",
+    "Bib" : "45",
+    "FIS Code" : "290383",
+    "Name" : "GALLI Lorenzo",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Total Time" : "2:33.32",
+    "Diff." : "+4.63",
+    "FIS Points" : "42.04",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "32",
+    "Bib" : "36",
+    "FIS Code" : "560302",
+    "Name" : "SPAROVEC Gregor",
+    "Year" : "1977",
+    "Nation" : "SLO",
+    "Total Time" : "2:33.51",
+    "Diff." : "+4.82",
+    "FIS Points" : "43.76",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "33",
+    "Bib" : "43",
+    "FIS Code" : "560187",
+    "Name" : "PEN Peter",
+    "Year" : "1973",
+    "Nation" : "SLO",
+    "Total Time" : "2:33.61",
+    "Diff." : "+4.92",
+    "FIS Points" : "44.67",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "34",
+    "Bib" : "46",
+    "FIS Code" : "532490",
+    "Name" : "MACARTNEY Scott",
+    "Year" : "1978",
+    "Nation" : "USA",
+    "Total Time" : "2:33.70",
+    "Diff." : "+5.01",
+    "FIS Points" : "45.49",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "35",
+    "Bib" : "49",
+    "FIS Code" : "101375",
+    "Name" : "LAVOIE Vincent",
+    "Year" : "1977",
+    "Nation" : "CAN",
+    "Total Time" : "2:33.97",
+    "Diff." : "+5.28",
+    "FIS Points" : "47.94",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "36",
+    "Bib" : "31",
+    "FIS Code" : "500150",
+    "Name" : "JAERBYN Patrik",
+    "Year" : "1969",
+    "Nation" : "SWE",
+    "Total Time" : "2:34.03",
+    "Diff." : "+5.34",
+    "FIS Points" : "48.48",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "37",
+    "Bib" : "41",
+    "FIS Code" : "530137",
+    "Name" : "FIALA Jakub",
+    "Year" : "1975",
+    "Nation" : "USA",
+    "Total Time" : "2:34.24",
+    "Diff." : "+5.55",
+    "FIS Points" : "50.39",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "38",
+    "Bib" : "40",
+    "FIS Code" : "533098",
+    "Name" : "FRIEDMAN Bryon",
+    "Year" : "1980",
+    "Nation" : "USA",
+    "Total Time" : "2:34.26",
+    "Diff." : "+5.57",
+    "FIS Points" : "50.57",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "39",
+    "Bib" : "9",
+    "FIS Code" : "191115",
+    "Name" : "CRETIER Claude",
+    "Year" : "1977",
+    "Nation" : "FRA",
+    "Total Time" : "2:34.33",
+    "Diff." : "+5.64",
+    "FIS Points" : "51.21",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "40",
+    "Bib" : "50",
+    "FIS Code" : "101850",
+    "Name" : "HUME Jeff",
+    "Year" : "1979",
+    "Nation" : "CAN",
+    "Total Time" : "2:34.59",
+    "Diff." : "+5.90",
+    "FIS Points" : "53.57",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "41",
+    "Bib" : "35",
+    "FIS Code" : "291990",
+    "Name" : "BERBENNI Matteo",
+    "Year" : "1979",
+    "Nation" : "ITA",
+    "Total Time" : "2:34.65",
+    "Diff." : "+5.96",
+    "FIS Points" : "54.11",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "42",
+    "Bib" : "39",
+    "FIS Code" : "200249",
+    "Name" : "STANKALLA Stefan",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "2:34.70",
+    "Diff." : "+6.01",
+    "FIS Points" : "54.57",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "43",
+    "Bib" : "52",
+    "FIS Code" : "510969",
+    "Name" : "BONETTI Michael",
+    "Year" : "1982",
+    "Nation" : "SUI",
+    "Total Time" : "2:34.89",
+    "Diff." : "+6.20",
+    "FIS Points" : "56.29",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "44",
+    "Bib" : "47",
+    "FIS Code" : "191591",
+    "Name" : "BERTRAND Yannick",
+    "Year" : "1980",
+    "Nation" : "FRA",
+    "Total Time" : "2:35.01",
+    "Diff." : "+6.32",
+    "FIS Points" : "57.38",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "45",
+    "Bib" : "44",
+    "FIS Code" : "560419",
+    "Name" : "SKERBINEK Primoz",
+    "Year" : "1980",
+    "Nation" : "SLO",
+    "Total Time" : "2:35.05",
+    "Diff." : "+6.36",
+    "FIS Points" : "57.74",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "46",
+    "Bib" : "51",
+    "FIS Code" : "40171",
+    "Name" : "BRANCH Craig",
+    "Year" : "1977",
+    "Nation" : "AUS",
+    "Total Time" : "2:35.09",
+    "Diff." : "+6.40",
+    "FIS Points" : "58.11",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "47",
+    "Bib" : "42",
+    "FIS Code" : "190278",
+    "Name" : "LLORACH Gaetan",
+    "Year" : "1974",
+    "Nation" : "FRA",
+    "Total Time" : "2:36.34",
+    "Diff." : "+7.65",
+    "FIS Points" : "69.46",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "48",
+    "Bib" : "38",
+    "FIS Code" : "291116",
+    "Name" : "FATTORI Alessandro",
+    "Year" : "1973",
+    "Nation" : "ITA",
+    "Total Time" : "2:36.95",
+    "Diff." : "+8.26",
+    "FIS Points" : "74.99",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "Disqualified 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "34",
+    "FIS Code" : "510344",
+    "Name" : "ZUEGER Daniel",
+    "Year" : "1979",
+    "Nation" : "SUI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "5",
+    "FIS Code" : "291389",
+    "Name" : "FISCHNALLER Roland",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "Did not start 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "48",
+    "FIS Code" : "191415",
+    "Name" : "BOTTOLLIER-LASQUIN Marc",
+    "Year" : "1979",
+    "Nation" : "FRA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "25",
+    "FIS Code" : "50753",
+    "Name" : "KROELL Klaus",
+    "Year" : "1980",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

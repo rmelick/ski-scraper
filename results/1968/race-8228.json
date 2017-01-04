@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.02"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.69"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10285",
+    "Name" : "MACCHI Francoise",
+    "Year" : "1951",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.69"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10414",
+    "Name" : "ROUVIER Jacqueline",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.73"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10118",
+    "Name" : "LAFFORGUE Britt",
+    "Year" : "1948",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.62"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10707",
+    "Name" : "STRAUSS P",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+5.60"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10597",
+    "Name" : "MERCIER Marie-Cecile",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+5.67"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10322",
+    "Name" : "TIEZZA Giovanna",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+5.82"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10479",
+    "Name" : "BUHLER K",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+6.29"
+  }, {
+    "Rank" : ""
+  } ]
+}

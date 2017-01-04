@@ -1,0 +1,130 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "420382",
+    "Name" : "AAMODT Kjetil Andre",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "532431",
+    "Name" : "MILLER Bode",
+    "Year" : "1977",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.33"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "420470",
+    "Name" : "KJUS Lasse",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+9.68"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "190278",
+    "Name" : "LLORACH Gaetan",
+    "Year" : "1974",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+10.68"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "560332",
+    "Name" : "JERMAN Andrej",
+    "Year" : "1978",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+11.60"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "510478",
+    "Name" : "KERNEN Bruno",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+13.07"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "510767",
+    "Name" : "HOFFMANN Ambrosi",
+    "Year" : "1977",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+13.95"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "532490",
+    "Name" : "MACARTNEY Scott",
+    "Year" : "1978",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+15.23"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "700034",
+    "Name" : "RAJCAN Michal",
+    "Year" : "1980",
+    "Nation" : "SVK",
+    "Total Time" : "0.00",
+    "Diff." : "+17.60"
+  }, {
+    "Rank" : "Disqualified"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "90047",
+    "Name" : "GEORGIEV Stefan",
+    "Year" : "1977",
+    "Nation" : "BUL",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "Did not finish"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "150571",
+    "Name" : "HAYER Stanley",
+    "Year" : "1973",
+    "Nation" : "CZE",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "533131",
+    "Name" : "SULLIVAN Marco",
+    "Year" : "1980",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "",
+    "FIS Code" : "533098",
+    "Name" : "FRIEDMAN Bryon",
+    "Year" : "1980",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ]
+}

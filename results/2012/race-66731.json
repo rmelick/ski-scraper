@@ -1,0 +1,117 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "5",
+    "FIS Code" : "537545",
+    "Name" : "MANCUSO Julia",
+    "Year" : "1984",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "2",
+    "Bib" : "11",
+    "FIS Code" : "55759",
+    "Name" : "KIRCHGASSER Michaela",
+    "Year" : "1985",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "3",
+    "Bib" : "1",
+    "FIS Code" : "537544",
+    "Name" : "VONN Lindsey",
+    "Year" : "1984",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "4",
+    "Bib" : "2",
+    "FIS Code" : "206001",
+    "Name" : "HOEFL-RIESCH Maria",
+    "Year" : "1984",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "Bib" : "13",
+    "FIS Code" : "55690",
+    "Name" : "HOSP Nicole",
+    "Year" : "1983",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "Bib" : "9",
+    "FIS Code" : "55838",
+    "Name" : "ZETTEL Kathrin",
+    "Year" : "1986",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "Bib" : "7",
+    "FIS Code" : "55590",
+    "Name" : "SCHILD Marlies",
+    "Year" : "1981",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "Bib" : "3",
+    "FIS Code" : "565243",
+    "Name" : "MAZE Tina",
+    "Year" : "1983",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "9",
+    "Bib" : "16",
+    "FIS Code" : "485570",
+    "Name" : "SOROKINA Anna",
+    "Year" : "1990",
+    "Nation" : "RUS"
+  }, {
+    "Rank" : "9",
+    "Bib" : "15",
+    "FIS Code" : "297601",
+    "Name" : "BRIGNONE Federica",
+    "Year" : "1990",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "14",
+    "FIS Code" : "505483",
+    "Name" : "PAERSON Anja",
+    "Year" : "1981",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "9",
+    "Bib" : "12",
+    "FIS Code" : "296008",
+    "Name" : "MERIGHETTI Daniela",
+    "Year" : "1981",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "10",
+    "FIS Code" : "196928",
+    "Name" : "WORLEY Tessa",
+    "Year" : "1989",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "8",
+    "FIS Code" : "205218",
+    "Name" : "REBENSBURG Viktoria",
+    "Year" : "1989",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "9",
+    "Bib" : "6",
+    "FIS Code" : "55947",
+    "Name" : "FENNINGER Anna",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "4",
+    "FIS Code" : "55576",
+    "Name" : "GOERGL Elisabeth",
+    "Year" : "1981",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : ""
+  } ]
+}

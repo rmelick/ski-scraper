@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10466",
+    "Name" : "WALCHER Josef",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10840",
+    "Name" : "FERSTL Sepp",
+    "Year" : "1954",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10639",
+    "Name" : "VEITH Michael",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+0.04"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10289",
+    "Name" : "KLAMMER Franz",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.09"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10743",
+    "Name" : "MULLER Peter",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.51"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.61"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10931",
+    "Name" : "VESTI Walter",
+    "Year" : "1950",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.94"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10506",
+    "Name" : "READ Ken",
+    "Year" : "1955",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.01"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10910",
+    "Name" : "SPIESS Ulrich",
+    "Year" : "1955",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.04"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10774",
+    "Name" : "ANATONIOLI Renato",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.08"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,115 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10427",
+    "Name" : "KILLY Jean-Claude",
+    "Year" : "1943",
+    "Nation" : "FRA",
+    "Total Time" : "2:13.73",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "512168",
+    "Name" : "ROHR Hans Peter",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "2:15.77",
+    "Diff." : "+2.04",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10290",
+    "Name" : "VOGLER Franz",
+    "Year" : "1944",
+    "Nation" : "GER",
+    "Total Time" : "2:15.80",
+    "Diff." : "+2.07",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10306",
+    "Name" : "NENNING Gerhard",
+    "Year" : "1940",
+    "Nation" : "AUT",
+    "Total Time" : "2:16.18",
+    "Diff." : "+2.45",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10409",
+    "Name" : "MAHLKNECHT Ivo",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "2:17.05",
+    "Diff." : "+3.32",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "2:17.72",
+    "Diff." : "+3.99",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10463",
+    "Name" : "MINSCH Josef",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Total Time" : "2:17.74",
+    "Diff." : "+4.01",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10541",
+    "Name" : "LACROIX Leo",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "2:18.00",
+    "Diff." : "+4.27",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "2:18.06",
+    "Diff." : "+4.33",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "2:18.17",
+    "Diff." : "+4.44",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

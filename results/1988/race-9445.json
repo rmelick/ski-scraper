@@ -1,0 +1,149 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10743",
+    "Name" : "MULLER Peter",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10219",
+    "Name" : "STEVENS Donald",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+0.51"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "360002",
+    "Name" : "GIRARDELLI Marc",
+    "Year" : "1963",
+    "Nation" : "LUX",
+    "Total Time" : "0.00",
+    "Diff." : "+0.74"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10750",
+    "Name" : "WIRNSBERGER Peter",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.06"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "100040",
+    "Name" : "BOYD Rob",
+    "Year" : "1966",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.14"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10638",
+    "Name" : "MAIR Michael",
+    "Year" : "1962",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.25"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "190274",
+    "Name" : "PLE Christophe",
+    "Year" : "1966",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.37"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "100017",
+    "Name" : "BELCZYK Felix",
+    "Year" : "1961",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.37"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "510109",
+    "Name" : "HEINZER Franz",
+    "Year" : "1962",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.38"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10757",
+    "Name" : "VERNERET Philippe",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.48"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "50199",
+    "Name" : "STOCK Leonard",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.64"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "-10371",
+    "Name" : "HOFLEHNER Helmut",
+    "Year" : "1959",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.69"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "-10490",
+    "Name" : "ALPIGER Karl",
+    "Year" : "1961",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.71"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "50127",
+    "Name" : "MADER Guenther",
+    "Year" : "1964",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.73"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "190010",
+    "Name" : "ALPHAND Luc",
+    "Year" : "1965",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.74"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "50002",
+    "Name" : "ASSINGER Armin",
+    "Year" : "1964",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.74"
+  }, {
+    "Rank" : ""
+  } ]
+}

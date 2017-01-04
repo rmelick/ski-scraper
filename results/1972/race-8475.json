@@ -1,0 +1,104 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.29"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10636",
+    "Name" : "DAETWYLER Michael",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.32"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.64"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.66"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10654",
+    "Name" : "LAFFERTY Mike",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.76"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10805",
+    "Name" : "COLLUMBIN Rolland",
+    "Year" : "1951",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.78"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.02"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10290",
+    "Name" : "VOGLER Franz",
+    "Year" : "1944",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.07"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.64"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.64"
+  }, {
+    "Rank" : ""
+  } ]
+}

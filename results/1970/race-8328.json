@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.49"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.63"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10947",
+    "Name" : "DREXEL Wiltrud",
+    "Year" : "1950",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.20"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10051",
+    "Name" : "MOSER-PROELL Annemarie",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.23"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10285",
+    "Name" : "MACCHI Francoise",
+    "Year" : "1951",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.55"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10394",
+    "Name" : "LAFFORGUE Ingrid",
+    "Year" : "1948",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.63"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10815",
+    "Name" : "MITTERMAIER Rosi",
+    "Year" : "1950",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+3.17"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10328",
+    "Name" : "DEMETZ Giustina",
+    "Year" : "1941",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.27"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10091",
+    "Name" : "CLIFFORD Betsy",
+    "Year" : "1953",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+3.49"
+  }, {
+    "Rank" : ""
+  } ]
+}

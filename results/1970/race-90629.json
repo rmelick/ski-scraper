@@ -1,0 +1,115 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10436",
+    "Name" : "AUGERT Jean-Noel",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:39.47",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10719",
+    "Name" : "RUSSEL Patrick",
+    "Year" : "1946",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:39.51",
+    "Diff." : "+0.04"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10094",
+    "Name" : "KIDD Billy",
+    "Year" : "1943",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:39.53",
+    "Diff." : "+0.06"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10341",
+    "Name" : "THOENI Gustavo",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:40.23",
+    "Diff." : "+0.76"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10009",
+    "Name" : "PENZ Alain",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:40.54",
+    "Diff." : "+1.07"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10224",
+    "Name" : "GIOVANOLI Dumeng",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.38",
+    "Diff." : "+2.91"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10738",
+    "Name" : "FREI Peter",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:43.33",
+    "Diff." : "+3.86"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10344",
+    "Name" : "BJORGE Hakan",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:43.59",
+    "Diff." : "+4.12"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10281",
+    "Name" : "FERNANDEZ-OCHOA Francisco",
+    "Year" : "1950",
+    "Nation" : "ESP",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:43.73",
+    "Diff." : "+4.26"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10035",
+    "Name" : "BACHLEDA I Andrzej",
+    "Year" : "1947",
+    "Nation" : "POL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:43.94",
+    "Diff." : "+4.47"
+  }, {
+    "Rank" : ""
+  } ]
+}

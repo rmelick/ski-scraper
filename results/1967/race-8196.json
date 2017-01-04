@@ -1,0 +1,77 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10427",
+    "Name" : "KILLY Jean-Claude",
+    "Year" : "1943",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10342",
+    "Name" : "PERILLAT Guy",
+    "Year" : "1940",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.83"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10441",
+    "Name" : "BARROWS Jim",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.95"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.37"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.52"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.66"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10306",
+    "Name" : "NENNING Gerhard",
+    "Year" : "1940",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.87"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10463",
+    "Name" : "MINSCH Josef",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.07"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Total Time" : "1:40.87",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "1:41.33",
+    "Diff." : "+0.46"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10169",
+    "Name" : "HAAS Christl",
+    "Year" : "1943",
+    "Nation" : "AUT",
+    "Total Time" : "1:41.41",
+    "Diff." : "+0.54"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10115",
+    "Name" : "SEIWALD Brigitte",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "1:41.82",
+    "Diff." : "+0.95"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Total Time" : "1:42.15",
+    "Diff." : "+1.28"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10273",
+    "Name" : "FIELD Felicity",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Total Time" : "1:42.79",
+    "Diff." : "+1.92"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10276",
+    "Name" : "BOCHATAY Fernande",
+    "Year" : "1946",
+    "Nation" : "SUI",
+    "Total Time" : "1:42.87",
+    "Diff." : "+2.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "1:42.95",
+    "Diff." : "+2.08"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "1:43.00",
+    "Diff." : "+2.13"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10680",
+    "Name" : "GREENE Nancy",
+    "Year" : "1943",
+    "Nation" : "CAN",
+    "Total Time" : "1:43.12",
+    "Diff." : "+2.25"
+  }, {
+    "Rank" : ""
+  } ]
+}

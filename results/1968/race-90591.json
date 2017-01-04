@@ -1,0 +1,115 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10680",
+    "Name" : "GREENE Nancy",
+    "Year" : "1943",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:51.97",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:54.61",
+    "Diff." : "+2.64"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10276",
+    "Name" : "BOCHATAY Fernande",
+    "Year" : "1946",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:54.74",
+    "Diff." : "+2.77"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:54.75",
+    "Diff." : "+2.78"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:55.61",
+    "Diff." : "+3.64"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:56.07",
+    "Diff." : "+4.10"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:56.09",
+    "Diff." : "+4.12"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10215",
+    "Name" : "GALICA Divina",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:56.58",
+    "Diff." : "+4.61"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10315",
+    "Name" : "GABL Gertrude",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:56.85",
+    "Diff." : "+4.88"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10123",
+    "Name" : "FARBINGER Burgl",
+    "Year" : "1945",
+    "Nation" : "BRD",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:57.20",
+    "Diff." : "+5.23"
+  }, {
+    "Rank" : ""
+  } ]
+}

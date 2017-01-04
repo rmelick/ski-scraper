@@ -1,0 +1,125 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10391",
+    "Name" : "STENMARK Ingemar",
+    "Year" : "1956",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:02.24",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10741",
+    "Name" : "LUSCHER Peter",
+    "Year" : "1956",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:04.10",
+    "Diff." : "+1.86",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10542",
+    "Name" : "DAVID Leonardo",
+    "Year" : "1960",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:04.37",
+    "Diff." : "+2.13",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10433",
+    "Name" : "FOURNIER Jean-Luc",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:04.39",
+    "Diff." : "+2.15",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10761",
+    "Name" : "GROS Piero",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:05.45",
+    "Diff." : "+3.21",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10630",
+    "Name" : "BERNARDI Mauro",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:05.72",
+    "Diff." : "+3.48",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10950",
+    "Name" : "ORTNER Wolfram",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:06.29",
+    "Diff." : "+4.05",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10103",
+    "Name" : "ZEMAN Bohumir",
+    "Year" : "",
+    "Nation" : "TCH",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:06.39",
+    "Diff." : "+4.15",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10363",
+    "Name" : "HEMMI Heini",
+    "Year" : "1949",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:06.68",
+    "Diff." : "+4.44",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10415",
+    "Name" : "LUTHY Jacques",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:07.10",
+    "Diff." : "+4.86",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

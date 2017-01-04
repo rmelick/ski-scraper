@@ -1,0 +1,688 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "18",
+    "FIS Code" : "421328",
+    "Name" : "SVINDAL Aksel Lund",
+    "Year" : "1982",
+    "Nation" : "NOR",
+    "Total Time" : "1:49.51",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "16",
+    "FIS Code" : "421483",
+    "Name" : "JANSRUD Kjetil",
+    "Year" : "1985",
+    "Nation" : "NOR",
+    "Total Time" : "1:50.23",
+    "Diff." : "+0.72"
+  }, {
+    "Rank" : "3",
+    "Bib" : "8",
+    "FIS Code" : "102263",
+    "Name" : "GUAY Erik",
+    "Year" : "1981",
+    "Nation" : "CAN",
+    "Total Time" : "1:51.14",
+    "Diff." : "+1.63"
+  }, {
+    "Rank" : "4",
+    "Bib" : "10",
+    "FIS Code" : "192932",
+    "Name" : "FAYED Guillermo",
+    "Year" : "1985",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.32",
+    "Diff." : "+1.81"
+  }, {
+    "Rank" : "5",
+    "Bib" : "15",
+    "FIS Code" : "533866",
+    "Name" : "NYMAN Steven",
+    "Year" : "1982",
+    "Nation" : "USA",
+    "Total Time" : "1:51.34",
+    "Diff." : "+1.83"
+  }, {
+    "Rank" : "6",
+    "Bib" : "60",
+    "FIS Code" : "422139",
+    "Name" : "KILDE Aleksander Aamodt",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "1:51.38",
+    "Diff." : "+1.87"
+  }, {
+    "Rank" : "6",
+    "Bib" : "4",
+    "FIS Code" : "191964",
+    "Name" : "POISSON David",
+    "Year" : "1982",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.38",
+    "Diff." : "+1.87"
+  }, {
+    "Rank" : "8",
+    "Bib" : "14",
+    "FIS Code" : "53902",
+    "Name" : "MAYER Matthias",
+    "Year" : "1990",
+    "Nation" : "AUT",
+    "Total Time" : "1:51.53",
+    "Diff." : "+2.02"
+  }, {
+    "Rank" : "9",
+    "Bib" : "13",
+    "FIS Code" : "530874",
+    "Name" : "GANONG Travis",
+    "Year" : "1988",
+    "Nation" : "USA",
+    "Total Time" : "1:51.63",
+    "Diff." : "+2.12"
+  }, {
+    "Rank" : "10",
+    "Bib" : "26",
+    "FIS Code" : "292455",
+    "Name" : "FILL Peter",
+    "Year" : "1982",
+    "Nation" : "ITA",
+    "Total Time" : "1:51.71",
+    "Diff." : "+2.20"
+  }, {
+    "Rank" : "11",
+    "Bib" : "7",
+    "FIS Code" : "53817",
+    "Name" : "FRANZ Max",
+    "Year" : "1989",
+    "Nation" : "AUT",
+    "Total Time" : "1:51.77",
+    "Diff." : "+2.26"
+  }, {
+    "Rank" : "12",
+    "Bib" : "63",
+    "FIS Code" : "51332",
+    "Name" : "SCHEIBER Florian",
+    "Year" : "1987",
+    "Nation" : "AUT",
+    "Total Time" : "1:51.78",
+    "Diff." : "+2.27"
+  }, {
+    "Rank" : "13",
+    "Bib" : "5",
+    "FIS Code" : "102899",
+    "Name" : "OSBORNE-PARADIS Manuel",
+    "Year" : "1984",
+    "Nation" : "CAN",
+    "Total Time" : "1:51.81",
+    "Diff." : "+2.30"
+  }, {
+    "Rank" : "14",
+    "Bib" : "37",
+    "FIS Code" : "194542",
+    "Name" : "GIRAUD MOINE Valentin",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.90",
+    "Diff." : "+2.39"
+  }, {
+    "Rank" : "15",
+    "Bib" : "23",
+    "FIS Code" : "202059",
+    "Name" : "FERSTL Josef",
+    "Year" : "1988",
+    "Nation" : "GER",
+    "Total Time" : "1:51.92",
+    "Diff." : "+2.41"
+  }, {
+    "Rank" : "16",
+    "Bib" : "42",
+    "FIS Code" : "194298",
+    "Name" : "GIEZENDANNER Blaise",
+    "Year" : "1991",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.95",
+    "Diff." : "+2.44"
+  }, {
+    "Rank" : "17",
+    "Bib" : "6",
+    "FIS Code" : "192746",
+    "Name" : "THEAUX Adrien",
+    "Year" : "1984",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.96",
+    "Diff." : "+2.45"
+  }, {
+    "Rank" : "18",
+    "Bib" : "30",
+    "FIS Code" : "293006",
+    "Name" : "INNERHOFER Christof",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Total Time" : "1:52.00",
+    "Diff." : "+2.49"
+  }, {
+    "Rank" : "19",
+    "Bib" : "69",
+    "FIS Code" : "192504",
+    "Name" : "MERMILLOD BLONDIN Thomas",
+    "Year" : "1984",
+    "Nation" : "FRA",
+    "Total Time" : "1:52.04",
+    "Diff." : "+2.53"
+  }, {
+    "Rank" : "20",
+    "Bib" : "46",
+    "FIS Code" : "103512",
+    "Name" : "FRISCH Jeffrey",
+    "Year" : "1984",
+    "Nation" : "CAN",
+    "Total Time" : "1:52.15",
+    "Diff." : "+2.64"
+  }, {
+    "Rank" : "21",
+    "Bib" : "21",
+    "FIS Code" : "533131",
+    "Name" : "SULLIVAN Marco",
+    "Year" : "1980",
+    "Nation" : "USA",
+    "Total Time" : "1:52.18",
+    "Diff." : "+2.67"
+  }, {
+    "Rank" : "21",
+    "Bib" : "12",
+    "FIS Code" : "50742",
+    "Name" : "REICHELT Hannes",
+    "Year" : "1980",
+    "Nation" : "AUT",
+    "Total Time" : "1:52.18",
+    "Diff." : "+2.67"
+  }, {
+    "Rank" : "23",
+    "Bib" : "51",
+    "FIS Code" : "194190",
+    "Name" : "ROGER Brice",
+    "Year" : "1990",
+    "Nation" : "FRA",
+    "Total Time" : "1:52.22",
+    "Diff." : "+2.71"
+  }, {
+    "Rank" : "24",
+    "Bib" : "20",
+    "FIS Code" : "511313",
+    "Name" : "JANKA Carlo",
+    "Year" : "1986",
+    "Nation" : "SUI",
+    "Total Time" : "1:52.23",
+    "Diff." : "+2.72"
+  }, {
+    "Rank" : "25",
+    "Bib" : "59",
+    "FIS Code" : "293550",
+    "Name" : "MARSAGLIA Matteo",
+    "Year" : "1985",
+    "Nation" : "ITA",
+    "Total Time" : "1:52.29",
+    "Diff." : "+2.78"
+  }, {
+    "Rank" : "25",
+    "Bib" : "54",
+    "FIS Code" : "194167",
+    "Name" : "MUZATON Maxence",
+    "Year" : "1990",
+    "Nation" : "FRA",
+    "Total Time" : "1:52.29",
+    "Diff." : "+2.78"
+  }, {
+    "Rank" : "27",
+    "Bib" : "29",
+    "FIS Code" : "53980",
+    "Name" : "KRIECHMAYR Vincent",
+    "Year" : "1991",
+    "Nation" : "AUT",
+    "Total Time" : "1:52.30",
+    "Diff." : "+2.79"
+  }, {
+    "Rank" : "28",
+    "Bib" : "61",
+    "FIS Code" : "561067",
+    "Name" : "PERKO Rok",
+    "Year" : "1985",
+    "Nation" : "SLO",
+    "Total Time" : "1:52.34",
+    "Diff." : "+2.83"
+  }, {
+    "Rank" : "29",
+    "Bib" : "22",
+    "FIS Code" : "50753",
+    "Name" : "KROELL Klaus",
+    "Year" : "1980",
+    "Nation" : "AUT",
+    "Total Time" : "1:52.37",
+    "Diff." : "+2.86"
+  }, {
+    "Rank" : "30",
+    "Bib" : "55",
+    "FIS Code" : "202196",
+    "Name" : "BRANDNER Klaus",
+    "Year" : "1990",
+    "Nation" : "GER",
+    "Total Time" : "1:52.38",
+    "Diff." : "+2.87"
+  }, {
+    "Rank" : "31",
+    "Bib" : "11",
+    "FIS Code" : "291459",
+    "Name" : "PARIS Dominik",
+    "Year" : "1989",
+    "Nation" : "ITA",
+    "Total Time" : "1:52.45",
+    "Diff." : "+2.94"
+  }, {
+    "Rank" : "32",
+    "Bib" : "36",
+    "FIS Code" : "530939",
+    "Name" : "WEIBRECHT Andrew",
+    "Year" : "1986",
+    "Nation" : "USA",
+    "Total Time" : "1:52.60",
+    "Diff." : "+3.09"
+  }, {
+    "Rank" : "33",
+    "Bib" : "28",
+    "FIS Code" : "191740",
+    "Name" : "CLAREY Johan",
+    "Year" : "1981",
+    "Nation" : "FRA",
+    "Total Time" : "1:52.61",
+    "Diff." : "+3.10"
+  }, {
+    "Rank" : "34",
+    "Bib" : "33",
+    "FIS Code" : "103762",
+    "Name" : "WERRY Tyler",
+    "Year" : "1991",
+    "Nation" : "CAN",
+    "Total Time" : "1:52.62",
+    "Diff." : "+3.11"
+  }, {
+    "Rank" : "35",
+    "Bib" : "64",
+    "FIS Code" : "6530104",
+    "Name" : "BENNETT Bryce",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:52.68",
+    "Diff." : "+3.17"
+  }, {
+    "Rank" : "36",
+    "Bib" : "19",
+    "FIS Code" : "50858",
+    "Name" : "STREITBERGER Georg",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "1:52.75",
+    "Diff." : "+3.24"
+  }, {
+    "Rank" : "37",
+    "Bib" : "27",
+    "FIS Code" : "292514",
+    "Name" : "HEEL Werner",
+    "Year" : "1982",
+    "Nation" : "ITA",
+    "Total Time" : "1:52.84",
+    "Diff." : "+3.33"
+  }, {
+    "Rank" : "38",
+    "Bib" : "35",
+    "FIS Code" : "53936",
+    "Name" : "DUERAGER Markus",
+    "Year" : "1990",
+    "Nation" : "AUT",
+    "Total Time" : "1:52.90",
+    "Diff." : "+3.39"
+  }, {
+    "Rank" : "39",
+    "Bib" : "2",
+    "FIS Code" : "54005",
+    "Name" : "STRIEDINGER Otmar",
+    "Year" : "1991",
+    "Nation" : "AUT",
+    "Total Time" : "1:52.98",
+    "Diff." : "+3.47"
+  }, {
+    "Rank" : "40",
+    "Bib" : "56",
+    "FIS Code" : "930024",
+    "Name" : "MAPLE Wiley",
+    "Year" : "1990",
+    "Nation" : "USA",
+    "Total Time" : "1:53.03",
+    "Diff." : "+3.52"
+  }, {
+    "Rank" : "40",
+    "Bib" : "53",
+    "FIS Code" : "990081",
+    "Name" : "CASSE Mattia",
+    "Year" : "1990",
+    "Nation" : "ITA",
+    "Total Time" : "1:53.03",
+    "Diff." : "+3.52"
+  }, {
+    "Rank" : "42",
+    "Bib" : "34",
+    "FIS Code" : "53933",
+    "Name" : "SCHWEIGER Patrick",
+    "Year" : "1990",
+    "Nation" : "AUT",
+    "Total Time" : "1:53.06",
+    "Diff." : "+3.55"
+  }, {
+    "Rank" : "43",
+    "Bib" : "47",
+    "FIS Code" : "294277",
+    "Name" : "KLOTZ Siegmar",
+    "Year" : "1987",
+    "Nation" : "ITA",
+    "Total Time" : "1:53.07",
+    "Diff." : "+3.56"
+  }, {
+    "Rank" : "44",
+    "Bib" : "9",
+    "FIS Code" : "511139",
+    "Name" : "KUENG Patrick",
+    "Year" : "1984",
+    "Nation" : "SUI",
+    "Total Time" : "1:53.10",
+    "Diff." : "+3.59"
+  }, {
+    "Rank" : "45",
+    "Bib" : "17",
+    "FIS Code" : "51215",
+    "Name" : "BAUMANN Romed",
+    "Year" : "1986",
+    "Nation" : "AUT",
+    "Total Time" : "1:53.18",
+    "Diff." : "+3.67"
+  }, {
+    "Rank" : "46",
+    "Bib" : "41",
+    "FIS Code" : "200379",
+    "Name" : "SANDER Andreas",
+    "Year" : "1989",
+    "Nation" : "GER",
+    "Total Time" : "1:53.20",
+    "Diff." : "+3.69"
+  }, {
+    "Rank" : "47",
+    "Bib" : "45",
+    "FIS Code" : "202535",
+    "Name" : "DRESSEN Thomas",
+    "Year" : "1993",
+    "Nation" : "GER",
+    "Total Time" : "1:53.24",
+    "Diff." : "+3.73"
+  }, {
+    "Rank" : "48",
+    "Bib" : "43",
+    "FIS Code" : "54099",
+    "Name" : "MAYRPETER Thomas",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:53.26",
+    "Diff." : "+3.75"
+  }, {
+    "Rank" : "49",
+    "Bib" : "32",
+    "FIS Code" : "560447",
+    "Name" : "SPORN Andrej",
+    "Year" : "1981",
+    "Nation" : "SLO",
+    "Total Time" : "1:53.56",
+    "Diff." : "+4.05"
+  }, {
+    "Rank" : "50",
+    "Bib" : "71",
+    "FIS Code" : "104096",
+    "Name" : "THOMPSON Broderick",
+    "Year" : "1994",
+    "Nation" : "CAN",
+    "Total Time" : "1:53.59",
+    "Diff." : "+4.08"
+  }, {
+    "Rank" : "51",
+    "Bib" : "68",
+    "FIS Code" : "380260",
+    "Name" : "KOSTELIC Ivica",
+    "Year" : "1979",
+    "Nation" : "CRO",
+    "Total Time" : "1:53.60",
+    "Diff." : "+4.09"
+  }, {
+    "Rank" : "52",
+    "Bib" : "24",
+    "FIS Code" : "293141",
+    "Name" : "VARETTONI Silvano",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Total Time" : "1:53.64",
+    "Diff." : "+4.13"
+  }, {
+    "Rank" : "53",
+    "Bib" : "44",
+    "FIS Code" : "511529",
+    "Name" : "GISIN Marc",
+    "Year" : "1988",
+    "Nation" : "SUI",
+    "Total Time" : "1:53.74",
+    "Diff." : "+4.23"
+  }, {
+    "Rank" : "54",
+    "Bib" : "50",
+    "FIS Code" : "380292",
+    "Name" : "ZRNCIC DIM Natko",
+    "Year" : "1986",
+    "Nation" : "CRO",
+    "Total Time" : "1:53.78",
+    "Diff." : "+4.27"
+  }, {
+    "Rank" : "55",
+    "Bib" : "38",
+    "FIS Code" : "561217",
+    "Name" : "KOSI Klemen",
+    "Year" : "1991",
+    "Nation" : "SLO",
+    "Total Time" : "1:53.87",
+    "Diff." : "+4.36"
+  }, {
+    "Rank" : "56",
+    "Bib" : "66",
+    "FIS Code" : "110324",
+    "Name" : "VON APPEN Henrik",
+    "Year" : "1994",
+    "Nation" : "CHI",
+    "Total Time" : "1:53.91",
+    "Diff." : "+4.40"
+  }, {
+    "Rank" : "57",
+    "Bib" : "3",
+    "FIS Code" : "511352",
+    "Name" : "VILETTA Sandro",
+    "Year" : "1986",
+    "Nation" : "SUI",
+    "Total Time" : "1:53.92",
+    "Diff." : "+4.41"
+  }, {
+    "Rank" : "58",
+    "Bib" : "39",
+    "FIS Code" : "561216",
+    "Name" : "KLINE Bostjan",
+    "Year" : "1991",
+    "Nation" : "SLO",
+    "Total Time" : "1:54.05",
+    "Diff." : "+4.54"
+  }, {
+    "Rank" : "59",
+    "Bib" : "58",
+    "FIS Code" : "481514",
+    "Name" : "BORODAYKIN Artem",
+    "Year" : "1994",
+    "Nation" : "RUS",
+    "Total Time" : "1:54.06",
+    "Diff." : "+4.55"
+  }, {
+    "Rank" : "60",
+    "Bib" : "70",
+    "FIS Code" : "103612",
+    "Name" : "PRIDY Morgan",
+    "Year" : "1990",
+    "Nation" : "CAN",
+    "Total Time" : "1:54.15",
+    "Diff." : "+4.64"
+  }, {
+    "Rank" : "61",
+    "Bib" : "57",
+    "FIS Code" : "511847",
+    "Name" : "MANI Nils",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Total Time" : "1:54.29",
+    "Diff." : "+4.78"
+  }, {
+    "Rank" : "62",
+    "Bib" : "25",
+    "FIS Code" : "150398",
+    "Name" : "BANK Ondrej",
+    "Year" : "1980",
+    "Nation" : "CZE",
+    "Total Time" : "1:54.43",
+    "Diff." : "+4.92"
+  }, {
+    "Rank" : "63",
+    "Bib" : "48",
+    "FIS Code" : "561255",
+    "Name" : "CATER Martin",
+    "Year" : "1992",
+    "Nation" : "SLO",
+    "Total Time" : "1:54.53",
+    "Diff." : "+5.02"
+  }, {
+    "Rank" : "64",
+    "Bib" : "72",
+    "FIS Code" : "380341",
+    "Name" : "ULLRICH Max",
+    "Year" : "1994",
+    "Nation" : "CRO",
+    "Total Time" : "1:54.69",
+    "Diff." : "+5.18"
+  }, {
+    "Rank" : "65",
+    "Bib" : "49",
+    "FIS Code" : "180570",
+    "Name" : "ROMAR Andreas",
+    "Year" : "1989",
+    "Nation" : "FIN",
+    "Total Time" : "1:54.78",
+    "Diff." : "+5.27"
+  }, {
+    "Rank" : "66",
+    "Bib" : "73",
+    "FIS Code" : "481327",
+    "Name" : "TRIKHICHEV Pavel",
+    "Year" : "1992",
+    "Nation" : "RUS",
+    "Total Time" : "1:54.82",
+    "Diff." : "+5.31"
+  }, {
+    "Rank" : "67",
+    "Bib" : "62",
+    "FIS Code" : "511808",
+    "Name" : "SCHMED Fernando",
+    "Year" : "1991",
+    "Nation" : "SUI",
+    "Total Time" : "1:54.84",
+    "Diff." : "+5.33"
+  }, {
+    "Rank" : "68",
+    "Bib" : "65",
+    "FIS Code" : "511638",
+    "Name" : "TUMLER Thomas",
+    "Year" : "1989",
+    "Nation" : "SUI",
+    "Total Time" : "1:55.09",
+    "Diff." : "+5.58"
+  }, {
+    "Rank" : "69",
+    "Bib" : "67",
+    "FIS Code" : "6531127",
+    "Name" : "DUFFY Drew",
+    "Year" : "1995",
+    "Nation" : "USA",
+    "Total Time" : "1:55.12",
+    "Diff." : "+5.61"
+  }, {
+    "Rank" : "70",
+    "Bib" : "1",
+    "FIS Code" : "103271",
+    "Name" : "THOMSEN Benjamin",
+    "Year" : "1987",
+    "Nation" : "CAN",
+    "Total Time" : "1:55.16",
+    "Diff." : "+5.65"
+  }, {
+    "Rank" : "71",
+    "Bib" : "74",
+    "FIS Code" : "430429",
+    "Name" : "BYDLINSKI Maciej",
+    "Year" : "1988",
+    "Nation" : "POL",
+    "Total Time" : "1:55.29",
+    "Diff." : "+5.78"
+  }, {
+    "Rank" : "72",
+    "Bib" : "52",
+    "FIS Code" : "512124",
+    "Name" : "HINTERMANN Niels",
+    "Year" : "1995",
+    "Nation" : "SUI",
+    "Total Time" : "1:55.49",
+    "Diff." : "+5.98"
+  }, {
+    "Rank" : "Did not start 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "75",
+    "FIS Code" : "534959",
+    "Name" : "JITLOFF Tim",
+    "Year" : "1985",
+    "Nation" : "USA",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "31",
+    "FIS Code" : "102271",
+    "Name" : "HUDEC Jan",
+    "Year" : "1981",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "40",
+    "FIS Code" : "934643",
+    "Name" : "GOLDBERG Jared",
+    "Year" : "1991",
+    "Nation" : "USA",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ]
+}

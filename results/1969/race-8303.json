@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10698",
+    "Name" : "PALL Olga",
+    "Year" : "1947",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.44"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10947",
+    "Name" : "DREXEL Wiltrud",
+    "Year" : "1950",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.51"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10328",
+    "Name" : "DEMETZ Giustina",
+    "Year" : "1941",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.26"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10478",
+    "Name" : "KNOBLOCH Jutta",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.27"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10233",
+    "Name" : "ZIMMERMAN Edith",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.93"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10054",
+    "Name" : "ZYRD Annerösli",
+    "Year" : "1949",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.18"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10647",
+    "Name" : "JACOT Michelle",
+    "Year" : "1952",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.30"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10315",
+    "Name" : "GABL Gertrude",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.30"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10602",
+    "Name" : "COCHRAN Marilyn",
+    "Year" : "1950",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.36"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,117 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "3",
+    "FIS Code" : "516280",
+    "Name" : "HOLDENER Wendy",
+    "Year" : "1993",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "2",
+    "Bib" : "1",
+    "FIS Code" : "505679",
+    "Name" : "HANSDOTTER Frida",
+    "Year" : "1985",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "3",
+    "Bib" : "7",
+    "FIS Code" : "505760",
+    "Name" : "PIETILAE-HOLMNER Maria",
+    "Year" : "1986",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "4",
+    "Bib" : "4",
+    "FIS Code" : "425771",
+    "Name" : "LOESETH Nina",
+    "Year" : "1989",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "5",
+    "Bib" : "8",
+    "FIS Code" : "55977",
+    "Name" : "THALMANN Carmen",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "Bib" : "6",
+    "FIS Code" : "705423",
+    "Name" : "VLHOVA Petra",
+    "Year" : "1995",
+    "Nation" : "SVK"
+  }, {
+    "Rank" : "5",
+    "Bib" : "5",
+    "FIS Code" : "196806",
+    "Name" : "NOENS Nastasia",
+    "Year" : "1988",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "Bib" : "2",
+    "FIS Code" : "705287",
+    "Name" : "VELEZ ZUZULOVA Veronika",
+    "Year" : "1984",
+    "Nation" : "SVK"
+  }, {
+    "Rank" : "9",
+    "Bib" : "16",
+    "FIS Code" : "355050",
+    "Name" : "WEIRATHER Tina",
+    "Year" : "1989",
+    "Nation" : "LIE"
+  }, {
+    "Rank" : "9",
+    "Bib" : "15",
+    "FIS Code" : "516138",
+    "Name" : "GUT Lara",
+    "Year" : "1991",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "9",
+    "Bib" : "14",
+    "FIS Code" : "537544",
+    "Name" : "VONN Lindsey",
+    "Year" : "1984",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "13",
+    "FIS Code" : "206487",
+    "Name" : "WIESLER Maren",
+    "Year" : "1993",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "9",
+    "Bib" : "12",
+    "FIS Code" : "537772",
+    "Name" : "STIEGLER Resi",
+    "Year" : "1985",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "11",
+    "FIS Code" : "516284",
+    "Name" : "GISIN Michelle",
+    "Year" : "1993",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "9",
+    "Bib" : "10",
+    "FIS Code" : "55759",
+    "Name" : "KIRCHGASSER Michaela",
+    "Year" : "1985",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "9",
+    "FIS Code" : "105269",
+    "Name" : "GAGNON Marie-Michele",
+    "Year" : "1989",
+    "Nation" : "CAN"
+  }, {
+    "Rank" : ""
+  } ]
+}

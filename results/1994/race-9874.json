@@ -1,0 +1,181 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "505083",
+    "Name" : "WIBERG Pernilla",
+    "Year" : "1970",
+    "Nation" : "SWE",
+    "Total Time" : "3:48.08",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "515106",
+    "Name" : "SCHNEIDER Vreni",
+    "Year" : "1964",
+    "Nation" : "SUI",
+    "Total Time" : "3:48.40",
+    "Diff." : "+0.32",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "295303",
+    "Name" : "PEREZ Bibiana",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Total Time" : "3:49.10",
+    "Diff." : "+1.02",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "205378",
+    "Name" : "ERTL-RENZ Martina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Total Time" : "3:49.35",
+    "Diff." : "+1.27",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "295049",
+    "Name" : "GALLIZIO Morena",
+    "Year" : "1974",
+    "Nation" : "ITA",
+    "Total Time" : "3:50.21",
+    "Diff." : "+2.13",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "295267",
+    "Name" : "COMPAGNONI Deborah",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Total Time" : "3:50.58",
+    "Diff." : "+2.50",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "565109",
+    "Name" : "DOVZAN Alenka",
+    "Year" : "1976",
+    "Nation" : "SLO",
+    "Total Time" : "3:51.64",
+    "Diff." : "+3.56",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "565029",
+    "Name" : "KOREN Katja",
+    "Year" : "1975",
+    "Nation" : "SLO",
+    "Total Time" : "3:52.73",
+    "Diff." : "+4.65",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "505141",
+    "Name" : "HANSSON Erika",
+    "Year" : "1973",
+    "Nation" : "SWE",
+    "Total Time" : "3:53.98",
+    "Diff." : "+5.90",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "195277",
+    "Name" : "PICCARD Leila",
+    "Year" : "1971",
+    "Nation" : "FRA",
+    "Total Time" : "3:55.02",
+    "Diff." : "+6.94",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "565097",
+    "Name" : "PRETNAR Spela",
+    "Year" : "1973",
+    "Nation" : "SLO",
+    "Total Time" : "3:55.32",
+    "Diff." : "+7.24",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "485064",
+    "Name" : "GLADISHIVA Svetlana",
+    "Year" : "1971",
+    "Nation" : "RUS",
+    "Total Time" : "3:55.92",
+    "Diff." : "+7.84",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "205117",
+    "Name" : "GERG Hilde",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "3:56.36",
+    "Diff." : "+8.28",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "515082",
+    "Name" : "MAY Gaby",
+    "Year" : "1968",
+    "Nation" : "SUI",
+    "Total Time" : "3:57.49",
+    "Diff." : "+9.41",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "195195",
+    "Name" : "CAVAGNOUD Regine",
+    "Year" : "1970",
+    "Nation" : "FRA",
+    "Total Time" : "3:59.35",
+    "Diff." : "+11.27",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "535162",
+    "Name" : "PELLETIER Monique",
+    "Year" : "1969",
+    "Nation" : "USA",
+    "Total Time" : "4:00.31",
+    "Diff." : "+12.23",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10250",
+    "Name" : "HAKER Erik",
+    "Year" : "1952",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10743",
+    "Name" : "MULLER Peter",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.26"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10506",
+    "Name" : "READ Ken",
+    "Year" : "1955",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.08"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10750",
+    "Name" : "WIRNSBERGER Peter",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.11"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10289",
+    "Name" : "KLAMMER Franz",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.52"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10775",
+    "Name" : "ANTONIOLI Renato",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.57"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10910",
+    "Name" : "SPIESS Ulrich",
+    "Year" : "1955",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.64"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10201",
+    "Name" : "MURRAY Dave",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.99"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10325",
+    "Name" : "GIARDINI Giuliano",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.03"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10931",
+    "Name" : "VESTI Walter",
+    "Year" : "1950",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.10"
+  }, {
+    "Rank" : ""
+  } ]
+}

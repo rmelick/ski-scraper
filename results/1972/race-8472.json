@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.05"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10930",
+    "Name" : "TRESCH Walter",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.70"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10636",
+    "Name" : "DAETWYLER Michael",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.26"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.35"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10462",
+    "Name" : "LOIDL Josef",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.41"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10290",
+    "Name" : "VOGLER Franz",
+    "Year" : "1944",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.65"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10776",
+    "Name" : "BERTHOD Rene",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.84"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10442",
+    "Name" : "HUNTER Jim",
+    "Year" : "1953",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.98"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.06"
+  }, {
+    "Rank" : ""
+  } ]
+}

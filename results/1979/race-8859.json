@@ -1,0 +1,230 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10743",
+    "Name" : "MULLER Peter",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "50199",
+    "Name" : "STOCK Leonard",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.22"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.23"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10895",
+    "Name" : "BURGLER Toni",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.72"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10771",
+    "Name" : "SCHMALZL Reinhard",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.88"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10699",
+    "Name" : "COZZIO Olindo",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.97"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10911",
+    "Name" : "RABER Urs",
+    "Year" : "1958",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.07"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10756",
+    "Name" : "ROUX Philippe",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.09"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10119",
+    "Name" : "FRETZ Bruno",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.13"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10553",
+    "Name" : "CANCIAN Lorenzo",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.16"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "-10466",
+    "Name" : "WALCHER Josef",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.24"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "-10840",
+    "Name" : "FERSTL Sepp",
+    "Year" : "1954",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.53"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "-10384",
+    "Name" : "NACHBAUER Hubert",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.62"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "-10652",
+    "Name" : "FARNY Mike",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.64"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "-10261",
+    "Name" : "RESCH Erwin",
+    "Year" : "1961",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.79"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "-10639",
+    "Name" : "VEITH Michael",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+1.79"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "-10063",
+    "Name" : "STEINER Anton",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.80"
+  }, {
+    "Rank" : "18",
+    "Bib" : "",
+    "FIS Code" : "-10453",
+    "Name" : "VICARI Johnny",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.82"
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "-10435",
+    "Name" : "MUFFAT Jean-Marc",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.85"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "-10356",
+    "Name" : "WEIRATHER Harti",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.89"
+  }, {
+    "Rank" : "21",
+    "Bib" : "",
+    "FIS Code" : "-10260",
+    "Name" : "JOSI Erwin",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.91"
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "-10201",
+    "Name" : "MURRAY Dave",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.92"
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "-10839",
+    "Name" : "BURCHER Sepp",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.92"
+  }, {
+    "Rank" : "24",
+    "Bib" : "",
+    "FIS Code" : "-10910",
+    "Name" : "SPIESS Ulrich",
+    "Year" : "1955",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.98"
+  }, {
+    "Rank" : "25",
+    "Bib" : "",
+    "FIS Code" : "-10855",
+    "Name" : "MELI Silvano",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.99"
+  }, {
+    "Rank" : ""
+  } ]
+}

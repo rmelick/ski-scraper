@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10776",
+    "Name" : "BERTHOD Rene",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.17"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10654",
+    "Name" : "LAFFERTY Mike",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.51"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.14"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10290",
+    "Name" : "VOGLER Franz",
+    "Year" : "1944",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+2.39"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.53"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10337",
+    "Name" : "BESSON Guiliano",
+    "Year" : "1950",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.55"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10804",
+    "Name" : "THOENI Rolando",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.69"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10636",
+    "Name" : "DAETWYLER Michael",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.70"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.90"
+  }, {
+    "Rank" : ""
+  } ]
+}

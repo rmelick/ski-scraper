@@ -1,0 +1,115 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10427",
+    "Name" : "KILLY Jean-Claude",
+    "Year" : "1943",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:29.28",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10945",
+    "Name" : "FAVRE Willy",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:31.50",
+    "Diff." : "+2.22"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:31.83",
+    "Diff." : "+2.55"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10342",
+    "Name" : "PERILLAT Guy",
+    "Year" : "1940",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:32.06",
+    "Diff." : "+2.78"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10094",
+    "Name" : "KIDD Billy",
+    "Year" : "1943",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:32.37",
+    "Diff." : "+3.09"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:33.08",
+    "Diff." : "+3.80"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10224",
+    "Name" : "GIOVANOLI Dumeng",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:33.55",
+    "Diff." : "+4.27"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10306",
+    "Name" : "NENNING Gerhard",
+    "Year" : "1940",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:33.61",
+    "Diff." : "+4.33"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10301",
+    "Name" : "MAUDUIT Georges",
+    "Year" : "1942",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:33.78",
+    "Diff." : "+4.50"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10444",
+    "Name" : "HUEGA Jimmy",
+    "Year" : "",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "3:33.89",
+    "Diff." : "+4.61"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -8,9 +8,10 @@ import parser.ResultParser;
 import parser.ScheduleParser;
 
 import java.io.File;
-import java.util.HashSet;
+import java.io.IOException;
 import java.util.List;
-import java.util.Set;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -28,9 +29,37 @@ public class App {
   }
 
   public void run() throws Exception {
-    String seasonSearchUrl = "http://data.fis-ski.com/global-links/all-fis-results.html?place_search=&seasoncode_search=2017&sector_search=AL&date_search=&gender_search=&category_search=WC&codex_search=&nation_search=&disciplinecode_search=&date_from=01&search=Search&limit=100";
-    File outputDirectory = new File("downloads");
+    File outputDirectory = new File("results");
     outputDirectory.mkdir();
+    ExecutorService executorService = Executors.newFixedThreadPool(10);
+
+    for (int season = 1967; season <= 2017; season++) {
+      final int seasonToExecute = season;
+      executorService.submit(() -> {
+        try {
+          downloadSeason(outputDirectory, seasonToExecute);
+        } catch (IOException e) {
+          e.printStackTrace();
+        } catch (InterruptedException e) {
+          e.printStackTrace();
+        }
+      });
+    }
+
+    executorService.shutdown();
+  }
+
+  private void downloadSeason(File outputDirectory, int season) throws IOException, InterruptedException {
+    File seasonDirectory = new File(outputDirectory, String.valueOf(season));
+    boolean newSeason = seasonDirectory.mkdir();
+    if (!newSeason) {
+      System.out.println("Already downloaded season " + season);
+      return;
+    }
+
+    String seasonSearchUrl = String.format("http://data.fis-ski.com/global-links/all-fis-results.html?"
+            + "seasoncode_search=%s&sector_search=AL&category_search=WC&date_from=01&search=Search&limit=100",
+        season);
 
     System.out.println("Downloading season from " + seasonSearchUrl);
     Document schedule = Jsoup.connect(seasonSearchUrl).get();
@@ -41,7 +70,7 @@ public class App {
       List<String> resultPages = EventDetailsParser.parse(detailPage);
 
       for (String resultUrl : resultPages) {
-        File outputFile = new File(outputDirectory, String.format("race-%s.json", extractRaceId(resultUrl)));
+        File outputFile = new File(seasonDirectory, String.format("race-%s.json", extractRaceId(resultUrl)));
         if (outputFile.exists()) {
           System.out.println("Skipping downloading " + outputFile);
           continue;
@@ -50,12 +79,10 @@ public class App {
         System.out.println("Downloading result page from " + resultUrl);
         Document resultPage = Jsoup.connect(resultUrl).get();
         JsonNode parsedResult = ResultParser.parse(resultPage);
-        System.out.println(_writer.writeValueAsString(parsedResult));
-
         _writer.writeValue(outputFile, parsedResult);
 
-        System.out.println("Sleeping 500ms");
-        Thread.sleep(500);
+        System.out.println("Sleeping 100ms");
+        Thread.sleep(100);
       }
     }
   }

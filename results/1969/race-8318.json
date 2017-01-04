@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.39"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.43"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.70"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10463",
+    "Name" : "MINSCH Josef",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.77"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.13"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10438",
+    "Name" : "AUGERT Jean-Pierre",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.53"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10353",
+    "Name" : "ZINGRE Hans",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.73"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10943",
+    "Name" : "LESCH Willi",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+3.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10306",
+    "Name" : "NENNING Gerhard",
+    "Year" : "1940",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.39"
+  }, {
+    "Rank" : ""
+  } ]
+}

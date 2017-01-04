@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10427",
+    "Name" : "KILLY Jean-Claude",
+    "Year" : "1943",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.71"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10342",
+    "Name" : "PERILLAT Guy",
+    "Year" : "1940",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.48"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10306",
+    "Name" : "NENNING Gerhard",
+    "Year" : "1940",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.25"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.81"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10746",
+    "Name" : "ROHR Peter",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.11"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10935",
+    "Name" : "BLEINER Werner",
+    "Year" : "1946",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+4.19"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10865",
+    "Name" : "SODAT Stefan",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+4.20"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10463",
+    "Name" : "MINSCH Josef",
+    "Year" : "1941",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.65"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10032",
+    "Name" : "SPRECHER Andreas",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.67"
+  }, {
+    "Rank" : ""
+  } ]
+}

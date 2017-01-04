@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10523",
+    "Name" : "HUGGLER Kurt",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.04"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10342",
+    "Name" : "PERILLAT Guy",
+    "Year" : "1940",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.25"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.75"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10290",
+    "Name" : "VOGLER Franz",
+    "Year" : "1944",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+2.76"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10821",
+    "Name" : "SAILER Rudi",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.87"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10354",
+    "Name" : "SCHLAGER Hansjorg",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+3.89"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10746",
+    "Name" : "ROHR Peter",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.03"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10353",
+    "Name" : "ZINGRE Hans",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.67"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10636",
+    "Name" : "DAETWYLER Michael",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.70"
+  }, {
+    "Rank" : ""
+  } ]
+}

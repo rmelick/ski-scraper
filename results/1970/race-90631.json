@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "2:24.57",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "2:24.79",
+    "Diff." : "+0.22"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10568",
+    "Name" : "MILNE Malcolm",
+    "Year" : "1948",
+    "Nation" : "AUS",
+    "Total Time" : "2:25.09",
+    "Diff." : "+0.52"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "2:25.46",
+    "Diff." : "+0.89"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10578",
+    "Name" : "VARALLO Marcello",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "2:25.52",
+    "Diff." : "+0.95"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10094",
+    "Name" : "KIDD Billy",
+    "Year" : "1943",
+    "Nation" : "USA",
+    "Total Time" : "2:25.52",
+    "Diff." : "+0.95"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10821",
+    "Name" : "SAILER Rudi",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "2:26.12",
+    "Diff." : "+1.55"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10434",
+    "Name" : "PINEL Jean-Luc",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "2:26.59",
+    "Diff." : "+2.02"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10862",
+    "Name" : "HANDSON Stefan",
+    "Year" : "",
+    "Nation" : "SWE",
+    "Total Time" : "2:26.89",
+    "Diff." : "+2.32"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10455",
+    "Name" : "OVERLAND Jon Terje",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Total Time" : "2:27.05",
+    "Diff." : "+2.48"
+  }, {
+    "Rank" : ""
+  } ]
+}

@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10289",
+    "Name" : "KLAMMER Franz",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10756",
+    "Name" : "ROUX Philippe",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.94"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10250",
+    "Name" : "HAKER Erik",
+    "Year" : "1952",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+0.97"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10200",
+    "Name" : "IRWIN Dave",
+    "Year" : "1954",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.26"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.34"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10089",
+    "Name" : "RUSSI Bernhard",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.47"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.61"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10259",
+    "Name" : "WINKLER Ernst",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.82"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10510",
+    "Name" : "EBERHARD Klaus",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.92"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10776",
+    "Name" : "BERTHOD Rene",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.03"
+  }, {
+    "Rank" : ""
+  } ]
+}

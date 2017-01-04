@@ -1,0 +1,59 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "420470",
+    "Name" : "KJUS Lasse",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "50041",
+    "Name" : "WALCHHOFER Michael",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.96"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "420382",
+    "Name" : "AAMODT Kjetil Andre",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.27"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "530667",
+    "Name" : "PUCKETT P Casey",
+    "Year" : "1972",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+6.56"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "510001",
+    "Name" : "ACCOLA Paul",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+8.24"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "560302",
+    "Name" : "SPAROVEC Gregor",
+    "Year" : "1977",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+12.39"
+  }, {
+    "Rank" : ""
+  } ]
+}

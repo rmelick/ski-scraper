@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "505083",
+    "Name" : "WIBERG Pernilla",
+    "Year" : "1970",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "205117",
+    "Name" : "GERG Hilde",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.43"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "55097",
+    "Name" : "WACHTER Anita",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.49"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "205043",
+    "Name" : "BRAUNER Sibylle",
+    "Year" : "1975",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+3.82"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "515348",
+    "Name" : "BORGHI Catherine",
+    "Year" : "1976",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.61"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "295049",
+    "Name" : "GALLIZIO Morena",
+    "Year" : "1974",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+6.14"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "425077",
+    "Name" : "MARKEN Ingeborg Helen",
+    "Year" : "1975",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+8.73"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "425031",
+    "Name" : "GIMLE Trude",
+    "Year" : "1974",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+9.19"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "705029",
+    "Name" : "KVOPKOVA Maria",
+    "Year" : "1975",
+    "Nation" : "SVK",
+    "Total Time" : "0.00",
+    "Diff." : "+15.32"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "105504",
+    "Name" : "CLEMENT Marie Joelle",
+    "Year" : "1976",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+15.54"
+  }, {
+    "Rank" : ""
+  } ]
+}

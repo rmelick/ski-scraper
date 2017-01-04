@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10377",
+    "Name" : "PLANK Herbert",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10750",
+    "Name" : "WIRNSBERGER Peter",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.13"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10289",
+    "Name" : "KLAMMER Franz",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.85"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10639",
+    "Name" : "VEITH Michael",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+2.50"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.72"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10510",
+    "Name" : "EBERHARD Klaus",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.89"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10341",
+    "Name" : "THOENI Gustavo",
+    "Year" : "1951",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.96"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10466",
+    "Name" : "WALCHER Josef",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.04"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10910",
+    "Name" : "SPIESS Ulrich",
+    "Year" : "1955",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.05"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10260",
+    "Name" : "JOSI Erwin",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.17"
+  }, {
+    "Rank" : ""
+  } ]
+}

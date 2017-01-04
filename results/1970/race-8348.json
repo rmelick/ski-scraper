@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10364",
+    "Name" : "MESSNER Heinrich",
+    "Year" : "1939",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.03"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.55"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10290",
+    "Name" : "VOGLER Franz",
+    "Year" : "1944",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+2.36"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10523",
+    "Name" : "HUGGLER Kurt",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.86"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10434",
+    "Name" : "PINEL Jean-Luc",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.93"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10306",
+    "Name" : "NENNING Gerhard",
+    "Year" : "1940",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.13"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10504",
+    "Name" : "SHEPHERD Keith",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+3.58"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10100",
+    "Name" : "COCHRAN Bob",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.58"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10462",
+    "Name" : "LOIDL Josef",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.96"
+  }, {
+    "Rank" : ""
+  } ]
+}

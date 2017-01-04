@@ -1,0 +1,115 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10394",
+    "Name" : "LAFFORGUE Ingrid",
+    "Year" : "1948",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:40.44",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10074",
+    "Name" : "COCHRAN Barbara Ann",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.15",
+    "Diff." : "+1.71"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10647",
+    "Name" : "JACOT Michelle",
+    "Year" : "1952",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.20",
+    "Diff." : "+1.76"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10315",
+    "Name" : "GABL Gertrude",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.26",
+    "Diff." : "+1.82"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "536294",
+    "Name" : "NAGEL Jody",
+    "Year" : "1951",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:42.93",
+    "Diff." : "+2.49"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10602",
+    "Name" : "COCHRAN Marilyn",
+    "Year" : "1950",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:43.34",
+    "Diff." : "+2.90"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:43.35",
+    "Diff." : "+2.91"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10091",
+    "Name" : "CLIFFORD Betsy",
+    "Year" : "1953",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:45.78",
+    "Diff." : "+5.34"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10081",
+    "Name" : "RAUTER Bernadette",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:45.84",
+    "Diff." : "+5.40"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10319",
+    "Name" : "HATHORN Gina",
+    "Year" : "",
+    "Nation" : "GBR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:46.26",
+    "Diff." : "+5.82"
+  }, {
+    "Rank" : ""
+  } ]
+}

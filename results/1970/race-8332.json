@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10084",
+    "Name" : "ORCEL Bernard",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.87"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10374",
+    "Name" : "DUVILLARD Henri",
+    "Year" : "1947",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.39"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10434",
+    "Name" : "PINEL Jean-Luc",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.48"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10568",
+    "Name" : "MILNE Malcolm",
+    "Year" : "1948",
+    "Nation" : "AUS",
+    "Total Time" : "0.00",
+    "Diff." : "+1.49"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10493",
+    "Name" : "SCHRANZ Karl",
+    "Year" : "1938",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.51"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10866",
+    "Name" : "ANZI Stefano",
+    "Year" : "1949",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.18"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10428",
+    "Name" : "DAETWYLER Jean-Daniel",
+    "Year" : "1945",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.71"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10799",
+    "Name" : "LITTLE Rogers",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.75"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10820",
+    "Name" : "PYLES Rudd",
+    "Year" : "",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.85"
+  }, {
+    "Rank" : ""
+  } ]
+}

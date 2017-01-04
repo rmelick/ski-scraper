@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10840",
+    "Name" : "FERSTL Sepp",
+    "Year" : "1954",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10750",
+    "Name" : "WIRNSBERGER Peter",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.20"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10910",
+    "Name" : "SPIESS Ulrich",
+    "Year" : "1955",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.97"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10260",
+    "Name" : "JOSI Erwin",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.10"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10377",
+    "Name" : "PLANK Herbert",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.19"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.30"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "50199",
+    "Name" : "STOCK Leonard",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.38"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10869",
+    "Name" : "PODBORSKI Steve",
+    "Year" : "1957",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.53"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10895",
+    "Name" : "BURGLER Toni",
+    "Year" : "1957",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.64"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10506",
+    "Name" : "READ Ken",
+    "Year" : "1955",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.67"
+  }, {
+    "Rank" : ""
+  } ]
+}

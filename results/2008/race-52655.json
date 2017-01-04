@@ -1,0 +1,500 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "4",
+    "FIS Code" : "105997",
+    "Name" : "BRYDON Emily",
+    "Year" : "1980",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "5",
+    "FIS Code" : "55576",
+    "Name" : "GOERGL Elisabeth",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.64"
+  }, {
+    "Rank" : "3",
+    "Bib" : "3",
+    "FIS Code" : "296008",
+    "Name" : "MERIGHETTI Daniela",
+    "Year" : "1981",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.07"
+  }, {
+    "Rank" : "4",
+    "Bib" : "10",
+    "FIS Code" : "505483",
+    "Name" : "PAERSON Anja",
+    "Year" : "1981",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+1.24"
+  }, {
+    "Rank" : "5",
+    "Bib" : "13",
+    "FIS Code" : "515170",
+    "Name" : "STYGER Nadia",
+    "Year" : "1978",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.48"
+  }, {
+    "Rank" : "6",
+    "Bib" : "14",
+    "FIS Code" : "537544",
+    "Name" : "VONN Lindsey",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.58"
+  }, {
+    "Rank" : "7",
+    "Bib" : "23",
+    "FIS Code" : "515560",
+    "Name" : "SCHILD Martina",
+    "Year" : "1981",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.61"
+  }, {
+    "Rank" : "8",
+    "Bib" : "2",
+    "FIS Code" : "225206",
+    "Name" : "ALCOTT Chemmy",
+    "Year" : "1982",
+    "Nation" : "GBR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.68"
+  }, {
+    "Rank" : "9",
+    "Bib" : "6",
+    "FIS Code" : "55669",
+    "Name" : "HOLAUS Maria",
+    "Year" : "1983",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.79"
+  }, {
+    "Rank" : "10",
+    "Bib" : "7",
+    "FIS Code" : "196460",
+    "Name" : "MARCHAND-ARVIER Marie",
+    "Year" : "1985",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.01"
+  }, {
+    "Rank" : "11",
+    "Bib" : "26",
+    "FIS Code" : "295136",
+    "Name" : "CECCARELLI Daniela",
+    "Year" : "1975",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.25"
+  }, {
+    "Rank" : "12",
+    "Bib" : "28",
+    "FIS Code" : "296472",
+    "Name" : "FANCHINI Elena",
+    "Year" : "1985",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.36"
+  }, {
+    "Rank" : "13",
+    "Bib" : "15",
+    "FIS Code" : "106022",
+    "Name" : "JANYK Britt",
+    "Year" : "1980",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.54"
+  }, {
+    "Rank" : "14",
+    "Bib" : "12",
+    "FIS Code" : "537545",
+    "Name" : "MANCUSO Julia",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.55"
+  }, {
+    "Rank" : "15",
+    "Bib" : "16",
+    "FIS Code" : "195671",
+    "Name" : "JACQUEMOD Ingrid",
+    "Year" : "1978",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.59"
+  }, {
+    "Rank" : "16",
+    "Bib" : "25",
+    "FIS Code" : "515429",
+    "Name" : "DUMERMUTH Monika",
+    "Year" : "1977",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.60"
+  }, {
+    "Rank" : "17",
+    "Bib" : "24",
+    "FIS Code" : "537582",
+    "Name" : "COOK Stacey",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.62"
+  }, {
+    "Rank" : "18",
+    "Bib" : "36",
+    "FIS Code" : "296473",
+    "Name" : "SIORPAES Wendy",
+    "Year" : "1985",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.65"
+  }, {
+    "Rank" : "19",
+    "Bib" : "22",
+    "FIS Code" : "495318",
+    "Name" : "RUIZ CASTILLO Carolina",
+    "Year" : "1981",
+    "Nation" : "ESP",
+    "Total Time" : "0.00",
+    "Diff." : "+2.66"
+  }, {
+    "Rank" : "20",
+    "Bib" : "20",
+    "FIS Code" : "55069",
+    "Name" : "GOETSCHL Renate",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.68"
+  }, {
+    "Rank" : "21",
+    "Bib" : "34",
+    "FIS Code" : "296427",
+    "Name" : "SCHNARF Johanna",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.97"
+  }, {
+    "Rank" : "22",
+    "Bib" : "18",
+    "FIS Code" : "106402",
+    "Name" : "VANDERBEEK Kelly",
+    "Year" : "1983",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+3.06"
+  }, {
+    "Rank" : "23",
+    "Bib" : "8",
+    "FIS Code" : "515747",
+    "Name" : "GISIN Dominique",
+    "Year" : "1985",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.11"
+  }, {
+    "Rank" : "24",
+    "Bib" : "47",
+    "FIS Code" : "296431",
+    "Name" : "STUFFER Verena",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.23"
+  }, {
+    "Rank" : "24",
+    "Bib" : "1",
+    "FIS Code" : "55588",
+    "Name" : "RUMPFHUBER Ingrid",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.23"
+  }, {
+    "Rank" : "26",
+    "Bib" : "9",
+    "FIS Code" : "55590",
+    "Name" : "SCHILD Marlies",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.26"
+  }, {
+    "Rank" : "27",
+    "Bib" : "40",
+    "FIS Code" : "375018",
+    "Name" : "COLETTI Alexandra",
+    "Year" : "1983",
+    "Nation" : "MON",
+    "Total Time" : "0.00",
+    "Diff." : "+3.30"
+  }, {
+    "Rank" : "28",
+    "Bib" : "17",
+    "FIS Code" : "515573",
+    "Name" : "AUFDENBLATTEN Fraenzi",
+    "Year" : "1981",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.31"
+  }, {
+    "Rank" : "29",
+    "Bib" : "44",
+    "FIS Code" : "536884",
+    "Name" : "LUDLOW Libby",
+    "Year" : "1981",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.39"
+  }, {
+    "Rank" : "30",
+    "Bib" : "53",
+    "FIS Code" : "296476",
+    "Name" : "ALFIERI Camilla",
+    "Year" : "1985",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.45"
+  }, {
+    "Rank" : "31",
+    "Bib" : "32",
+    "FIS Code" : "55596",
+    "Name" : "WILHELM Kathrin",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.46"
+  }, {
+    "Rank" : "32",
+    "Bib" : "19",
+    "FIS Code" : "55750",
+    "Name" : "FISCHBACHER Andrea",
+    "Year" : "1985",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.55"
+  }, {
+    "Rank" : "33",
+    "Bib" : "41",
+    "FIS Code" : "515244",
+    "Name" : "CASANOVA Carmen",
+    "Year" : "1980",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.57"
+  }, {
+    "Rank" : "34",
+    "Bib" : "21",
+    "FIS Code" : "55212",
+    "Name" : "MEISSNITZER Alexandra",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.66"
+  }, {
+    "Rank" : "35",
+    "Bib" : "37",
+    "FIS Code" : "196573",
+    "Name" : "REVILLET Aurelie",
+    "Year" : "1986",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.75"
+  }, {
+    "Rank" : "36",
+    "Bib" : "27",
+    "FIS Code" : "206175",
+    "Name" : "STECHERT Gina",
+    "Year" : "1987",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+3.98"
+  }, {
+    "Rank" : "37",
+    "Bib" : "48",
+    "FIS Code" : "565243",
+    "Name" : "MAZE Tina",
+    "Year" : "1983",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+4.13"
+  }, {
+    "Rank" : "38",
+    "Bib" : "29",
+    "FIS Code" : "515348",
+    "Name" : "BORGHI Catherine",
+    "Year" : "1976",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.16"
+  }, {
+    "Rank" : "39",
+    "Bib" : "54",
+    "FIS Code" : "565268",
+    "Name" : "DREV Ana",
+    "Year" : "1985",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+4.18"
+  }, {
+    "Rank" : "40",
+    "Bib" : "11",
+    "FIS Code" : "206001",
+    "Name" : "RIESCH Maria",
+    "Year" : "1984",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+4.25"
+  }, {
+    "Rank" : "41",
+    "Bib" : "42",
+    "FIS Code" : "505632",
+    "Name" : "LINDELL-VIKARBY Jessica",
+    "Year" : "1984",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+4.32"
+  }, {
+    "Rank" : "42",
+    "Bib" : "30",
+    "FIS Code" : "515409",
+    "Name" : "BERTHOD Sylviane",
+    "Year" : "1977",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.34"
+  }, {
+    "Rank" : "43",
+    "Bib" : "49",
+    "FIS Code" : "195972",
+    "Name" : "AUBERT Sandrine",
+    "Year" : "1982",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.84"
+  }, {
+    "Rank" : "44",
+    "Bib" : "39",
+    "FIS Code" : "538305",
+    "Name" : "SMITH Leanne",
+    "Year" : "1987",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+5.25"
+  }, {
+    "Rank" : "45",
+    "Bib" : "43",
+    "FIS Code" : "106410",
+    "Name" : "DESFORGES Emilie",
+    "Year" : "1983",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+5.39"
+  }, {
+    "Rank" : "46",
+    "Bib" : "45",
+    "FIS Code" : "538284",
+    "Name" : "MCJAMES Megan",
+    "Year" : "1987",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+5.49"
+  }, {
+    "Rank" : "47",
+    "Bib" : "50",
+    "FIS Code" : "205218",
+    "Name" : "REBENSBURG Viktoria",
+    "Year" : "1989",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+5.54"
+  }, {
+    "Rank" : "48",
+    "Bib" : "55",
+    "FIS Code" : "515766",
+    "Name" : "SUTER Fabienne",
+    "Year" : "1985",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+6.05"
+  }, {
+    "Rank" : "49",
+    "Bib" : "33",
+    "FIS Code" : "106849",
+    "Name" : "YURKIW Larisa",
+    "Year" : "1988",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+6.17"
+  }, {
+    "Rank" : "50",
+    "Bib" : "51",
+    "FIS Code" : "505886",
+    "Name" : "KLING Kajsa",
+    "Year" : "1988",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+6.33"
+  }, {
+    "Rank" : "51",
+    "Bib" : "56",
+    "FIS Code" : "205993",
+    "Name" : "HOELZL Kathrin",
+    "Year" : "1984",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+6.42"
+  }, {
+    "Rank" : "52",
+    "Bib" : "46",
+    "FIS Code" : "106662",
+    "Name" : "POLESCHUK Danielle",
+    "Year" : "1986",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+7.32"
+  }, {
+    "Rank" : "53",
+    "Bib" : "31",
+    "FIS Code" : "505449",
+    "Name" : "BENT Nike",
+    "Year" : "1981",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+7.61"
+  }, {
+    "Rank" : "54",
+    "Bib" : "52",
+    "FIS Code" : "296769",
+    "Name" : "LONGHINI Hilary",
+    "Year" : "1986",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+8.69"
+  }, {
+    "Rank" : "55",
+    "Bib" : "38",
+    "FIS Code" : "565261",
+    "Name" : "ROBNIK Petra",
+    "Year" : "1984",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+9.76"
+  }, {
+    "Rank" : ""
+  } ]
+}

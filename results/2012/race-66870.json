@@ -1,0 +1,45 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "FIS Code" : "565392",
+    "Name" : "SLOVENIA",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "2",
+    "FIS Code" : "298120",
+    "Name" : "ITALY",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "3",
+    "FIS Code" : "516184",
+    "Name" : "SWITZERLAND",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "4",
+    "FIS Code" : "56105",
+    "Name" : "AUSTRIA",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "206640",
+    "Name" : "GERMANY",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "197205",
+    "Name" : "FRANCE",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "107141",
+    "Name" : "CANADA",
+    "Nation" : "CAN"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "422541",
+    "Name" : "NORWAY",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : ""
+  } ]
+}

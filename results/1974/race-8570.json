@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10492",
+    "Name" : "CORDIN Karl",
+    "Year" : "1948",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10805",
+    "Name" : "COLLUMBIN Rolland",
+    "Year" : "1951",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.34"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10466",
+    "Name" : "WALCHER Josef",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.83"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10572",
+    "Name" : "GRABLER Manfred",
+    "Year" : "",
+    "Nation" : "AUS",
+    "Total Time" : "0.00",
+    "Diff." : "+0.83"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10736",
+    "Name" : "FEYERSINGER Peter",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.83"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10936",
+    "Name" : "GRISSMANN Werner",
+    "Year" : "1952",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.84"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10778",
+    "Name" : "BEELI Reto",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.87"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10442",
+    "Name" : "HUNTER Jim",
+    "Year" : "1953",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.02"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10204",
+    "Name" : "ZWILLING David",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.22"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10262",
+    "Name" : "STRICKER Erwin",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.46"
+  }, {
+    "Rank" : ""
+  } ]
+}

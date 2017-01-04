@@ -1,0 +1,140 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10741",
+    "Name" : "LUSCHER Peter",
+    "Year" : "1956",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10764",
+    "Name" : "ZURBRIGGEN Pirmin",
+    "Year" : "1963",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.20"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "50031",
+    "Name" : "ENN Hans",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.15"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10033",
+    "Name" : "WENZEL Andreas",
+    "Year" : "1958",
+    "Nation" : "LIE",
+    "Total Time" : "0.00",
+    "Diff." : "+1.43"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "50209",
+    "Name" : "STROLZ Hubert",
+    "Year" : "1962",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.44"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10851",
+    "Name" : "KERSCHBAUMER Sigfrid",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.48"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10415",
+    "Name" : "LUTHY Jacques",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.52"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10476",
+    "Name" : "FRANKO Jure",
+    "Year" : "",
+    "Nation" : "JUG",
+    "Total Time" : "0.00",
+    "Diff." : "+1.77"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "360002",
+    "Name" : "GIRARDELLI Marc",
+    "Year" : "1963",
+    "Nation" : "LUX",
+    "Total Time" : "0.00",
+    "Diff." : "+1.79"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10794",
+    "Name" : "ERLACHER Roberto",
+    "Year" : "1963",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.90"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "-10391",
+    "Name" : "STENMARK Ingemar",
+    "Year" : "1956",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : "+2.37"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "-10106",
+    "Name" : "STREL Boris",
+    "Year" : "1959",
+    "Nation" : "JUG",
+    "Total Time" : "0.00",
+    "Diff." : "+2.37"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "-10632",
+    "Name" : "JULEN Max",
+    "Year" : "1961",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.46"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "-10155",
+    "Name" : "ORLAINSKY Christian",
+    "Year" : "1962",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.53"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "310003",
+    "Name" : "BENEDIK Grega",
+    "Year" : "1962",
+    "Nation" : "JUG",
+    "Total Time" : "0.00",
+    "Diff." : "+2.60"
+  }, {
+    "Rank" : ""
+  } ]
+}

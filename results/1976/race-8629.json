@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10289",
+    "Name" : "KLAMMER Franz",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10776",
+    "Name" : "BERTHOD Rene",
+    "Year" : "",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.12"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10259",
+    "Name" : "WINKLER Ernst",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.02"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10741",
+    "Name" : "LUSCHER Peter",
+    "Year" : "1956",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.07"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10930",
+    "Name" : "TRESCH Walter",
+    "Year" : "1948",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.20"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10377",
+    "Name" : "PLANK Herbert",
+    "Year" : "1954",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.22"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10466",
+    "Name" : "WALCHER Josef",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.39"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10506",
+    "Name" : "READ Ken",
+    "Year" : "1955",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.47"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10063",
+    "Name" : "STEINER Anton",
+    "Year" : "1958",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.57"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10931",
+    "Name" : "VESTI Walter",
+    "Year" : "1950",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.63"
+  }, {
+    "Rank" : ""
+  } ]
+}

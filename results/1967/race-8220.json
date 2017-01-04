@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10328",
+    "Name" : "DEMETZ Giustina",
+    "Year" : "1941",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10600",
+    "Name" : "GOITSCHEL Marielle",
+    "Year" : "1945",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.74"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10054",
+    "Name" : "ZYRD Annerösli",
+    "Year" : "1949",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.78"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10058",
+    "Name" : "FAMOSE Annie",
+    "Year" : "1944",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.74"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10580",
+    "Name" : "HAFEN Margret",
+    "Year" : "",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+2.85"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10123",
+    "Name" : "FARBINGER Burgl",
+    "Year" : "1945",
+    "Nation" : "BRD",
+    "Total Time" : "0.00",
+    "Diff." : "+2.99"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10594",
+    "Name" : "JEAN-GEORGES Marie France",
+    "Year" : "",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.29"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10554",
+    "Name" : "NOGLER Lotte",
+    "Year" : "",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.64"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10414",
+    "Name" : "ROUVIER Jacqueline",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.89"
+  }, {
+    "Rank" : ""
+  } ]
+}

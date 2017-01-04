@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10414",
+    "Name" : "ROUVIER Jacqueline",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10051",
+    "Name" : "MOSER-PROELL Annemarie",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.37"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10285",
+    "Name" : "MACCHI Francoise",
+    "Year" : "1951",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.28"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10947",
+    "Name" : "DREXEL Wiltrud",
+    "Year" : "1950",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.36"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10599",
+    "Name" : "NADIG Marie-Therese",
+    "Year" : "1954",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+1.42"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10486",
+    "Name" : "CHRISTIANSEN Karianne",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.67"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.90"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10081",
+    "Name" : "RAUTER Bernadette",
+    "Year" : "1949",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.97"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10117",
+    "Name" : "TOTSCHNIG Brigitte",
+    "Year" : "1954",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.03"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10602",
+    "Name" : "COCHRAN Marilyn",
+    "Year" : "1950",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.17"
+  }, {
+    "Rank" : ""
+  } ]
+}

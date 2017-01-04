@@ -1,0 +1,95 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "-10054",
+    "Name" : "ZRYD Annerösli",
+    "Year" : "1949",
+    "Nation" : "SUI",
+    "Total Time" : "1:58.34",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "-10400",
+    "Name" : "MIR Isabelle",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "1:58.84",
+    "Diff." : "+0.50"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "-10051",
+    "Name" : "MOSER-PROELL Annemarie",
+    "Year" : "1953",
+    "Nation" : "AUT",
+    "Total Time" : "2:00.43",
+    "Diff." : "+2.09"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "-10469",
+    "Name" : "CRAWFORD Judy",
+    "Year" : "",
+    "Nation" : "CAN",
+    "Total Time" : "2:00.65",
+    "Diff." : "+2.31"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "-10393",
+    "Name" : "GFOLNER Ingrid",
+    "Year" : "",
+    "Nation" : "AUT",
+    "Total Time" : "2:01.00",
+    "Diff." : "+2.66"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "-10279",
+    "Name" : "STEURER Florence",
+    "Year" : "1949",
+    "Nation" : "FRA",
+    "Total Time" : "2:01.25",
+    "Diff." : "+2.91"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "-10580",
+    "Name" : "HAFEN Margret",
+    "Year" : "",
+    "Nation" : "GER",
+    "Total Time" : "2:01.34",
+    "Diff." : "+3.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "-10647",
+    "Name" : "JACOT Michelle",
+    "Year" : "1952",
+    "Nation" : "FRA",
+    "Total Time" : "2:02.17",
+    "Diff." : "+3.83"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "-10602",
+    "Name" : "COCHRAN Marilyn",
+    "Year" : "1950",
+    "Nation" : "USA",
+    "Total Time" : "2:02.47",
+    "Diff." : "+4.13"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "-10486",
+    "Name" : "CHRISTIANSEN Karianne",
+    "Year" : "",
+    "Nation" : "NOR",
+    "Total Time" : "2:02.60",
+    "Diff." : "+4.26"
+  }, {
+    "Rank" : ""
+  } ]
+}

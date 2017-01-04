@@ -1,0 +1,117 @@
+{
+  "result" : [ {
+    "Rank" : "1",
+    "Bib" : "11",
+    "FIS Code" : "206355",
+    "Name" : "DUERR Lena",
+    "Year" : "1991",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "2",
+    "Bib" : "4",
+    "FIS Code" : "705287",
+    "Name" : "VELEZ ZUZULOVA Veronika",
+    "Year" : "1984",
+    "Nation" : "SVK"
+  }, {
+    "Rank" : "3",
+    "Bib" : "2",
+    "FIS Code" : "6535237",
+    "Name" : "SHIFFRIN Mikaela",
+    "Year" : "1995",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "4",
+    "Bib" : "8",
+    "FIS Code" : "516280",
+    "Name" : "HOLDENER Wendy",
+    "Year" : "1993",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "5",
+    "Bib" : "7",
+    "FIS Code" : "55759",
+    "Name" : "KIRCHGASSER Michaela",
+    "Year" : "1985",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "Bib" : "5",
+    "FIS Code" : "185140",
+    "Name" : "POUTIAINEN Tanja",
+    "Year" : "1980",
+    "Nation" : "FIN"
+  }, {
+    "Rank" : "5",
+    "Bib" : "3",
+    "FIS Code" : "505679",
+    "Name" : "HANSDOTTER Frida",
+    "Year" : "1985",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "5",
+    "Bib" : "1",
+    "FIS Code" : "565243",
+    "Name" : "MAZE Tina",
+    "Year" : "1983",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "9",
+    "Bib" : "16",
+    "FIS Code" : "485570",
+    "Name" : "SOROKINA Anna",
+    "Year" : "1990",
+    "Nation" : "RUS"
+  }, {
+    "Rank" : "9",
+    "Bib" : "15",
+    "FIS Code" : "107068",
+    "Name" : "PHELAN Brittany",
+    "Year" : "1991",
+    "Nation" : "CAN"
+  }, {
+    "Rank" : "9",
+    "Bib" : "14",
+    "FIS Code" : "55977",
+    "Name" : "THALMANN Carmen",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "13",
+    "FIS Code" : "55807",
+    "Name" : "DAUM Alexandra",
+    "Year" : "1986",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "12",
+    "FIS Code" : "55690",
+    "Name" : "HOSP Nicole",
+    "Year" : "1983",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "10",
+    "FIS Code" : "56032",
+    "Name" : "SCHILD Bernadette",
+    "Year" : "1990",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "9",
+    "FIS Code" : "206279",
+    "Name" : "GEIGER Christina",
+    "Year" : "1990",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "9",
+    "Bib" : "6",
+    "FIS Code" : "505760",
+    "Name" : "PIETILAE-HOLMNER Maria",
+    "Year" : "1986",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : ""
+  } ]
+}
