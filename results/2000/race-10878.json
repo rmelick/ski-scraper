@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "ROHREGGER RUDOLF",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "505187",
@@ -697,5 +719,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "23.01.2000",
+    "Place" : "Cortina d'Ampezzo",
+    "Nation" : "ITA",
+    "Codex" : "5400",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : ""
+  }
 }

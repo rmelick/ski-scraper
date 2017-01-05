@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRANJC MATJAZ",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "15",
     "FIS Code" : "55590",
@@ -858,5 +880,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "09.01.2005",
+    "Place" : "Santa Caterina",
+    "Nation" : "ITA",
+    "Codex" : "5647",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Replaces: Berchtesgaden",
+    "Down load" : "Results, Analysis, Standings (216.92 kb)Results 2nd run (24.79 kb)Start List 2nd run (26.44 kb)Results 1st run (35.65 kb)Start List 1st run (34.83 kb)"
+  }
 }

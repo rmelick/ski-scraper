@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "SAVAGE TED",
+        "country" : "CAN"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "18",
     "FIS Code" : "425001",
@@ -975,5 +997,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "21.11.2001",
+    "Place" : "Copper Mountain, CO",
+    "Nation" : "USA",
+    "Codex" : "5865",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Replaces: Aspen",
+    "Down load" : "Results, Analysis, Standings (456.86 kb)Results 2nd run (27.04 kb)Start List 2nd run (24.12 kb)Results 1st run (345.17 kb)Start List 1st run ( b)"
+  }
 }

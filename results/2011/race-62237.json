@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HALL DOUGLAS",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "22",
     "FIS Code" : "537544",
@@ -625,5 +648,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "05.12.2010",
+    "Place" : "Lake Louise RUN CET LOC Run 1 19:00 11:00",
+    "Nation" : "CAN",
+    "Codex" : "5229",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (118.85 kb)Results, Analysis, Standings (1.02 MB)Start List (117.75 kb)"
+  }
 }

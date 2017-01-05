@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRIZOVA-CHARVATOVA OLGA",
+        "country" : "CZE"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "515268",
@@ -910,5 +932,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "19.12.2000",
+    "Place" : "Sestriere",
+    "Nation" : "ITA",
+    "Codex" : "5246",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Jasna, 20.12",
+    "Down load" : ""
+  }
 }

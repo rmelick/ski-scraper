@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BERTSCH HUGO",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "2",
     "FIS Code" : "55590",
@@ -857,5 +879,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "04.02.2011",
+    "Place" : "Arber-Zwiesel RUN CET LOC Run 1 10:00 10:00 Run 2 13:00 13:00",
+    "Nation" : "GER",
+    "Codex" : "5611",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "replaces:05.02.2011",
+    "Down load" : "Results, Analysis, Standings (1.61 MB)Results 2nd run (263.1 kb)Start List 2nd run (233.29 kb)Results 1st run (262.57 kb)Start List 1st run (234.18 kb)"
+  }
 }

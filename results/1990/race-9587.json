@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "195118",
@@ -136,5 +159,16 @@
     "Diff." : "+1.63"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "11.02.1990",
+    "Place" : "Meribel",
+    "Nation" : "FRA",
+    "Codex" : "2406",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : ""
+  }
 }

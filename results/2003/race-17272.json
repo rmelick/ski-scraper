@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KNAUTH PAMELA",
+        "country" : "GER"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "505483",
@@ -923,5 +945,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "25.01.2003",
+    "Place" : "Maribor",
+    "Nation" : "SLO",
+    "Codex" : "5660",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (212.19 kb)Results 2nd run (24.37 kb)Start List 2nd run (23.67 kb)Results 1st run (31.53 kb)Start List 1st run (30.93 kb)"
+  }
 }

@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "WUCHERER HANSPETER",
+        "country" : "GER"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "22",
     "FIS Code" : "515095",
@@ -1014,5 +1036,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "28.12.2001",
+    "Place" : "Lienz",
+    "Nation" : "AUT",
+    "Codex" : "6030",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (410.49 kb)Results 2nd run (26.65 kb)Start List 2nd run (23.57 kb)Results 1st run (25.98 kb)Start List 1st run (25.68 kb)"
+  }
 }

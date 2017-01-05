@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "COZZI MARCO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "192665",
@@ -1065,5 +1087,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "25.01.2011",
+    "Place" : "Schladming RUN CET LOC Run 1 17:45 17:45 Run 2 20:45 20:45",
+    "Nation" : "AUT",
+    "Codex" : "0158",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.83 MB)Results 2nd run (336.98 kb)Start List 2nd run (306.05 kb)Results 1st run (336.33 kb)Start List 1st run (335.01 kb)"
+  }
 }

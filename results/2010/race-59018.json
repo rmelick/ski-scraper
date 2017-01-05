@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "TURTON FRED",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "7",
     "FIS Code" : "102899",
@@ -786,5 +809,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "29.11.2009",
+    "Place" : "Lake Louise RUN CET LOC Run 1 19:15 11:15",
+    "Nation" : "CAN",
+    "Codex" : "0341",
+    "Discipline" : "Super G",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (311.06 kb)Results, Analysis, Standings (3.14 MB)Start List (297.44 kb)Event Program (325.38 kb)"
+  }
 }

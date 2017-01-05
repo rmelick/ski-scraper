@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HUBER MICHAEL",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "15",
     "FIS Code" : "50024",
@@ -757,5 +780,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "30.11.2002",
+    "Place" : "Lake Louise, AB",
+    "Nation" : "CAN",
+    "Codex" : "0771",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (30.29 kb)Results, Analysis, Standings (197.87 kb)Start List (27.4 kb)Results Training 3 (30.11 kb)Training Analysis (3) (136.69 kb)Start List Training 3 (30.23 kb)Results Training 2 (33.24 kb)Training Analysis (2) (136.48 kb)Start List Training 2 (33.14 kb)Results Training 1 (33.03 kb)Training Analysis (1) (134.53 kb)Start List Training 1 (33.15 kb)"
+  }
 }

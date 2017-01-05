@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRIZOVA-CHARVATOVA OLGA",
+        "country" : "CZE"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "26",
     "FIS Code" : "195374",
@@ -687,5 +710,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "15.01.2003",
+    "Place" : "Cortina d'Ampezzo",
+    "Nation" : "ITA",
+    "Codex" : "5344",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (28.9 kb)Results, Analysis, Standings (175.23 kb)Start List (25.8 kb)"
+  }
 }

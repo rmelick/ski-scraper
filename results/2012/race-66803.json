@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GAYRAUD BERNARD",
+        "country" : "GRE"
+      },
+      "Referee" : {
+        "name" : "G. HUJARA",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "V. STEFANOV",
+        "country" : "BUL"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2060 m.",
+      "Finish Altitude" : "1610 m.",
+      "Vertical Drop" : "450 m.",
+      "Homologation Number" : "8660/11/07"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "F. GAMPER",
+        "country" : "NOR"
+      },
+      "Number of Gates" : "55",
+      "Turning Gates" : "52",
+      "Start Time" : "10:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. DAY",
+        "country" : "USA"
+      },
+      "Number of Gates" : "52",
+      "Turning Gates" : "51",
+      "Start Time" : "13:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "53831",
@@ -719,5 +759,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "18.02.2012",
+    "Place" : "Bansko RUN CET LOC Run 1 09:00 10:00 Run 2 12:00 13:00",
+    "Nation" : "BUL",
+    "Codex" : "0240",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.12 MB)Results 2nd run (136.25 kb)Start List 2nd run (107.73 kb)Results 1st run (135.8 kb)Start List 1st run (134.85 kb)Event Program (4.71 MB)"
+  }
 }

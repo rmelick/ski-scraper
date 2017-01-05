@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MUNDAL SVEIN",
+        "country" : "NOR"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "50625",
@@ -382,5 +404,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "17.03.2006",
+    "Place" : "Are RUN CET LOC Run 1 10:00 Run 2 12:30",
+    "Nation" : "SWE",
+    "Codex" : "1394",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (506.74 kb)Results 2nd run (190.62 kb)Start List 2nd run (143.59 kb)Results 1st run (190.01 kb)Start List 1st run (202.93 kb)"
+  }
 }

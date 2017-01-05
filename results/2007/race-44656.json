@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "VIEVILLE GéRARD",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "1",
     "FIS Code" : "55590",
@@ -745,5 +767,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "25.02.2007",
+    "Place" : "Sierra Nevada RUN CET LOC Run 1 09:00 Run 2 12:00",
+    "Nation" : "ESP",
+    "Codex" : "6278",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (934.67 kb)Results 2nd run (399.76 kb)Start List 2nd run (388.11 kb)Results 1st run (398.87 kb)Start List 1st run (388.31 kb)"
+  }
 }

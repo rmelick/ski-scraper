@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "STOCKER RUDOLF",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "6",
     "FIS Code" : "534562",
@@ -858,5 +880,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "28.02.2009",
+    "Place" : "Kranjska Gora RUN CET LOC Run 1 09:00 09:00 Run 2 12:15 12:15",
+    "Nation" : "SLO",
+    "Codex" : "1242",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.73 MB)Results 2nd run (240.77 kb)Start List 2nd run (207.3 kb)Results 1st run (209.41 kb)Start List 1st run (179.64 kb)"
+  }
 }

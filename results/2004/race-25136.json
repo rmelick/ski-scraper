@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "STEINBERGER WERNER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "505483",
@@ -836,5 +858,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "25.01.2004",
+    "Place" : "Maribor",
+    "Nation" : "SLO",
+    "Codex" : "6245",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (210.14 kb)Results 2nd run (24.68 kb)Start List 2nd run (24.43 kb)Results 1st run (32.69 kb)Start List 1st run (32.04 kb)"
+  }
 }

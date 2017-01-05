@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BATTENDIER MARC",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "6",
     "FIS Code" : "50058",
@@ -526,5 +549,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "28.12.2001",
+    "Place" : "Bormio",
+    "Nation" : "ITA",
+    "Codex" : "0960",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "Replaces : Beaver Creek",
+    "Down load" : "Results (25.48 kb)Results, Analysis, Standings (509.45 kb)Start List (23.45 kb)Results Training 1 (25.21 kb)Training Analysis (1) (159.73 kb)Start List Training 1 (23.7 kb)"
+  }
 }

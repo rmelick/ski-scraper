@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DäUBER WILFRIED",
+        "country" : "GER"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "7",
     "FIS Code" : "532431",
@@ -1053,5 +1075,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "26.10.2003",
+    "Place" : "Soelden",
+    "Nation" : "AUT",
+    "Codex" : "0611",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (200.03 kb)Results 2nd run (30.23 kb)Start List 2nd run (25.54 kb)Results 1st run (34.8 kb)Start List 1st run (34.21 kb)"
+  }
 }

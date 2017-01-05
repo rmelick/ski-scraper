@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "CONCI LORENZO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "17",
     "FIS Code" : "565243",
@@ -212,5 +235,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "15.03.2011",
+    "Place" : "Lenzerheide",
+    "Nation" : "SUI",
+    "Codex" : "6358",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 2 (235.54 kb)Training Analysis (2) (497.47 kb)Start List Training 2 (234.84 kb)"
+  }
 }

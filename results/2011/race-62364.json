@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "CONCI LORENZO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Bib" : "1",
     "FIS Code" : "297601",
     "Name" : "BRIGNONE Federica",
@@ -145,5 +167,16 @@
     "Nation" : "SWE"
   }, {
     "Bib" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "19.03.2011",
+    "Place" : "Lenzerheide",
+    "Nation" : "SUI",
+    "Codex" : "6362",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Cancelled",
+    "Down load" : "Extended start list (html)Start List 1st run (234.62 kb)"
+  }
 }

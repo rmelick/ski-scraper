@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "PYM DAVID",
+        "country" : "CAN"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "26",
     "FIS Code" : "531040",
@@ -669,5 +692,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "25.01.2003",
+    "Place" : "Kitzbuehel",
+    "Nation" : "AUT",
+    "Codex" : "0721",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (21 kb)Results, Analysis, Standings (193.24 kb)Start List (30.55 kb)Start List Training 2 (30.65 kb)Results Training 1 (20.32 kb)Training Analysis (1) (124.76 kb)Start List Training 1 (30.62 kb)"
+  }
 }

@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "PETIT DOMINIQUE",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "18",
     "FIS Code" : "534562",
@@ -776,5 +798,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "05.03.2006",
+    "Place" : "Yongpyong RUN CET LOC Run 1 02:00 10:00 Run 2 05:00 13:00",
+    "Nation" : "KOR",
+    "Codex" : "0993",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (495.52 kb)Results 2nd run (127.51 kb)Start List 2nd run (125.88 kb)Start List 1st run (139.9 kb)"
+  }
 }

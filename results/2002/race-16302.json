@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "FRITSCH JEAN-CLAUDE",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "2",
     "FIS Code" : "50024",
@@ -691,5 +714,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "12.01.2002",
+    "Place" : "Wengen",
+    "Nation" : "SUI",
+    "Codex" : "1465",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (26.14 kb)Results, Analysis, Standings (411.07 kb)Start List (23.79 kb)Results Training 3 (25.46 kb)Training Analysis (3) (172.3 kb)Start List Training 3 (25.32 kb)Results Training 2 (25.5 kb)Training Analysis (2) (172.16 kb)Start List Training 2 (345.36 kb)Results Training 1 (25.52 kb)Training Analysis (1) (175.85 kb)Start List Training 1 (345.37 kb)"
+  }
 }

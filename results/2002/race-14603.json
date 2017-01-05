@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DART ROBERT",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "22",
     "FIS Code" : "295588",
@@ -724,5 +747,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "29.11.2001",
+    "Place" : "Lake Louise, AB",
+    "Nation" : "CAN",
+    "Codex" : "5401",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (364.89 kb)Results 1st run (26.9 kb)Start List 1st run (26.14 kb)Results Training 3 (26.1 kb)Training Analysis (3) (167.66 kb)Start List Training 3 (26.31 kb)Results Training 2 (26.52 kb)Training Analysis (2) (171.36 kb)Start List Training 2 (26.67 kb)Results Training 1 (26.78 kb)Training Analysis (1) (172.71 kb)Start List Training 1 (26.78 kb)"
+  }
 }

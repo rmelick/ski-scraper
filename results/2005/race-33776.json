@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "FORSMARK JARL",
+        "country" : "SWE"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "18",
     "FIS Code" : "50423",
@@ -592,5 +615,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "05.03.2005",
+    "Place" : "Kvitfjell",
+    "Nation" : "NOR",
+    "Codex" : "1088",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (18.74 kb)Results, Analysis, Standings (217.32 kb)Start List (20.97 kb)Results Training 3 (19.08 kb)Training Analysis (3) (28.42 kb)Start List Training 3 (21.19 kb)Results Training 2 (19.12 kb)Training Analysis (2) (28.57 kb)Start List Training 2 (21.2 kb)Results Training 1 (19.04 kb)Training Analysis (1) (28.5 kb)Start List Training 1 (21.12 kb)"
+  }
 }

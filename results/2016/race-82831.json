@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DRESCHL EDI GALINIER JEAN-LOUIS",
+        "country" : "AUT FRA"
+      },
+      "Referee" : {
+        "name" : "Markus Waldner",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "Atle Skaardal",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "T. Steiner",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2120 m.",
+      "Finish Altitude" : "2020 m.",
+      "Vertical Drop" : "100 m.",
+      "Homologation Number" : "10227/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "Emmanuel Couder",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "25",
+      "Turning Gates" : "25",
+      "Start Time" : "11:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "Emmanuel Couder",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "25",
+      "Turning Gates" : "25",
+      "Start Time" : "11:30"
+    }
+  },
+  "results" : [ {
     "Rank" : "Final"
   }, {
     "Rank" : ""
@@ -1121,5 +1165,16 @@
     "Total Time" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "18.03.2016",
+    "Place" : "St. Moritz RUN CET LOC STATUS Run 1 11:30 11:30 Official result",
+    "Nation" : "SUI",
+    "Codex" : "5208",
+    "Discipline" : "Team",
+    "Gender" : "A",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (482.17 kb)Results, Analysis, Standings (275.85 kb)Start List (918.84 kb)Start List Ladder (467.2 kb)"
+  }
 }

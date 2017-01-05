@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "JOHNSON GREG P.",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "30",
     "FIS Code" : "50041",
@@ -570,5 +593,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "21.01.2006",
+    "Place" : "Kitzbuehel RUN CET LOC Run 1 11:30 11:30",
+    "Nation" : "AUT",
+    "Codex" : "0116",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (35.5 kb)Results, Analysis, Standings (375.29 kb)Start List (27.29 kb)Start List Training 2 (48.23 kb)Results Training 1 (35.63 kb)Training Analysis (1) (305.88 kb)Start List Training 1 (48.37 kb)Race Program (47.83 kb)"
+  }
 }

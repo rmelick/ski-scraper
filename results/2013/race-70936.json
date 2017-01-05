@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "REESE GORDON",
+        "country" : "CAN"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "J. HANCOCK",
+        "country" : "USA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2865 m.",
+      "Finish Altitude" : "2490 m.",
+      "Vertical Drop" : "375 m.",
+      "Homologation Number" : "9701/10/10"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "G. OBKIRCHER",
+        "country" : "AUT"
+      },
+      "Number of Gates" : "44",
+      "Turning Gates" : "42",
+      "Start Time" : "10:15"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "S. COSTAZZA",
+        "country" : "ITA"
+      },
+      "Number of Gates" : "44",
+      "Turning Gates" : "42",
+      "Start Time" : "13:15"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "2",
     "FIS Code" : "565243",
@@ -853,5 +893,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "24.11.2012",
+    "Place" : "Aspen, CO RUN CET LOC Run 1 18:15 10:15 Run 2 21:15 13:15",
+    "Nation" : "USA",
+    "Codex" : "6412",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.29 MB)Results 2nd run (159.79 kb)Start List 2nd run (103.31 kb)Results 1st run (131.69 kb)Start List 1st run (130.76 kb)"
+  }
 }

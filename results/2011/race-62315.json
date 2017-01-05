@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRANJC MATJAZ",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "2",
     "FIS Code" : "192665",
@@ -1308,5 +1330,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "23.01.2011",
+    "Place" : "Kitzbuehel RUN CET LOC Run 1 10:15 10:15 Run 2 13:30 13:30",
+    "Nation" : "AUT",
+    "Codex" : "0151",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (13.63 MB)Results 2nd run (824.58 kb)Start List 2nd run (807.82 kb)Results 1st run (819.99 kb)Start List 1st run (815.62 kb)"
+  }
 }

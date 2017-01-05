@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "ODERMATT SEPP",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "8",
     "FIS Code" : "532431",
@@ -936,5 +958,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "09.12.2001",
+    "Place" : "Val d'Isere",
+    "Nation" : "FRA",
+    "Codex" : "0518",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (424.2 kb)Results 2nd run (26.48 kb)Start List 2nd run (23.71 kb)Results 1st run (25.91 kb)Start List 1st run (25.58 kb)"
+  }
 }

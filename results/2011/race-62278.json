@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GAYRAUD BERNARD",
+        "country" : "GRE"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "3",
     "FIS Code" : "205218",
@@ -650,5 +672,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "11.03.2011",
+    "Place" : "Spindleruv Mlyn RUN CET LOC Run 1 10:00 10:00 Run 2 13:00 13:00",
+    "Nation" : "CZE",
+    "Codex" : "5402",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.43 MB)Results 2nd run (136.3 kb)Start List 2nd run (134.7 kb)Results 1st run (135.68 kb)Start List 1st run (134.8 kb)Event Program (2.9 MB)"
+  }
 }

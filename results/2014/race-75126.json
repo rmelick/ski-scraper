@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "FRANZ TONI",
+        "country" : "SWE"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "P. TUOMIKOSKI",
+        "country" : "FIN"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "438 m.",
+      "Finish Altitude" : "258 m.",
+      "Vertical Drop" : "180 m.",
+      "Homologation Number" : "9324/11/09"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "C. THOMA",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "65",
+      "Turning Gates" : "64",
+      "Start Time" : "11:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "S. BUERGLER",
+        "country" : "AUT"
+      },
+      "Number of Gates" : "65",
+      "Turning Gates" : "64",
+      "Start Time" : "14:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "4",
     "FIS Code" : "6535237",
@@ -1027,5 +1067,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "16.11.2013",
+    "Place" : "Levi RUN CET LOC Run 1 10:00 11:00 Run 2 13:00 14:00",
+    "Nation" : "FIN",
+    "Codex" : "5076",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (5.37 MB)Results 2nd run (399.11 kb)Start List 2nd run (389.88 kb)Results 1st run (397.74 kb)Start List 1st run (398.4 kb)Event Program (737.41 kb)"
+  }
 }

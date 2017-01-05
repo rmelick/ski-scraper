@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MITTER WOLFGANG",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "30",
     "FIS Code" : "55198",
@@ -790,5 +813,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "21.01.2006",
+    "Place" : "St. Moritz RUN CET LOC Run 1 13:15 13:15",
+    "Nation" : "SUI",
+    "Codex" : "6159",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (362.29 kb)Results, Analysis, Standings (709.01 kb)Start List (361.13 kb)Results Training 1 (362.29 kb)Training Analysis (1) (594.14 kb)Start List Training 1 (361.64 kb)Race Program (27.76 kb)"
+  }
 }

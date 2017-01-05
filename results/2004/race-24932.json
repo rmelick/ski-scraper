@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "FRITZ EDWIN",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "15",
     "FIS Code" : "55069",
@@ -291,5 +314,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "10.03.2004",
+    "Place" : "Sestriere",
+    "Nation" : "ITA",
+    "Codex" : "6193",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (20.27 kb)Results, Analysis, Standings (158.02 kb)Start List (24.9 kb)Results Training 2 (25.57 kb)Training Analysis (2) (69.4 kb)Start List Training 2 (25.04 kb)Results Training 1 (25.82 kb)Training Analysis (1) (69.88 kb)Start List Training 1 (25.06 kb)"
+  }
 }

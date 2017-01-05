@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "ADAMS HELMUT",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "30",
     "FIS Code" : "50024",
@@ -680,5 +703,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "14.12.2002",
+    "Place" : "Val d'Isere",
+    "Nation" : "FRA",
+    "Codex" : "0870",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (25.54 kb)Results, Analysis, Standings (190.61 kb)Start List (18.91 kb)Results Training 2 (25.21 kb)Training Analysis (2) (124.89 kb)Start List Training 2 (25.77 kb)Results Training 1 (25.27 kb)Training Analysis (1) (129.87 kb)Start List Training 1 (31.15 kb)"
+  }
 }

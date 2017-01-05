@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRANJC MATJAZ",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "1",
     "FIS Code" : "505483",
@@ -1118,5 +1140,16 @@
     "WSC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "08.02.2005",
+    "Place" : "Santa Caterina",
+    "Nation" : "ITA",
+    "Codex" : "5787",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WSC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (739.75 kb)Results 2nd run (99.22 kb)Start List 2nd run (93.83 kb)Results 1st run (93.71 kb)Start List 1st run (70.79 kb)"
+  }
 }

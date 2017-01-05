@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "ROIG VIVAS LLUIS",
+        "country" : "SPA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "18",
     "FIS Code" : "380260",
@@ -530,5 +552,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "30.01.2011",
+    "Place" : "Chamonix RUN CET LOC Run 1 11:00 11:00 Run 2 14:00 14:00",
+    "Nation" : "FRA",
+    "Codex" : "0511",
+    "Discipline" : "Super Combined",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.8 MB)Results 2nd run (275.1 kb)Start List 2nd run (273.56 kb)Results 1st run (273.58 kb)Start List 1st run (272.55 kb)"
+  }
 }

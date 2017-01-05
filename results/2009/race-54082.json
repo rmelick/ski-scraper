@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MITTER WOLFGANG",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "19",
     "FIS Code" : "537544",
@@ -702,5 +725,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "01.02.2009",
+    "Place" : "Garmisch Partenkirchen RUN CET LOC Run 1 10:30 10:30",
+    "Nation" : "GER",
+    "Codex" : "5707",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Replaces: 31.01.2009",
+    "Down load" : "Results (211.82 kb)Results, Analysis, Standings (1.48 MB)Start List (150.84 kb)"
+  }
 }

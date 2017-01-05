@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "COMTE FRED",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "M. MURMANN",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2210 m.",
+      "Finish Altitude" : "1545 m.",
+      "Vertical Drop" : "665 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : "11184/12/13"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "39",
+      "Start Time" : "11:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "21",
     "FIS Code" : "516138",
@@ -540,5 +584,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "27.02.2014",
+    "Place" : "Crans Montana",
+    "Nation" : "SUI",
+    "Codex" : "5156",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (432.78 kb)Training Analysis (1) (3.06 MB)Start List Training 1 (433.04 kb)"
+  }
 }

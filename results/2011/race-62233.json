@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HALL DOUGLAS",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "20",
     "FIS Code" : "537545",
@@ -563,5 +586,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "01.12.2010",
+    "Place" : "Lake Louise",
+    "Nation" : "CAN",
+    "Codex" : "5225",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 2 (146.82 kb)Training Analysis (2) (792.17 kb)Start List Training 2 (118.22 kb)"
+  }
 }

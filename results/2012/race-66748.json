@@ -1,5 +1,40 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GUT MARCO",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "G. HUJARA",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "H. SCHMALZL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "R. STOCKER",
+        "country" : "AUT"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1348 m.",
+      "Finish Altitude" : "777 m.",
+      "Vertical Drop" : "571 m.",
+      "Course Length" : "1767 m.",
+      "Homologation Number" : "9594/09/10"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "C. FORREST",
+        "country" : "USA"
+      },
+      "Number of Gates" : "39",
+      "Start Time" : "9:30"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "8",
     "FIS Code" : "293006",
@@ -302,5 +337,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "15.03.2012",
+    "Place" : "Schladming RUN CET LOC Run 1 09:30 09:30",
+    "Nation" : "AUT",
+    "Codex" : "0199",
+    "Discipline" : "Super G",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (143.37 kb)Results, Analysis, Standings (791.05 kb)Start List (142.43 kb)"
+  }
 }

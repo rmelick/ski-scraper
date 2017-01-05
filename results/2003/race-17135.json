@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "FORSMARK JARL",
+        "country" : "SWE"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "14",
     "FIS Code" : "190930",
@@ -298,5 +321,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "12.03.2003",
+    "Place" : "Lillehammer",
+    "Nation" : "NOR",
+    "Codex" : "0622",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (24.75 kb)Results, Analysis, Standings (192.23 kb)Start List (22.18 kb)Results Training 1 (24.35 kb)Training Analysis (1) (72.08 kb)Start List Training 1 (22.24 kb)"
+  }
 }

@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "FRITZ EDWIN",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "2",
     "FIS Code" : "385022",
@@ -819,5 +841,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "05.01.2003",
+    "Place" : "Bormio",
+    "Nation" : "ITA",
+    "Codex" : "5328",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Replaces: Berchtesgaden",
+    "Down load" : "Results, Analysis, Standings (208.33 kb)Results 2nd run (23.83 kb)Start List 2nd run (25.75 kb)Results 1st run (33.61 kb)Start List 1st run (33.15 kb)"
+  }
 }

@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MITTER WOLFGANG",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "26",
     "FIS Code" : "505483",
@@ -515,5 +538,16 @@
     "COM Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "22.01.2006",
+    "Place" : "St. Moritz",
+    "Nation" : "SUI",
+    "Codex" : "6163",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "COM",
+    "Comments" : "",
+    "Down load" : "Results (353.63 kb)Results, Analysis, Standings (379.48 kb)"
+  }
 }

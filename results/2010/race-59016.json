@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "TURTON FRED",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "16",
     "FIS Code" : "50041",
@@ -855,5 +878,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "27.11.2009",
+    "Place" : "Lake Louise",
+    "Nation" : "CAN",
+    "Codex" : "0339",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results (334.25 kb)Results, Analysis, Standings (2.28 MB)Start List (309.04 kb)"
+  }
 }

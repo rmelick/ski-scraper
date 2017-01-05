@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BERTSCH HUGO",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "6",
     "FIS Code" : "205218",
@@ -702,5 +724,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "06.02.2011",
+    "Place" : "Arber-Zwiesel RUN CET LOC Run 1 09:15 Run 2 12:15",
+    "Nation" : "GER",
+    "Codex" : "5610",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "replaces: 05.02.2011",
+    "Down load" : "Results, Analysis, Standings (1.41 MB)Results 2nd run (234.99 kb)Start List 2nd run (233.25 kb)Results 1st run (234.38 kb)Start List 1st run (233.57 kb)Event Program (6.8 MB)"
+  }
 }

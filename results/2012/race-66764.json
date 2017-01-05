@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BERTSCH HUGO",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "G. HUJARA",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "H. SCHMALZL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "R. SENONER",
+        "country" : "ITA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : "10284/11/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "36",
+      "Start Time" : "10:45"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "28",
     "FIS Code" : "501076",
@@ -720,5 +764,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "14.12.2011",
+    "Place" : "Val Gardena-Groeden",
+    "Nation" : "ITA",
+    "Codex" : "0785",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (155.39 kb)Training Analysis (1) (1 MB)Start List Training 1 (153.77 kb)"
+  }
 }

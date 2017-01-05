@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DART ROBERT",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "3",
     "FIS Code" : "532431",
@@ -471,5 +494,16 @@
     "WSC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "05.02.2005",
+    "Place" : "Bormio",
+    "Nation" : "ITA",
+    "Codex" : "0850",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WSC",
+    "Comments" : "",
+    "Down load" : "Results (73.24 kb)Results, Analysis, Standings (430 kb)Start List (69.11 kb)Results Training 4 (70.04 kb)Training Analysis (4) (236.97 kb)Start List Training 4 (69.15 kb)Results Training 3 (84.13 kb)Training Analysis (3) (422.94 kb)Start List Training 3 (69.94 kb)Results Training 2 (84.24 kb)Training Analysis (2) (434.02 kb)Start List Training 2 (70.04 kb)Results Training 1 (73.6 kb)Training Analysis (1) (365.48 kb)Start List Training 1 (69.4 kb)"
+  }
 }

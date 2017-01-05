@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "COZZI MARCO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "511313",
@@ -751,5 +773,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "16.01.2009",
+    "Place" : "Wengen RUN CET LOC Run 1 10:30 10:30 Run 2 13:30 13:30",
+    "Nation" : "SUI",
+    "Codex" : "1322",
+    "Discipline" : "Super Combined",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (2.1 MB)Results 2nd run (502.16 kb)Start List 2nd run (470.51 kb)Results 1st run (501.47 kb)Start List 1st run (372.6 kb)"
+  }
 }

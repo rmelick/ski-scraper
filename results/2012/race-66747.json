@@ -1,5 +1,40 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MENESTRINA DANIEL",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "M. STEINER",
+        "country" : "AUT"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1285 m.",
+      "Finish Altitude" : "771 m.",
+      "Vertical Drop" : "514 m.",
+      "Course Length" : "2226 m.",
+      "Homologation Number" : "10380/12/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J. WALLNER",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "44",
+      "Start Time" : "11:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "205218",
@@ -291,5 +326,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "15.03.2012",
+    "Place" : "Schladming RUN CET LOC Run 1 11:00 11:00",
+    "Nation" : "AUT",
+    "Codex" : "5185",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (143.8 kb)Results, Analysis, Standings (776.11 kb)Start List (142.61 kb)"
+  }
 }

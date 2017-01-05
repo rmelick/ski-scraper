@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BAUGEY PIERRE",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "25",
     "FIS Code" : "532431",
@@ -988,5 +1010,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "10.12.2001",
+    "Place" : "Madonna di Campiglio",
+    "Nation" : "ITA",
+    "Codex" : "1219",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "Night SL",
+    "Down load" : "Results, Analysis, Standings (552.41 kb)Results 2nd run (26.81 kb)Start List 2nd run (23.77 kb)Results 1st run (26.19 kb)Start List 1st run (25.8 kb)"
+  }
 }

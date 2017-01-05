@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GAYRAUD BERNARD",
+        "country" : "GRE"
+      },
+      "Referee" : {
+        "name" : "G. HUJARA",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "V. STEFANOV",
+        "country" : "BUL"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1825 m.",
+      "Finish Altitude" : "1610 m.",
+      "Vertical Drop" : "215 m.",
+      "Homologation Number" : "5390/11/04"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "M. PIRCHER",
+        "country" : "AUT"
+      },
+      "Number of Gates" : "70",
+      "Turning Gates" : "67",
+      "Start Time" : "10:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. PFEIFER",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "72",
+      "Turning Gates" : "69",
+      "Start Time" : "13:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "7",
     "FIS Code" : "53831",
@@ -788,5 +828,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "19.02.2012",
+    "Place" : "Bansko RUN CET LOC Run 1 09:00 10:00 Run 2 12:00 13:00",
+    "Nation" : "BUL",
+    "Codex" : "0241",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.18 MB)Results 2nd run (163.06 kb)Start List 2nd run (107.77 kb)Results 1st run (135.6 kb)Start List 1st run (134.95 kb)"
+  }
 }

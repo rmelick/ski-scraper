@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "ODERMATT SEPP",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "10",
     "FIS Code" : "180251",
@@ -858,5 +880,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "14.12.2003",
+    "Place" : "Alta Badia",
+    "Nation" : "ITA",
+    "Codex" : "0967",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "Replaces: Val d'Isere",
+    "Down load" : "Results, Analysis, Standings (230.97 kb)Results 2nd run (24.77 kb)Start List 2nd run (24.43 kb)Results 1st run (32.88 kb)Start List 1st run (32.25 kb)"
+  }
 }

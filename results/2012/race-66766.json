@@ -1,5 +1,40 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BERTSCH HUGO",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "G. HUJARA",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "H. SCHMALZL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "R. SENONER",
+        "country" : "ITA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : "10285/11/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "41",
+      "Start Time" : "12:15"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "26",
     "FIS Code" : "511383",
@@ -764,5 +799,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "16.12.2011",
+    "Place" : "Val Gardena-Groeden RUN CET LOC Run 1 12:15 12:15",
+    "Nation" : "ITA",
+    "Codex" : "0788",
+    "Discipline" : "Super G",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (155.05 kb)Results, Analysis, Standings (1.02 MB)Start List (153.33 kb)"
+  }
 }

@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "LEONINI MIRKO",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "7",
     "FIS Code" : "500139",
@@ -905,5 +927,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "20.12.2001",
+    "Place" : "Kranjska Gora",
+    "Nation" : "USA",
+    "Codex" : "0955",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "Replaces : Aspen",
+    "Down load" : "Results, Analysis, Standings (420.89 kb)Results 2nd run (26.51 kb)Start List 2nd run (23.76 kb)Results 1st run (25.92 kb)Start List 1st run (25.52 kb)"
+  }
 }

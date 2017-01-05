@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GORISEK DUSAN",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "22",
     "FIS Code" : "55947",
@@ -536,5 +559,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "06.01.2011",
+    "Place" : "Zauchensee",
+    "Nation" : "AUT",
+    "Codex" : "5120",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (226.99 kb)Training Analysis (1) (934.06 kb)Start List Training 1 (198.92 kb)Event Program (3.29 MB)"
+  }
 }

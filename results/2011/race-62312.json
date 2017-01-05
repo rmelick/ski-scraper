@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DART ROBERT",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "15",
     "FIS Code" : "510030",
@@ -585,5 +608,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "20.01.2011",
+    "Place" : "Kitzbuehel",
+    "Nation" : "AUT",
+    "Codex" : "0148",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (5.67 MB)Start List 1st run (807.08 kb)Results Training 2 (813.9 kb)"
+  }
 }

@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MENESTRINA DANIEL",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "M. STEINER",
+        "country" : "AUT"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1479 m.",
+      "Finish Altitude" : "771 m.",
+      "Vertical Drop" : "708 m.",
+      "Course Length" : "2895 m.",
+      "Homologation Number" : "10379/12/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "40",
+      "Start Time" : "11:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "22",
     "FIS Code" : "537544",
@@ -280,5 +324,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "14.03.2012",
+    "Place" : "Schladming RUN CET LOC Run 1 11:00 11:00",
+    "Nation" : "AUT",
+    "Codex" : "5184",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (143.49 kb)Results, Analysis, Standings (725.17 kb)Start List (116.1 kb)"
+  }
 }

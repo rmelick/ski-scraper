@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GSODAM THOMAS",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "W. ROSSEL",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2435 m.",
+      "Finish Altitude" : "2040 m.",
+      "Vertical Drop" : "395 m.",
+      "Homologation Number" : "10226/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "L. MAGONI",
+        "country" : "ITA"
+      },
+      "Number of Gates" : "48",
+      "Turning Gates" : "45",
+      "Start Time" : "10:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "C. THOMA",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "47",
+      "Turning Gates" : "44",
+      "Start Time" : "13:30"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "6",
     "FIS Code" : "196928",
@@ -931,5 +971,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "15.12.2013",
+    "Place" : "St. Moritz RUN CET LOC Run 1 10:30 Run 2 13:30",
+    "Nation" : "SUI",
+    "Codex" : "5146",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (6.54 MB)Results 2nd run (525.61 kb)Start List 2nd run (517.65 kb)Results 1st run (523.15 kb)Start List 1st run (522.62 kb)"
+  }
 }

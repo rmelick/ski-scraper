@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "COZZI MARCO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "511352",
@@ -893,5 +916,16 @@
     "COM Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "11.12.2009",
+    "Place" : "Val d'Isere",
+    "Nation" : "FRA",
+    "Codex" : "0553",
+    "Discipline" : "Super G",
+    "Gender" : "M",
+    "Category" : "COM",
+    "Comments" : "",
+    "Down load" : "Results (186.91 kb)Results, Analysis, Standings (215.6 kb)"
+  }
 }

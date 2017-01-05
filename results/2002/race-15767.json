@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "PYM DAVID",
+        "country" : "CAN"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "7",
     "FIS Code" : "50024",
@@ -592,5 +615,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "19.01.2002",
+    "Place" : "Kitzbuehel",
+    "Nation" : "AUT",
+    "Codex" : "1148",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (25.62 kb)Results, Analysis, Standings (529.74 kb)Start List (24.73 kb)Training Analysis (3) (131.82 kb)Training Analysis (3) (131.82 kb)Start List Training 3 (24.99 kb)Start List Training 3 (24.99 kb)Results Training 2 (25.13 kb)Training Analysis (2) (167.11 kb)Start List Training 2 (25 kb)Results Training 1 (25.29 kb)Training Analysis (1) (173.85 kb)Start List Training 1 (25.07 kb)"
+  }
 }

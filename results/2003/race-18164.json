@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GROGL HANS",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "21",
     "FIS Code" : "50024",
@@ -647,5 +670,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "22.02.2003",
+    "Place" : "Garmisch-Partenkirchen",
+    "Nation" : "GER",
+    "Codex" : "0343",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (28.16 kb)Results, Analysis, Standings (206 kb)Start List (25.58 kb)Results Training 3 (27.75 kb)Training Analysis (3) (113.65 kb)Start List Training 3 (25.72 kb)Results Training 2 (27.93 kb)Training Analysis (2) (117.71 kb)Start List Training 2 (27.97 kb)Results Training 1 (28.09 kb)Training Analysis (1) (117.99 kb)Start List Training 1 (28.01 kb)"
+  }
 }

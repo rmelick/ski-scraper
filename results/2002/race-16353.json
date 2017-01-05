@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "OBERNAUER PETER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "50024",
@@ -625,5 +648,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "02.02.2002",
+    "Place" : "St. Moritz",
+    "Nation" : "SUI",
+    "Codex" : "1492",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (25.84 kb)Results, Analysis, Standings (584.44 kb)Start List (23.45 kb)Results Training 2 (25.39 kb)Training Analysis (2) (174.43 kb)Start List Training 2 (25.28 kb)Results Training 1 (25.46 kb)Training Analysis (1) (169.26 kb)Start List Training 1 (25.34 kb)"
+  }
 }

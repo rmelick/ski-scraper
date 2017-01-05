@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KALAN JARO",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "4",
     "FIS Code" : "185140",
@@ -719,5 +741,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "20.01.2005",
+    "Place" : "Zagreb-Sljeme",
+    "Nation" : "CRO",
+    "Codex" : "5467",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Night event",
+    "Down load" : "Results, Analysis, Standings (277.34 kb)Results 2nd run (53.26 kb)Start List 2nd run (50.25 kb)Results 1st run (52.09 kb)Start List 1st run (51.18 kb)Race Program (1.97 MB)"
+  }
 }

@@ -1,5 +1,40 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GSODAM THOMAS",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "W. ROSSEL",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2590 m.",
+      "Finish Altitude" : "2040 m.",
+      "Vertical Drop" : "550 m.",
+      "Course Length" : "1881 m.",
+      "Homologation Number" : "10231/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "F. WINKLER",
+        "country" : "AUT"
+      },
+      "Number of Gates" : "39",
+      "Start Time" : "11:30"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "17",
     "FIS Code" : "355050",
@@ -662,5 +697,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "14.12.2013",
+    "Place" : "St. Moritz RUN CET LOC Run 1 11:30",
+    "Nation" : "SUI",
+    "Codex" : "5145",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (524.61 kb)Results, Analysis, Standings (5.43 MB)Start List (521.62 kb)"
+  }
 }

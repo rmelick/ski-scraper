@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "COZZI MARCO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "11",
     "FIS Code" : "53831",
@@ -862,5 +884,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "13.12.2009",
+    "Place" : "Val d'Isere RUN CET LOC Run 1 10:15 10:15 Run 2 13:15 13:15",
+    "Nation" : "FRA",
+    "Codex" : "0555",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.59 MB)Results 2nd run (185.47 kb)Start List 2nd run (155.93 kb)Results 1st run (184.81 kb)Start List 1st run (156.86 kb)"
+  }
 }

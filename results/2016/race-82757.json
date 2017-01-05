@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DRESCHL EDI",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "T. STEINER",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2745 m.",
+      "Finish Altitude" : "2040 m.",
+      "Vertical Drop" : "705 m.",
+      "Course Length" : "2521 m.",
+      "Homologation Number" : "10230/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "34",
+      "Start Time" : "11:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "17",
     "FIS Code" : "516319",
@@ -230,5 +274,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "14.03.2016",
+    "Place" : "St. Moritz RUN CET LOC STATUS Run 1 11:00 11:00 Official result",
+    "Nation" : "SUI",
+    "Codex" : "5173",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (81.43 kb)Training Analysis (1) (146.49 kb)Start List Training 1 (80.39 kb)"
+  }
 }

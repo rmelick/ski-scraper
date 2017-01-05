@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BOTH PETER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "8",
     "FIS Code" : "50024",
@@ -706,5 +729,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "17.01.2003",
+    "Place" : "Wengen",
+    "Nation" : "SUI",
+    "Codex" : "1304",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (28.9 kb)Results, Analysis, Standings (210.48 kb)Start List (23.99 kb)Results Training 2 (27.78 kb)Training Analysis (2) (122.87 kb)Start List Training 2 (23.76 kb)Results Training 1 (27.95 kb)Training Analysis (1) (126.47 kb)Start List Training 1 (30.77 kb)"
+  }
 }

@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRANJC MATJAZ",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "9",
     "FIS Code" : "55198",
@@ -247,5 +270,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "06.03.2002",
+    "Place" : "Altenmarkt-Zauchensee",
+    "Nation" : "AUT",
+    "Codex" : "6073",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (22.95 kb)Results, Analysis, Standings (475.55 kb)Start List (22.17 kb)Results Training 2 (22.58 kb)Training Analysis (2) (123.3 kb)Start List Training 2 (22.47 kb)Results Training 1 (22.51 kb)Training Analysis (1) (123.27 kb)Start List Training 1 (22.47 kb)"
+  }
 }

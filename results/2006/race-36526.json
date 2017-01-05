@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MUNDAL SVEIN",
+        "country" : "NOR"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "8",
     "FIS Code" : "500656",
@@ -368,5 +390,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "18.03.2006",
+    "Place" : "Are RUN CET LOC Run 1 09:00 Run 2 11:30",
+    "Nation" : "SWE",
+    "Codex" : "1395",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (545.84 kb)Results 2nd run (252.09 kb)Start List 2nd run (227.68 kb)Results 1st run (251.32 kb)Start List 1st run (202.98 kb)"
+  }
 }

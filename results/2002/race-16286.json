@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "REBSTOCK RICHARD",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "20",
     "FIS Code" : "515409",
@@ -720,5 +743,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "21.12.2001",
+    "Place" : "St. Moritz",
+    "Nation" : "SUI",
+    "Codex" : "6306",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (25.99 kb)Results, Analysis, Standings (369.13 kb)Start List (25.08 kb)Start List Training 3 (25.78 kb)Results Training 2 (25.42 kb)Training Analysis (2) (163.89 kb)Start List Training 2 (25.35 kb)Results Training 1 (25.95 kb)Training Analysis (1) (166.02 kb)Start List Training 1 (25.81 kb)"
+  }
 }

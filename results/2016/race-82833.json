@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GALINIER JEAN-LOUIS",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "E. COUDER",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "T. STEINER",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2385 m.",
+      "Finish Altitude" : "2030 m.",
+      "Vertical Drop" : "355 m.",
+      "Homologation Number" : "10226/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "R. NYDEGGER",
+        "country" : "NOR"
+      },
+      "Number of Gates" : "50",
+      "Turning Gates" : "47",
+      "Start Time" : "9:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. CARCA",
+        "country" : "ITA"
+      },
+      "Number of Gates" : "50",
+      "Turning Gates" : "47",
+      "Start Time" : "12:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "14",
     "FIS Code" : "191750",
@@ -373,5 +417,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "19.03.2016",
+    "Place" : "St. Moritz RUN CET LOC STATUS Run 1 12:00 12:00 Official result Run 2 12:00 12:00 Official result",
+    "Nation" : "SUI",
+    "Codex" : "0193",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (208.4 kb)Results 2nd run (81.97 kb)Start List 2nd run (72.81 kb)Results 1st run (81.31 kb)Start List 1st run (80.73 kb)"
+  }
 }

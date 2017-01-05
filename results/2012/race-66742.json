@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MENESTRINA DANIEL",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "M. STEINER",
+        "country" : "AUT"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1479 m.",
+      "Finish Altitude" : "771 m.",
+      "Vertical Drop" : "708 m.",
+      "Course Length" : "2895 m.",
+      "Homologation Number" : "10379/12/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "38",
+      "Start Time" : "11:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "38",
+      "Turning Gates" : "",
+      "Start Time" : "11:30"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "13",
     "FIS Code" : "355050",
@@ -226,5 +270,16 @@
     "Diff." : "+4.84"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "13.03.2012",
+    "Place" : "Schladming",
+    "Nation" : "AUT",
+    "Codex" : "5183",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 2 (143.41 kb)Training Analysis (2) (476.95 kb)Start List Training 2 (142.61 kb)"
+  }
 }

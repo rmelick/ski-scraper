@@ -1,5 +1,40 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DRESCHL EDI",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "W. ROSSEL",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2640 m.",
+      "Finish Altitude" : "2040 m.",
+      "Vertical Drop" : "600 m.",
+      "Course Length" : "1928 m.",
+      "Homologation Number" : "10229/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "P. YVES",
+        "country" : "FRA"
+      },
+      "Number of Gates" : "37",
+      "Start Time" : "10:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "16",
     "FIS Code" : "355050",
@@ -269,5 +304,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "17.03.2016",
+    "Place" : "St. Moritz RUN CET LOC STATUS Run 1 10:00 10:00 Official result",
+    "Nation" : "SUI",
+    "Codex" : "5176",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (81.17 kb)Results, Analysis, Standings (167.37 kb)Start List (72.22 kb)"
+  }
 }

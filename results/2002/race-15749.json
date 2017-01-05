@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MALSINER MARKUS STOCKER RUDOLF",
+        "country" : "ITA AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "10",
     "FIS Code" : "205117",
@@ -599,5 +622,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "11.01.2002",
+    "Place" : "Saalbach-Hinterglemm",
+    "Nation" : "AUT",
+    "Codex" : "6039",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (25.51 kb)Results, Analysis, Standings (362.03 kb)Start List (23.65 kb)Results Training 3 (24.79 kb)Training Analysis (3) (151.3 kb)Start List Training 3 (23.55 kb)Results Training 2 (24.8 kb)Training Analysis (2) (149.6 kb)Start List Training 2 (23.55 kb)Results Training 1 (24.86 kb)Training Analysis (1) (149.95 kb)Start List Training 1 (23.61 kb)"
+  }
 }

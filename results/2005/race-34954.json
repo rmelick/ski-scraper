@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRANJC MATJAZ",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "385022",
@@ -368,5 +390,16 @@
     "COM Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "04.02.2005",
+    "Place" : "Santa Caterina",
+    "Nation" : "ITA",
+    "Codex" : "6419",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "COM",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (337.94 kb)Results 2nd run (69.32 kb)Start List 2nd run (68.51 kb)Results 1st run (68.82 kb)Start List 1st run (81.23 kb)"
+  }
 }

@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "CONCI LORENZO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "7",
     "FIS Code" : "290478",
@@ -1066,5 +1088,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "27.02.2005",
+    "Place" : "Kranjska Gora",
+    "Nation" : "SLO",
+    "Codex" : "1152",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (271.09 kb)Results 2nd run (22.23 kb)Start List 2nd run (16.83 kb)Results 1st run (21.56 kb)Start List 1st run (20.8 kb)WCSL WC Standings (54.99 kb)WCSL WC Overall (91.21 kb)"
+  }
 }

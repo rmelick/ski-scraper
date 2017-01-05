@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "WIESER MARTIN",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "1",
     "FIS Code" : "292784",
@@ -767,5 +789,16 @@
     "EC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "08.03.2004",
+    "Place" : "Sierra Nevada",
+    "Nation" : "ESP",
+    "Codex" : "0257",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "EC",
+    "Comments" : "",
+    "Down load" : ""
+  }
 }

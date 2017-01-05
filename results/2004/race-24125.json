@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DART ROBERT",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "24",
     "FIS Code" : "195374",
@@ -636,5 +659,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "05.12.2003",
+    "Place" : "Lake Louise, AB",
+    "Nation" : "CAN",
+    "Codex" : "5360",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (28.8 kb)Results, Analysis, Standings (178.21 kb)Start List (27.92 kb)Results Training 3 (30.56 kb)Training Analysis (3) (111.87 kb)Start List Training 3 (28.39 kb)Results Training 2 (30.51 kb)Training Analysis (2) (121.91 kb)Start List Training 2 (28.49 kb)Results Training 1 (30.51 kb)Training Analysis (1) (250.99 kb)Start List Training 1 (28.38 kb)"
+  }
 }

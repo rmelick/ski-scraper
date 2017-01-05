@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GROGL HANS",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "G. BEDRAC",
+        "country" : "SLO"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1035 m.",
+      "Finish Altitude" : "836 m.",
+      "Vertical Drop" : "199 m.",
+      "Homologation Number" : "10053/02/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "P. WILLMANN",
+        "country" : "FRA"
+      },
+      "Number of Gates" : "63",
+      "Turning Gates" : "62",
+      "Start Time" : "9:15"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "C. THOMA",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "62",
+      "Turning Gates" : "61",
+      "Start Time" : "12:15"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "5",
     "FIS Code" : "505679",
@@ -1022,5 +1062,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "02.02.2014",
+    "Place" : "Kranjska Gora RUN CET LOC Run 1 09:15 Run 2 12:15",
+    "Nation" : "SLO",
+    "Codex" : "5262",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "Replaces: Maribor",
+    "Down load" : "Results, Analysis, Standings (5.12 MB)Results 2nd run (364.51 kb)Start List 2nd run (354.59 kb)Results 1st run (362.36 kb)Start List 1st run (360.95 kb)"
+  }
 }

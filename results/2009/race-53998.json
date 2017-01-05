@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BLOCH PETER",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "12",
     "FIS Code" : "510030",
@@ -490,5 +513,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "29.01.2009",
+    "Place" : "Garmisch Partenkirchen",
+    "Nation" : "GER",
+    "Codex" : "0666",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (179.85 kb)Training Analysis (1) (731.02 kb)Start List Training 1 (149.88 kb)"
+  }
 }

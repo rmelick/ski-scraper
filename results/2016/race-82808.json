@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BRIKER KARI",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "H. TRINKL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "F. BECK",
+        "country" : "GER"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1690 m.",
+      "Finish Altitude" : "770 m.",
+      "Vertical Drop" : "920 m.",
+      "Course Length" : "3300 m.",
+      "Homologation Number" : "11473/11/14"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "H. TRINKL",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "41",
+      "Start Time" : "11:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "15",
     "FIS Code" : "50742",
@@ -599,5 +643,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "28.01.2016",
+    "Place" : "Garmisch Partenkirchen RUN CET LOC STATUS Run 1 11:00 11:00 Official result",
+    "Nation" : "GER",
+    "Codex" : "0106",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (81.75 kb)Training Analysis (1) (554.1 kb)Start List Training 1 (78.63 kb)"
+  }
 }

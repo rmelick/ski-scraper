@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "ROIG VIVAS LLUIS",
+        "country" : "SPA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "511383",
@@ -526,5 +549,16 @@
     "COM Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "30.01.2011",
+    "Place" : "Chamonix",
+    "Nation" : "FRA",
+    "Codex" : "0512",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "COM",
+    "Comments" : "",
+    "Down load" : "Results (274.22 kb)Results, Analysis, Standings (324.67 kb)"
+  }
 }

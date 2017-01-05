@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DART ROBERT",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Bib" : "1",
     "FIS Code" : "501076",
     "Name" : "OLSSON Hans",
@@ -385,5 +408,16 @@
     "Nation" : "FRA"
   }, {
     "Bib" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "19.01.2011",
+    "Place" : "Kitzbuehel",
+    "Nation" : "AUT",
+    "Codex" : "0147",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "Cancelled",
+    "Down load" : "Extended start list (html)Start List 1st run (806.74 kb)Event Program (6.54 MB)"
+  }
 }

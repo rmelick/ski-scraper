@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRANJC MATJAZ",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "FIS Code" : "501830",
     "Name" : "SWEDEN",
@@ -51,5 +73,16 @@
     "Nation" : "SLO"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "25.02.2014",
+    "Place" : "Innsbruck",
+    "Nation" : "AUT",
+    "Codex" : "6901",
+    "Discipline" : "Team",
+    "Gender" : "A",
+    "Category" : "NGP",
+    "Comments" : "",
+    "Down load" : "Results (780.9 kb)Results, Analysis, Standings (861.81 kb)Start List (785.9 kb)Start List Ladder (770.26 kb)Event Program (2.02 MB)"
+  }
 }

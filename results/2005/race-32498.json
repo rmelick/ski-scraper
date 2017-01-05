@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "VAN SLYKE PAUL",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "17",
     "FIS Code" : "537544",
@@ -713,5 +736,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "03.12.2004",
+    "Place" : "Lake Louise, AB",
+    "Nation" : "CAN",
+    "Codex" : "5370",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (31.04 kb)Results, Analysis, Standings (187.46 kb)Start List (28.3 kb)Start List Training 3 (36.71 kb)Results Training 2 (31.1 kb)Training Analysis (2) (126.54 kb)Start List Training 2 (36.72 kb)Results Training 1 (30.91 kb)Training Analysis (1) (127.16 kb)Start List Training 1 (36.73 kb)"
+  }
 }

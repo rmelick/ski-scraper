@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MITTER WOLFGANG",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "385022",
@@ -508,5 +530,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "22.01.2006",
+    "Place" : "St. Moritz RUN CET LOC Run 1 11:45 11:45 Run 2 14:30 14:30",
+    "Nation" : "SUI",
+    "Codex" : "6162",
+    "Discipline" : "Super Combined",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (711.61 kb)Results 2nd run (354.02 kb)Start List 2nd run (354.07 kb)Start List (353.29 kb)"
+  }
 }

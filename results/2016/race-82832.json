@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DRESCHL EDI",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "W. ROSSEL",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2220 m.",
+      "Finish Altitude" : "2030 m.",
+      "Vertical Drop" : "190 m.",
+      "Homologation Number" : "10227/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "C. THOMA",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "68",
+      "Turning Gates" : "67",
+      "Start Time" : "8:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "B. DYKSTERHOUSE",
+        "country" : "USA"
+      },
+      "Number of Gates" : "68",
+      "Turning Gates" : "67",
+      "Start Time" : "11:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "4",
     "FIS Code" : "6535237",
@@ -360,5 +404,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "19.03.2016",
+    "Place" : "St. Moritz RUN CET LOC STATUS Run 1 08:30 08:30 Official result Run 2 11:00 11:00 Official result",
+    "Nation" : "SUI",
+    "Codex" : "5177",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (188.85 kb)Results 2nd run (81.87 kb)Start List 2nd run (72.71 kb)Results 1st run (81.2 kb)Start List 1st run (80.67 kb)"
+  }
 }

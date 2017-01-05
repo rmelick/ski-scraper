@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "KRANJC MATJAZ",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "25",
     "FIS Code" : "385022",
@@ -328,5 +351,16 @@
     "WSC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "06.02.2005",
+    "Place" : "Santa Caterina",
+    "Nation" : "ITA",
+    "Codex" : "5786",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WSC",
+    "Comments" : "",
+    "Down load" : "Results (83.98 kb)Results, Analysis, Standings (320.77 kb)Start List (80.33 kb)Results Training 4 (50.67 kb)Training Analysis (4) (202.02 kb)Start List Training 4 (70.11 kb)Results Training 3 (85.18 kb)Training Analysis (3) (304.12 kb)Start List Training 3 (81.35 kb)Start List Training 2 (81.27 kb)Results Training 1 (84.75 kb)Training Analysis (1) (289 kb)Start List Training 1 (80.96 kb)"
+  }
 }

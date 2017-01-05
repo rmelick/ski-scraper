@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "PETIT DOMINIQUE",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "16",
     "FIS Code" : "55198",
@@ -724,5 +747,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "21.12.2002",
+    "Place" : "Lenzerheide",
+    "Nation" : "SUI",
+    "Codex" : "6182",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (25.89 kb)Results, Analysis, Standings (179.11 kb)Start List (23.31 kb)Results Training 2 (25.55 kb)Training Analysis (2) (106.3 kb)Start List Training 2 (30.52 kb)Results Training 1 (25.16 kb)Training Analysis (1) (109.64 kb)Start List Training 1 (30.52 kb)"
+  }
 }

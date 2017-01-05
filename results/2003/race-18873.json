@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BERLINGER PAUL",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "31",
     "FIS Code" : "50024",
@@ -592,5 +615,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "11.01.2003",
+    "Place" : "Bormio",
+    "Nation" : "ITA",
+    "Codex" : "0888",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "Replaces: Chamonix",
+    "Down load" : "Results (22.89 kb)Results, Analysis, Standings (199.21 kb)Start List (25.02 kb)Results Training 2 (22.14 kb)Training Analysis (2) (117.04 kb)Start List Training 2 (25.3 kb)Results Training 1 (22.54 kb)Training Analysis (1) (119.71 kb)Start List Training 1 (32.8 kb)"
+  }
 }

@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BEDRAC GORAZD",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "24",
     "FIS Code" : "350032",
@@ -614,5 +637,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "17.12.2005",
+    "Place" : "Gardena/Groeden",
+    "Nation" : "ITA",
+    "Codex" : "0657",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (34.8 kb)Results, Analysis, Standings (336.79 kb)Start List (26.75 kb)Results Training 2 (35.07 kb)Training Analysis (2) (300.41 kb)Start List Training 2 (34.41 kb)Results Training 1 (35.09 kb)Training Analysis (1) (315.89 kb)Start List Training 1 (34.53 kb)Race Program (28.82 kb)"
+  }
 }

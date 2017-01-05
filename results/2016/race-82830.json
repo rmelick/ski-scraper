@@ -1,5 +1,40 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GALINIER JEAN-LOUIS",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "H. TRINKL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "T. STEINER",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2640 m.",
+      "Finish Altitude" : "2040 m.",
+      "Vertical Drop" : "600 m.",
+      "Course Length" : "1920 m.",
+      "Homologation Number" : "10229/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "C. SCHWAIGER",
+        "country" : "GER"
+      },
+      "Number of Gates" : "37",
+      "Start Time" : "11:30"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "6",
     "FIS Code" : "511383",
@@ -258,5 +293,16 @@
     "WC Points" : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "17.03.2016",
+    "Place" : "St. Moritz RUN CET LOC STATUS Run 1 11:30 11:30 Official result",
+    "Nation" : "SUI",
+    "Codex" : "0192",
+    "Discipline" : "Super G",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (81.01 kb)Results, Analysis, Standings (172.08 kb)Start List (72.15 kb)"
+  }
 }

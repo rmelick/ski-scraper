@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DART ROBERT",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "27",
     "FIS Code" : "532431",
@@ -709,5 +732,16 @@
     "WSC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "29.01.2005",
+    "Place" : "Bormio",
+    "Nation" : "ITA",
+    "Codex" : "0848",
+    "Discipline" : "Super G",
+    "Gender" : "M",
+    "Category" : "WSC",
+    "Comments" : "",
+    "Down load" : "Results (84.65 kb)Results, Analysis, Standings (466.05 kb)Start List (69.6 kb)"
+  }
 }

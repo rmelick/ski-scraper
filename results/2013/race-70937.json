@@ -1,5 +1,45 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "REESE GORDON",
+        "country" : "CAN"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "J. HANCOCK",
+        "country" : "USA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2690 m.",
+      "Finish Altitude" : "2490 m.",
+      "Vertical Drop" : "200 m.",
+      "Homologation Number" : "9702/10/10"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "R. SOULARD",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "62",
+      "Turning Gates" : "61",
+      "Start Time" : "10:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "C. SCHWAIGER",
+        "country" : "GER"
+      },
+      "Number of Gates" : "60",
+      "Turning Gates" : "59",
+      "Start Time" : "13:00"
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "3",
     "FIS Code" : "55838",
@@ -836,5 +876,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "25.11.2012",
+    "Place" : "Aspen, CO RUN CET LOC Run 1 18:00 10:00 Run 2 21:00 13:00",
+    "Nation" : "USA",
+    "Codex" : "6413",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.05 MB)Results 2nd run (158.95 kb)Start List 2nd run (103.41 kb)Results 1st run (131.5 kb)Start List 1st run (130.3 kb)"
+  }
 }

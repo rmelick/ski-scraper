@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "PETIT DOMINIQUE",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "12",
     "FIS Code" : "50707",
@@ -970,5 +992,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "27.02.2011",
+    "Place" : "Bansko RUN CET LOC Run 1 09:00 10:00 Run 2 13:00 14:00",
+    "Nation" : "BUL",
+    "Codex" : "0228",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.71 MB)Results 2nd run (186.53 kb)Start List 2nd run (155.42 kb)Results 1st run (185.3 kb)Start List 1st run (184.04 kb)"
+  }
 }

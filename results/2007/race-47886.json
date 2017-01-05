@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HUDRY VINCENT",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "60",
     "FIS Code" : "510997",
@@ -1031,5 +1053,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "07.01.2007",
+    "Place" : "Adelboden RUN CET LOC Run 1 10:30 Run 2 13:30",
+    "Nation" : "SUI",
+    "Codex" : "1590",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (913.43 kb)Results 2nd run (339.5 kb)Start List 2nd run (326.48 kb)Results 1st run (338.56 kb)Start List 1st run (133.34 kb)"
+  }
 }

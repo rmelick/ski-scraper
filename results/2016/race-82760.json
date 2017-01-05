@@ -1,5 +1,49 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GALINIER JEAN-LOUIS",
+        "country" : "FRA"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "H. TRINKL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "T. STEINER",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2840 m.",
+      "Finish Altitude" : "2040 m.",
+      "Vertical Drop" : "800 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : "10228/10/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "H. TRINKL",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "33",
+      "Start Time" : "10:45"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "16",
     "FIS Code" : "292455",
@@ -212,5 +256,16 @@
     "Diff." : ""
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "15.03.2016",
+    "Place" : "St. Moritz RUN CET LOC STATUS Run 1 10:45 10:45 Official result",
+    "Nation" : "SUI",
+    "Codex" : "0190",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (81.2 kb)Training Analysis (1) (105.33 kb)Start List Training 1 (72.17 kb)"
+  }
 }

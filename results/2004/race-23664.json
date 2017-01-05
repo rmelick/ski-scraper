@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GURZELER THOMAS",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "17",
     "FIS Code" : "420470",
@@ -654,5 +677,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "22.01.2004",
+    "Place" : "Kitzbuehel",
+    "Nation" : "AUT",
+    "Codex" : "1132",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "Replaces: Wengen",
+    "Down load" : "Results (24.25 kb)Results, Analysis, Standings (223.36 kb)Start List (34.35 kb)Results Training 2 (23.25 kb)Training Analysis (2) (68.05 kb)Start List Training 2 (34.43 kb)Results Training 1 (23.49 kb)Training Analysis (1) (120.79 kb)Start List Training 1 (34.53 kb)"
+  }
 }

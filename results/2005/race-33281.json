@@ -1,5 +1,28 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "GORISEK DUSAN",
+        "country" : "SLO"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "30",
     "FIS Code" : "50833",
@@ -632,5 +655,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "29.12.2004",
+    "Place" : "Bormio",
+    "Nation" : "ITA",
+    "Codex" : "0789",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (24.05 kb)Results, Analysis, Standings (204.3 kb)Start List (26.7 kb)Results Training 2 (24.28 kb)Training Analysis (2) (127.54 kb)Start List Training 2 (35.02 kb)Results Training 1 (24.1 kb)Training Analysis (1) (127.8 kb)Start List Training 1 (35.05 kb)"
+  }
 }

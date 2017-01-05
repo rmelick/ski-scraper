@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "COZZI MARCO",
+        "country" : "ITA"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "11",
     "FIS Code" : "50624",
@@ -961,5 +983,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "18.01.2009",
+    "Place" : "Wengen RUN CET LOC Run 1 10:00 10:00 Run 2 13:15 13:15",
+    "Nation" : "SUI",
+    "Codex" : "1324",
+    "Discipline" : "Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (1.82 MB)Results 2nd run (376.18 kb)Start List 2nd run (469.01 kb)Results 1st run (501.57 kb)Start List 1st run (373.26 kb)"
+  }
 }

@@ -1,5 +1,27 @@
 {
-  "result" : [ {
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HEIKKALA SEPPO",
+        "country" : "FIN"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
     "Rank" : "1",
     "Bib" : "",
     "FIS Code" : "50625",
@@ -724,5 +746,16 @@
     "WC Points" : "0.00"
   }, {
     "Rank" : ""
-  } ]
+  } ],
+  "eventInfo" : {
+    "Date" : "09.03.2007",
+    "Place" : "Kvitfjell RUN CET LOC Run 1 10:00 Run 2 13:30",
+    "Nation" : "NOR",
+    "Codex" : "0743",
+    "Discipline" : "Super Combined",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "Replaces: Chamonix",
+    "Down load" : "Results, Analysis, Standings (680.41 kb)Results 2nd run (54.88 kb)Start List 2nd run (45.22 kb)Start List 1st run (54.9 kb)"
+  }
 }
