@@ -1,0 +1,95 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MURMANN MARKUS",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "J. GALINIER",
+        "country" : "FRA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1522 m.",
+      "Finish Altitude" : "1432 m.",
+      "Vertical Drop" : "90 m.",
+      "Homologation Number" : "10805/12/12"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "M. COUDER",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "23",
+      "Turning Gates" : "23",
+      "Start Time" : "10:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "FIS Code" : "511846",
+    "Name" : "SWITZERLAND",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "2",
+    "FIS Code" : "501830",
+    "Name" : "SWEDEN",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "3",
+    "FIS Code" : "54057",
+    "Name" : "AUSTRIA",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "4",
+    "FIS Code" : "6290057",
+    "Name" : "ITALY",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "565392",
+    "Name" : "SLOVENIA",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "206640",
+    "Name" : "GERMANY",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "194428",
+    "Name" : "FRANCE",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "20.03.2015",
+    "Place" : "Meribel RUN CET LOC STATUS Run 1 10:30 Official result",
+    "Nation" : "FRA",
+    "Codex" : "0338",
+    "Discipline" : "Team",
+    "Gender" : "A",
+    "Category" : "NGP",
+    "Comments" : "",
+    "Down load" : "Results (829.19 kb)Results, Analysis, Standings (254.33 kb)Start List (824.74 kb)Start List Ladder (509.77 kb)"
+  }
+}

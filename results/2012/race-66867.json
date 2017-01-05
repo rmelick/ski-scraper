@@ -1,0 +1,1172 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DAUM WERNER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J. GALINIER",
+        "country" : "FRA"
+      },
+      "Chief of Race" : {
+        "name" : "V. GHIRARDI",
+        "country" : "ITA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : "10066/02/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "30",
+      "Start Time" : "09:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "1",
+    "FIS Code" : "6530319",
+    "Name" : "COCHRAN-SIEGLE Ryan",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:11.99",
+    "Diff." : "",
+    "FIS Points" : "18.24",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "6",
+    "FIS Code" : "511981",
+    "Name" : "WEBER Ralph",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Total Time" : "1:12.08",
+    "Diff." : "+0.09",
+    "FIS Points" : "19.90",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "3",
+    "FIS Code" : "511847",
+    "Name" : "MANI Nils",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Total Time" : "1:12.48",
+    "Diff." : "+0.49",
+    "FIS Points" : "27.29",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "13",
+    "FIS Code" : "194495",
+    "Name" : "FAIVRE Mathieu",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:12.57",
+    "Diff." : "+0.58",
+    "FIS Points" : "28.96",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "25",
+    "FIS Code" : "202525",
+    "Name" : "SCHMID Manuel",
+    "Year" : "1993",
+    "Nation" : "GER",
+    "Total Time" : "1:12.80",
+    "Diff." : "+0.81",
+    "FIS Points" : "33.20",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "19",
+    "FIS Code" : "6290062",
+    "Name" : "BARUFFALDI Stefano",
+    "Year" : "1992",
+    "Nation" : "ITA",
+    "Total Time" : "1:12.85",
+    "Diff." : "+0.86",
+    "FIS Points" : "34.13",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "20",
+    "FIS Code" : "194650",
+    "Name" : "PICCARD Roy",
+    "Year" : "1993",
+    "Nation" : "FRA",
+    "Total Time" : "1:13.03",
+    "Diff." : "+1.04",
+    "FIS Points" : "37.45",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "36",
+    "FIS Code" : "422310",
+    "Name" : "SEJERSTED Adrian Smiseth",
+    "Year" : "1994",
+    "Nation" : "NOR",
+    "Total Time" : "1:13.29",
+    "Diff." : "+1.30",
+    "FIS Points" : "42.26",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "22",
+    "FIS Code" : "202535",
+    "Name" : "DRESSEN Thomas",
+    "Year" : "1993",
+    "Nation" : "GER",
+    "Total Time" : "1:13.35",
+    "Diff." : "+1.36",
+    "FIS Points" : "43.37",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "15",
+    "FIS Code" : "6530104",
+    "Name" : "BENNETT Bryce",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:13.40",
+    "Diff." : "+1.41",
+    "FIS Points" : "44.29",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "9",
+    "FIS Code" : "6290350",
+    "Name" : "RAVELLI Andrea",
+    "Year" : "1992",
+    "Nation" : "ITA",
+    "Total Time" : "1:13.50",
+    "Diff." : "+1.51",
+    "FIS Points" : "46.14",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "10",
+    "FIS Code" : "6291029",
+    "Name" : "BATTILANI Henri",
+    "Year" : "1994",
+    "Nation" : "ITA",
+    "Total Time" : "1:13.54",
+    "Diff." : "+1.55",
+    "FIS Points" : "46.88",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "14",
+    "FIS Code" : "194444",
+    "Name" : "GONZALEZ Quentin",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:13.68",
+    "Diff." : "+1.69",
+    "FIS Points" : "49.46",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "17",
+    "FIS Code" : "481327",
+    "Name" : "TRIKHICHEV Pavel",
+    "Year" : "1992",
+    "Nation" : "RUS",
+    "Total Time" : "1:13.69",
+    "Diff." : "+1.70",
+    "FIS Points" : "49.65",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "7",
+    "FIS Code" : "194542",
+    "Name" : "GIRAUD MOINE Valentin",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:13.76",
+    "Diff." : "+1.77",
+    "FIS Points" : "50.94",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "23",
+    "FIS Code" : "54076",
+    "Name" : "KOECK Niklas",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:13.81",
+    "Diff." : "+1.82",
+    "FIS Points" : "51.86",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "2",
+    "FIS Code" : "54075",
+    "Name" : "KARELLY Mario",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:13.90",
+    "Diff." : "+1.91",
+    "FIS Points" : "53.53",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "43",
+    "FIS Code" : "422304",
+    "Name" : "KRISTOFFERSEN Henrik",
+    "Year" : "1994",
+    "Nation" : "NOR",
+    "Total Time" : "1:13.96",
+    "Diff." : "+1.97",
+    "FIS Points" : "54.64",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "26",
+    "FIS Code" : "561255",
+    "Name" : "CATER Martin",
+    "Year" : "1992",
+    "Nation" : "SLO",
+    "Total Time" : "1:14.02",
+    "Diff." : "+2.03",
+    "FIS Points" : "55.74",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "12",
+    "FIS Code" : "422177",
+    "Name" : "OLSEN Joern Lunn",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "1:14.03",
+    "Diff." : "+2.04",
+    "FIS Points" : "55.93",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "8",
+    "FIS Code" : "6290540",
+    "Name" : "DE VETTORI Matteo",
+    "Year" : "1993",
+    "Nation" : "ITA",
+    "Total Time" : "1:14.03",
+    "Diff." : "+2.04",
+    "FIS Points" : "55.93",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "21",
+    "FIS Code" : "512014",
+    "Name" : "NIEDERBERGER Bernhard",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Total Time" : "1:14.11",
+    "Diff." : "+2.12",
+    "FIS Points" : "57.41",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "23",
+    "Bib" : "32",
+    "FIS Code" : "511983",
+    "Name" : "AERNI Luca",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Total Time" : "1:14.23",
+    "Diff." : "+2.24",
+    "FIS Points" : "59.62",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "37",
+    "FIS Code" : "422139",
+    "Name" : "KILDE Aleksander Aamodt",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "1:14.31",
+    "Diff." : "+2.32",
+    "FIS Points" : "61.10",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "25",
+    "Bib" : "11",
+    "FIS Code" : "6290454",
+    "Name" : "HOFER Aaron",
+    "Year" : "1992",
+    "Nation" : "ITA",
+    "Total Time" : "1:14.33",
+    "Diff." : "+2.34",
+    "FIS Points" : "61.47",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "26",
+    "Bib" : "27",
+    "FIS Code" : "194858",
+    "Name" : "ALLEGRE Nils",
+    "Year" : "1994",
+    "Nation" : "FRA",
+    "Total Time" : "1:14.34",
+    "Diff." : "+2.35",
+    "FIS Points" : "61.66",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "27",
+    "Bib" : "58",
+    "FIS Code" : "54063",
+    "Name" : "FELLER Manuel",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:14.38",
+    "Diff." : "+2.39",
+    "FIS Points" : "62.39",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "28",
+    "Bib" : "59",
+    "FIS Code" : "561244",
+    "Name" : "KRANJEC Zan",
+    "Year" : "1992",
+    "Nation" : "SLO",
+    "Total Time" : "1:14.44",
+    "Diff." : "+2.45",
+    "FIS Points" : "63.50",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "29",
+    "Bib" : "29",
+    "FIS Code" : "6290985",
+    "Name" : "BUZZI Emanuele",
+    "Year" : "1994",
+    "Nation" : "ITA",
+    "Total Time" : "1:14.64",
+    "Diff." : "+2.65",
+    "FIS Points" : "67.20",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "30",
+    "Bib" : "30",
+    "FIS Code" : "6530598",
+    "Name" : "SNOW Scott",
+    "Year" : "1993",
+    "Nation" : "USA",
+    "Total Time" : "1:14.76",
+    "Diff." : "+2.77",
+    "FIS Points" : "69.42",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "31",
+    "Bib" : "42",
+    "FIS Code" : "561279",
+    "Name" : "KREJAC Klemen",
+    "Year" : "1993",
+    "Nation" : "SLO",
+    "Total Time" : "1:14.96",
+    "Diff." : "+2.97",
+    "FIS Points" : "73.11",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "32",
+    "Bib" : "48",
+    "FIS Code" : "481514",
+    "Name" : "BORODAYKIN Artem",
+    "Year" : "1994",
+    "Nation" : "RUS",
+    "Total Time" : "1:15.01",
+    "Diff." : "+3.02",
+    "FIS Points" : "74.03",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "33",
+    "Bib" : "33",
+    "FIS Code" : "6530454",
+    "Name" : "FARROW Tanner",
+    "Year" : "1993",
+    "Nation" : "USA",
+    "Total Time" : "1:15.14",
+    "Diff." : "+3.15",
+    "FIS Points" : "76.44",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "34",
+    "Bib" : "38",
+    "FIS Code" : "481322",
+    "Name" : "ANDREEVSKIY Alexey",
+    "Year" : "1992",
+    "Nation" : "RUS",
+    "Total Time" : "1:15.33",
+    "Diff." : "+3.34",
+    "FIS Points" : "79.95",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "35",
+    "Bib" : "62",
+    "FIS Code" : "700868",
+    "Name" : "FALAT Matej",
+    "Year" : "1993",
+    "Nation" : "SVK",
+    "Total Time" : "1:15.49",
+    "Diff." : "+3.50",
+    "FIS Points" : "82.90",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "36",
+    "Bib" : "55",
+    "FIS Code" : "501751",
+    "Name" : "STEDING Daniel",
+    "Year" : "1992",
+    "Nation" : "SWE",
+    "Total Time" : "1:15.87",
+    "Diff." : "+3.88",
+    "FIS Points" : "89.92",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "37",
+    "Bib" : "31",
+    "FIS Code" : "6530115",
+    "Name" : "CHRISTIANSON Kieffer",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:15.93",
+    "Diff." : "+3.94",
+    "FIS Points" : "91.03",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "38",
+    "Bib" : "50",
+    "FIS Code" : "550054",
+    "Name" : "ZVEJNIEKS Kristaps",
+    "Year" : "1992",
+    "Nation" : "LAT",
+    "Total Time" : "1:16.37",
+    "Diff." : "+4.38",
+    "FIS Points" : "99.16",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "39",
+    "Bib" : "98",
+    "FIS Code" : "202597",
+    "Name" : "SCHMID Alexander",
+    "Year" : "1994",
+    "Nation" : "GER",
+    "Total Time" : "1:16.65",
+    "Diff." : "+4.66",
+    "FIS Points" : "104.33",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "40",
+    "Bib" : "68",
+    "FIS Code" : "700879",
+    "Name" : "ZAMPA Andreas",
+    "Year" : "1993",
+    "Nation" : "SVK",
+    "Total Time" : "1:16.88",
+    "Diff." : "+4.89",
+    "FIS Points" : "108.58",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "41",
+    "Bib" : "100",
+    "FIS Code" : "230659",
+    "Name" : "VALCAREGGI Massimiliano",
+    "Year" : "1995",
+    "Nation" : "GRE",
+    "Total Time" : "1:18.63",
+    "Diff." : "+6.64",
+    "FIS Points" : "140.91",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "42",
+    "Bib" : "66",
+    "FIS Code" : "430550",
+    "Name" : "KLUSAK Jakub",
+    "Year" : "1992",
+    "Nation" : "POL",
+    "Total Time" : "1:19.15",
+    "Diff." : "+7.16",
+    "FIS Points" : "150.52",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "43",
+    "Bib" : "72",
+    "FIS Code" : "40506",
+    "Name" : "ROBERTSON Sam",
+    "Year" : "1993",
+    "Nation" : "AUS",
+    "Total Time" : "1:19.40",
+    "Diff." : "+7.41",
+    "FIS Points" : "155.14",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "44",
+    "Bib" : "76",
+    "FIS Code" : "110328",
+    "Name" : "PFINGSTHORN Sebastian",
+    "Year" : "1994",
+    "Nation" : "CHI",
+    "Total Time" : "1:19.73",
+    "Diff." : "+7.74",
+    "FIS Points" : "161.23",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "45",
+    "Bib" : "91",
+    "FIS Code" : "150968",
+    "Name" : "KUPEC Karel",
+    "Year" : "1992",
+    "Nation" : "CZE",
+    "Total Time" : "1:19.86",
+    "Diff." : "+7.87",
+    "FIS Points" : "163.64",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "46",
+    "Bib" : "93",
+    "FIS Code" : "80068",
+    "Name" : "GUGLIELMINI Fabio",
+    "Year" : "1994",
+    "Nation" : "BRA",
+    "Total Time" : "1:20.12",
+    "Diff." : "+8.13",
+    "FIS Points" : "168.44",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "47",
+    "Bib" : "85",
+    "FIS Code" : "690672",
+    "Name" : "TELYCHUK Vasyl",
+    "Year" : "1992",
+    "Nation" : "UKR",
+    "Total Time" : "1:20.80",
+    "Diff." : "+8.81",
+    "FIS Points" : "181.00",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "48",
+    "Bib" : "81",
+    "FIS Code" : "550065",
+    "Name" : "SARKANIS Toms",
+    "Year" : "1993",
+    "Nation" : "LAT",
+    "Total Time" : "1:20.94",
+    "Diff." : "+8.95",
+    "FIS Points" : "183.59",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "49",
+    "Bib" : "80",
+    "FIS Code" : "670068",
+    "Name" : "KOSTROV Alexandr",
+    "Year" : "1994",
+    "Nation" : "KAZ",
+    "Total Time" : "1:21.19",
+    "Diff." : "+9.20",
+    "FIS Points" : "188.21",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "50",
+    "Bib" : "88",
+    "FIS Code" : "240128",
+    "Name" : "BUJTAS Csaba",
+    "Year" : "1992",
+    "Nation" : "HUN",
+    "Total Time" : "1:21.36",
+    "Diff." : "+9.37",
+    "FIS Points" : "191.35",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "51",
+    "Bib" : "87",
+    "FIS Code" : "210032",
+    "Name" : "VORONOV Artem",
+    "Year" : "1993",
+    "Nation" : "UZB",
+    "Total Time" : "1:21.74",
+    "Diff." : "+9.75",
+    "FIS Points" : "198.37",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "52",
+    "Bib" : "92",
+    "FIS Code" : "240139",
+    "Name" : "KEKESI Marton",
+    "Year" : "1995",
+    "Nation" : "HUN",
+    "Total Time" : "1:22.25",
+    "Diff." : "+10.26",
+    "FIS Points" : "207.79",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "53",
+    "Bib" : "89",
+    "FIS Code" : "690736",
+    "Name" : "NEKRUTENKO Vladyslav",
+    "Year" : "1996",
+    "Nation" : "UKR",
+    "Total Time" : "1:23.48",
+    "Diff." : "+11.49",
+    "FIS Points" : "230.52",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "54",
+    "Bib" : "94",
+    "FIS Code" : "690722",
+    "Name" : "MYTSAK Dmytro",
+    "Year" : "1995",
+    "Nation" : "UKR",
+    "Total Time" : "1:24.08",
+    "Diff." : "+12.09",
+    "FIS Points" : "241.60",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "55",
+    "Bib" : "70",
+    "FIS Code" : "680054",
+    "Name" : "GEDEVANISHVILI Dimitri",
+    "Year" : "1993",
+    "Nation" : "GEO",
+    "Total Time" : "1:26.11",
+    "Diff." : "+14.12",
+    "FIS Points" : "279.10",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "Disqualified 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "46",
+    "FIS Code" : "501898",
+    "Name" : "ROENNGREN Mattias",
+    "Year" : "1993",
+    "Nation" : "SWE",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "Did not start 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "99",
+    "FIS Code" : "110339",
+    "Name" : "ECHEVERRIA Sebastian",
+    "Year" : "1995",
+    "Nation" : "CHI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "90",
+    "FIS Code" : "6530117",
+    "Name" : "CONE Robert",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "97",
+    "FIS Code" : "92638",
+    "Name" : "VARBANOV Stoyan",
+    "Year" : "1993",
+    "Nation" : "BUL",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "96",
+    "FIS Code" : "54093",
+    "Name" : "STROLZ Johannes",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "95",
+    "FIS Code" : "151110",
+    "Name" : "STEPAN Martin",
+    "Year" : "1995",
+    "Nation" : "CZE",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "86",
+    "FIS Code" : "700908",
+    "Name" : "MURIN Roman",
+    "Year" : "1995",
+    "Nation" : "SVK",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "84",
+    "FIS Code" : "92664",
+    "Name" : "POPOV Vladimir",
+    "Year" : "1994",
+    "Nation" : "BUL",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "83",
+    "FIS Code" : "670067",
+    "Name" : "KALYUZHNOV Nikita",
+    "Year" : "1994",
+    "Nation" : "KAZ",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "82",
+    "FIS Code" : "40503",
+    "Name" : "COULL Jackson",
+    "Year" : "1993",
+    "Nation" : "AUS",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "79",
+    "FIS Code" : "690694",
+    "Name" : "KOVBASNYUK Ivan",
+    "Year" : "1993",
+    "Nation" : "UKR",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "78",
+    "FIS Code" : "481549",
+    "Name" : "STUKOV Maksim",
+    "Year" : "1994",
+    "Nation" : "RUS",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "77",
+    "FIS Code" : "60207",
+    "Name" : "FIERENS Thomas",
+    "Year" : "1993",
+    "Nation" : "BEL",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "75",
+    "FIS Code" : "430610",
+    "Name" : "STARZYK Pawel",
+    "Year" : "1993",
+    "Nation" : "POL",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "74",
+    "FIS Code" : "151024",
+    "Name" : "KOTZMANN Adam",
+    "Year" : "1993",
+    "Nation" : "CZE",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "73",
+    "FIS Code" : "481540",
+    "Name" : "KOLGOTIN Pavel",
+    "Year" : "1994",
+    "Nation" : "RUS",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "71",
+    "FIS Code" : "430640",
+    "Name" : "BABICKI Pawel",
+    "Year" : "1994",
+    "Nation" : "POL",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "69",
+    "FIS Code" : "60236",
+    "Name" : "VAN DEN BROECKE Dries",
+    "Year" : "1995",
+    "Nation" : "BEL",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "67",
+    "FIS Code" : "110324",
+    "Name" : "VON APPEN Henrik",
+    "Year" : "1994",
+    "Nation" : "CHI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "65",
+    "FIS Code" : "110320",
+    "Name" : "CLARO Eugenio",
+    "Year" : "1993",
+    "Nation" : "CHI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "64",
+    "FIS Code" : "400235",
+    "Name" : "WINKELHORST Steffan",
+    "Year" : "1992",
+    "Nation" : "NED",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "63",
+    "FIS Code" : "180705",
+    "Name" : "PIRINEN Eemeli",
+    "Year" : "1993",
+    "Nation" : "FIN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "61",
+    "FIS Code" : "40536",
+    "Name" : "DEMSCHAR Daniel",
+    "Year" : "1994",
+    "Nation" : "AUS",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "60",
+    "FIS Code" : "180737",
+    "Name" : "LUUKKO Max",
+    "Year" : "1994",
+    "Nation" : "FIN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "57",
+    "FIS Code" : "40523",
+    "Name" : "DEMSCHAR Dominic",
+    "Year" : "1993",
+    "Nation" : "AUS",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "56",
+    "FIS Code" : "700878",
+    "Name" : "BENDIK Martin",
+    "Year" : "1993",
+    "Nation" : "SVK",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "54",
+    "FIS Code" : "481428",
+    "Name" : "NOVIKOV Vladislav",
+    "Year" : "1993",
+    "Nation" : "RUS",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "53",
+    "FIS Code" : "410364",
+    "Name" : "FEASEY Willis",
+    "Year" : "1992",
+    "Nation" : "NZL",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "52",
+    "FIS Code" : "400237",
+    "Name" : "MEINERS Maarten",
+    "Year" : "1992",
+    "Nation" : "NED",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "51",
+    "FIS Code" : "103857",
+    "Name" : "ST-GERMAIN Wiliam",
+    "Year" : "1992",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "49",
+    "FIS Code" : "511996",
+    "Name" : "YULE Daniel",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "47",
+    "FIS Code" : "202469",
+    "Name" : "RENZ Fabio",
+    "Year" : "1992",
+    "Nation" : "GER",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "45",
+    "FIS Code" : "194873",
+    "Name" : "SARRAZIN Cyprien",
+    "Year" : "1994",
+    "Nation" : "FRA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "44",
+    "FIS Code" : "561245",
+    "Name" : "VUKICEVIC Marko",
+    "Year" : "1992",
+    "Nation" : "SLO",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "41",
+    "FIS Code" : "422275",
+    "Name" : "JOHANSEN Ola Buer",
+    "Year" : "1993",
+    "Nation" : "NOR",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "40",
+    "FIS Code" : "561278",
+    "Name" : "REICH - POGLADIC Andraz",
+    "Year" : "1993",
+    "Nation" : "SLO",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "39",
+    "FIS Code" : "561254",
+    "Name" : "ZERAK Misel",
+    "Year" : "1992",
+    "Nation" : "SLO",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "35",
+    "FIS Code" : "380318",
+    "Name" : "BRIGOVIC Sebastian",
+    "Year" : "1992",
+    "Nation" : "CRO",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "34",
+    "FIS Code" : "103997",
+    "Name" : "MEGARRY Morgan",
+    "Year" : "1993",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "28",
+    "FIS Code" : "103899",
+    "Name" : "SOLOMON Andrew",
+    "Year" : "1992",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "24",
+    "FIS Code" : "511852",
+    "Name" : "CAVIEZEL Gino",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "18",
+    "FIS Code" : "422134",
+    "Name" : "BJERTNESS Endre",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "16",
+    "FIS Code" : "103865",
+    "Name" : "PHILP Trevor",
+    "Year" : "1992",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "5",
+    "FIS Code" : "54099",
+    "Name" : "MAYRPETER Thomas",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "4",
+    "FIS Code" : "54157",
+    "Name" : "DANKLMAIER Daniel",
+    "Year" : "1993",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "02.03.2012",
+    "Place" : "Roccaraso",
+    "Nation" : "ITA",
+    "Codex" : "0970",
+    "Discipline" : "Downhill",
+    "Gender" : "M",
+    "Category" : "WJC",
+    "Comments" : "",
+    "Down load" : "Marc Hodler Trophy"
+  }
+}

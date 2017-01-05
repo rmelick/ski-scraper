@@ -21,4 +21,11 @@ public class EventDetails {
   public String getResultsUrl() {
     return _resultsUrl;
   }
+
+  @Override public String toString() {
+    return "EventDetails{" +
+        "additionalInfo=" + _additionalInfo +
+        ", resultsUrl='" + _resultsUrl + '\'' +
+        '}';
+  }
 }

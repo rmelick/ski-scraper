@@ -1,0 +1,200 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "LAVALLEE DANIEL P.",
+        "country" : "CAN"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "6530319",
+    "Name" : "COCHRAN-SIEGLE Ryan",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "422304",
+    "Name" : "KRISTOFFERSEN Henrik",
+    "Year" : "1994",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "561244",
+    "Name" : "KRANJEC Zan",
+    "Year" : "1992",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "202535",
+    "Name" : "DRESSEN Thomas",
+    "Year" : "1993",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "6290062",
+    "Name" : "BARUFFALDI Stefano",
+    "Year" : "1992",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "6530104",
+    "Name" : "BENNETT Bryce",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "194858",
+    "Name" : "ALLEGRE Nils",
+    "Year" : "1994",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "501751",
+    "Name" : "STEDING Daniel",
+    "Year" : "1992",
+    "Nation" : "SWE",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "202597",
+    "Name" : "SCHMID Alexander",
+    "Year" : "1994",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "700879",
+    "Name" : "ZAMPA Andreas",
+    "Year" : "1993",
+    "Nation" : "SVK",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "430550",
+    "Name" : "KLUSAK Jakub",
+    "Year" : "1992",
+    "Nation" : "POL",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "230659",
+    "Name" : "VALCAREGGI Massimiliano",
+    "Year" : "1995",
+    "Nation" : "GRE",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "690672",
+    "Name" : "TELYCHUK Vasyl",
+    "Year" : "1992",
+    "Nation" : "UKR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "80068",
+    "Name" : "GUGLIELMINI Fabio",
+    "Year" : "1994",
+    "Nation" : "BRA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "550065",
+    "Name" : "SARKANIS Toms",
+    "Year" : "1993",
+    "Nation" : "LAT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "210032",
+    "Name" : "VORONOV Artem",
+    "Year" : "1993",
+    "Nation" : "UZB",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "690736",
+    "Name" : "NEKRUTENKO Vladyslav",
+    "Year" : "1996",
+    "Nation" : "UKR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "18",
+    "Bib" : "",
+    "FIS Code" : "690722",
+    "Name" : "MYTSAK Dmytro",
+    "Year" : "1995",
+    "Nation" : "UKR",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "09.03.2012",
+    "Place" : "Roccaraso",
+    "Nation" : "ITA",
+    "Codex" : "6921",
+    "Discipline" : "Combined",
+    "Gender" : "M",
+    "Category" : "WJC",
+    "Comments" : "",
+    "Down load" : "Marc Hodler Trophy"
+  }
+}

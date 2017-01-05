@@ -1,0 +1,150 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "NUTZ WERNER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "2",
+    "FIS Code" : "705287",
+    "Name" : "VELEZ ZUZULOVA Veronika",
+    "Year" : "1984",
+    "Nation" : "SVK"
+  }, {
+    "Rank" : "2",
+    "Bib" : "1",
+    "FIS Code" : "565243",
+    "Name" : "MAZE Tina",
+    "Year" : "1983",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "3",
+    "Bib" : "6",
+    "FIS Code" : "55759",
+    "Name" : "KIRCHGASSER Michaela",
+    "Year" : "1985",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "4",
+    "Bib" : "5",
+    "FIS Code" : "185140",
+    "Name" : "POUTIAINEN Tanja",
+    "Year" : "1980",
+    "Nation" : "FIN"
+  }, {
+    "Rank" : "5",
+    "Bib" : "14",
+    "FIS Code" : "205218",
+    "Name" : "REBENSBURG Viktoria",
+    "Year" : "1989",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "Bib" : "13",
+    "FIS Code" : "537545",
+    "Name" : "MANCUSO Julia",
+    "Year" : "1984",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "5",
+    "Bib" : "9",
+    "FIS Code" : "505760",
+    "Name" : "PIETILAE-HOLMNER Maria",
+    "Year" : "1986",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "5",
+    "Bib" : "7",
+    "FIS Code" : "6535237",
+    "Name" : "SHIFFRIN Mikaela",
+    "Year" : "1995",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "16",
+    "FIS Code" : "56032",
+    "Name" : "SCHILD Bernadette",
+    "Year" : "1990",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "15",
+    "FIS Code" : "55977",
+    "Name" : "THALMANN Carmen",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "12",
+    "FIS Code" : "55690",
+    "Name" : "HOSP Nicole",
+    "Year" : "1983",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "11",
+    "FIS Code" : "106961",
+    "Name" : "MIELZYNSKI Erin",
+    "Year" : "1990",
+    "Nation" : "CAN"
+  }, {
+    "Rank" : "9",
+    "Bib" : "10",
+    "FIS Code" : "505679",
+    "Name" : "HANSDOTTER Frida",
+    "Year" : "1985",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "9",
+    "Bib" : "8",
+    "FIS Code" : "505610",
+    "Name" : "BORSSEN Therese",
+    "Year" : "1984",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "9",
+    "Bib" : "4",
+    "FIS Code" : "55838",
+    "Name" : "ZETTEL Kathrin",
+    "Year" : "1986",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "3",
+    "FIS Code" : "206001",
+    "Name" : "HOEFL-RIESCH Maria",
+    "Year" : "1984",
+    "Nation" : "GER"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "01.01.2013",
+    "Place" : "City Event Munich",
+    "Nation" : "GER",
+    "Codex" : "5568",
+    "Discipline" : "City Event",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (336.51 kb)Results, Analysis, Standings (1016.5 kb)Start List (267.51 kb)"
+  }
+}

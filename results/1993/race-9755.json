@@ -1,0 +1,374 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "195118",
+    "Name" : "MERLE Carole",
+    "Year" : "1964",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:31.54",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "55097",
+    "Name" : "WACHTER Anita",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:32.20",
+    "Diff." : "+0.66",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "295267",
+    "Name" : "COMPAGNONI Deborah",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:32.77",
+    "Diff." : "+1.23",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "515098",
+    "Name" : "REY BELLET Corinne",
+    "Year" : "1972",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:33.46",
+    "Diff." : "+1.92",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "55020",
+    "Name" : "EDER Sylvia",
+    "Year" : "1965",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:33.64",
+    "Diff." : "+2.10",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "515138",
+    "Name" : "ZELLER-BAEHLER Heidi",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:33.83",
+    "Diff." : "+2.29",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "565097",
+    "Name" : "PRETNAR Spela",
+    "Year" : "1973",
+    "Nation" : "SLO",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:33.93",
+    "Diff." : "+2.39",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "205378",
+    "Name" : "ERTL Martina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:34.02",
+    "Diff." : "+2.48",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "515142",
+    "Name" : "ZURBRIGGEN Heidi",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:34.57",
+    "Diff." : "+3.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "205111",
+    "Name" : "MEIER-HOECK Christina",
+    "Year" : "1966",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:34.67",
+    "Diff." : "+3.13",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "205171",
+    "Name" : "SEIZINGER Katja",
+    "Year" : "1972",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:35.53",
+    "Diff." : "+3.99",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "295117",
+    "Name" : "MAGONI Lara",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:35.72",
+    "Diff." : "+4.18",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "295116",
+    "Name" : "DEMEZ Katyuscia",
+    "Year" : "1972",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:35.75",
+    "Diff." : "+4.21",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "425008",
+    "Name" : "BERGE Anne",
+    "Year" : "1966",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:35.77",
+    "Diff." : "+4.23",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "55165",
+    "Name" : "LIEB Manuela",
+    "Year" : "1971",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:35.79",
+    "Diff." : "+4.25",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "55087",
+    "Name" : "RAGGL Barbara",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:36.20",
+    "Diff." : "+4.66",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "515082",
+    "Name" : "MAY Gaby",
+    "Year" : "1968",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.14",
+    "Diff." : "+5.60",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "",
+    "FIS Code" : "425111",
+    "Name" : "KJOERSTAD Marianne",
+    "Year" : "1970",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.20",
+    "Diff." : "+5.66",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "55129",
+    "Name" : "GINTHER Sabine",
+    "Year" : "1970",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.24",
+    "Diff." : "+5.70",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "295049",
+    "Name" : "GALLIZIO Morena",
+    "Year" : "1974",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.25",
+    "Diff." : "+5.71",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "21",
+    "Bib" : "",
+    "FIS Code" : "515014",
+    "Name" : "BERNET Petra",
+    "Year" : "1966",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.52",
+    "Diff." : "+5.98",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "295191",
+    "Name" : "MERLIN Barbara",
+    "Year" : "1972",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.57",
+    "Diff." : "+6.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "23",
+    "Bib" : "",
+    "FIS Code" : "205153",
+    "Name" : "RIEDIGER Kerstin",
+    "Year" : "1972",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.70",
+    "Diff." : "+6.16",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "",
+    "FIS Code" : "535221",
+    "Name" : "VOELKER Heidi",
+    "Year" : "1969",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.88",
+    "Diff." : "+6.34",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "25",
+    "Bib" : "",
+    "FIS Code" : "105078",
+    "Name" : "LEE-GARTNER Kerrin",
+    "Year" : "1966",
+    "Nation" : "CAN",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:37.89",
+    "Diff." : "+6.35",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "26",
+    "Bib" : "",
+    "FIS Code" : "505006",
+    "Name" : "ANDERSSON Kristina",
+    "Year" : "1965",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:38.06",
+    "Diff." : "+6.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "27",
+    "Bib" : "",
+    "FIS Code" : "55068",
+    "Name" : "SALVENMOSER Ingrid",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:38.30",
+    "Diff." : "+6.76",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "28",
+    "Bib" : "",
+    "FIS Code" : "425240",
+    "Name" : "GEDDE DAHL Caroline",
+    "Year" : "1973",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:38.34",
+    "Diff." : "+6.80",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "10.01.1993",
+    "Place" : "Cortina d'Ampezzo",
+    "Nation" : "ITA",
+    "Codex" : "5188",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : ""
+  }
+}

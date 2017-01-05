@@ -1,0 +1,662 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BOWNES KIM",
+        "country" : "USA"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "J. BREWINGTON",
+        "country" : "CAN"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2447 m.",
+      "Finish Altitude" : "1687 m.",
+      "Vertical Drop" : "760 m.",
+      "Course Length" : "2996 m.",
+      "Homologation Number" : "12177/11/16"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J.-P. VULLIET",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "43",
+      "Start Time" : "12:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "12",
+    "FIS Code" : "56087",
+    "Name" : "SIEBENHOFER Ramona",
+    "Year" : "1991",
+    "Nation" : "AUT",
+    "Total Time" : "1:46.84",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "28",
+    "FIS Code" : "538685",
+    "Name" : "MCKENNIS Alice",
+    "Year" : "1989",
+    "Nation" : "USA",
+    "Total Time" : "1:47.32",
+    "Diff." : "+0.48"
+  }, {
+    "Rank" : "3",
+    "Bib" : "5",
+    "FIS Code" : "538573",
+    "Name" : "ROSS Laurenne",
+    "Year" : "1988",
+    "Nation" : "USA",
+    "Total Time" : "1:47.37",
+    "Diff." : "+0.53"
+  }, {
+    "Rank" : "4",
+    "Bib" : "20",
+    "FIS Code" : "537582",
+    "Name" : "COOK Stacey",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "1:47.44",
+    "Diff." : "+0.60"
+  }, {
+    "Rank" : "5",
+    "Bib" : "3",
+    "FIS Code" : "505886",
+    "Name" : "KLING Kajsa",
+    "Year" : "1988",
+    "Nation" : "SWE",
+    "Total Time" : "1:47.46",
+    "Diff." : "+0.62"
+  }, {
+    "Rank" : "6",
+    "Bib" : "30",
+    "FIS Code" : "539536",
+    "Name" : "WILES Jacqueline",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:47.52",
+    "Diff." : "+0.68"
+  }, {
+    "Rank" : "7",
+    "Bib" : "25",
+    "FIS Code" : "565360",
+    "Name" : "STUHEC Ilka",
+    "Year" : "1990",
+    "Nation" : "SLO",
+    "Total Time" : "1:47.56",
+    "Diff." : "+0.72"
+  }, {
+    "Rank" : "8",
+    "Bib" : "1",
+    "FIS Code" : "355050",
+    "Name" : "WEIRATHER Tina",
+    "Year" : "1989",
+    "Nation" : "LIE",
+    "Total Time" : "1:47.63",
+    "Diff." : "+0.79"
+  }, {
+    "Rank" : "9",
+    "Bib" : "27",
+    "FIS Code" : "296472",
+    "Name" : "FANCHINI Elena",
+    "Year" : "1985",
+    "Nation" : "ITA",
+    "Total Time" : "1:47.78",
+    "Diff." : "+0.94"
+  }, {
+    "Rank" : "10",
+    "Bib" : "21",
+    "FIS Code" : "425929",
+    "Name" : "MOWINCKEL Ragnhild",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "1:47.87",
+    "Diff." : "+1.03"
+  }, {
+    "Rank" : "11",
+    "Bib" : "7",
+    "FIS Code" : "516319",
+    "Name" : "SUTER Corinne",
+    "Year" : "1994",
+    "Nation" : "SUI",
+    "Total Time" : "1:47.97",
+    "Diff." : "+1.13"
+  }, {
+    "Rank" : "12",
+    "Bib" : "9",
+    "FIS Code" : "516138",
+    "Name" : "GUT Lara",
+    "Year" : "1991",
+    "Nation" : "SUI",
+    "Total Time" : "1:48.07",
+    "Diff." : "+1.23"
+  }, {
+    "Rank" : "13",
+    "Bib" : "14",
+    "FIS Code" : "245066",
+    "Name" : "MIKLOS Edit",
+    "Year" : "1988",
+    "Nation" : "HUN",
+    "Total Time" : "1:48.12",
+    "Diff." : "+1.28"
+  }, {
+    "Rank" : "14",
+    "Bib" : "45",
+    "FIS Code" : "426043",
+    "Name" : "TVIBERG Maria Therese",
+    "Year" : "1994",
+    "Nation" : "NOR",
+    "Total Time" : "1:48.13",
+    "Diff." : "+1.29"
+  }, {
+    "Rank" : "15",
+    "Bib" : "23",
+    "FIS Code" : "298323",
+    "Name" : "GOGGIA Sofia",
+    "Year" : "1992",
+    "Nation" : "ITA",
+    "Total Time" : "1:48.21",
+    "Diff." : "+1.37"
+  }, {
+    "Rank" : "16",
+    "Bib" : "19",
+    "FIS Code" : "56125",
+    "Name" : "PUCHNER Mirjam",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:48.27",
+    "Diff." : "+1.43"
+  }, {
+    "Rank" : "17",
+    "Bib" : "46",
+    "FIS Code" : "299402",
+    "Name" : "GASSLITTER Verena",
+    "Year" : "1996",
+    "Nation" : "ITA",
+    "Total Time" : "1:48.33",
+    "Diff." : "+1.49"
+  }, {
+    "Rank" : "18",
+    "Bib" : "15",
+    "FIS Code" : "515766",
+    "Name" : "SUTER Fabienne",
+    "Year" : "1985",
+    "Nation" : "SUI",
+    "Total Time" : "1:48.38",
+    "Diff." : "+1.54"
+  }, {
+    "Rank" : "19",
+    "Bib" : "18",
+    "FIS Code" : "196968",
+    "Name" : "BAILET Margot",
+    "Year" : "1990",
+    "Nation" : "FRA",
+    "Total Time" : "1:48.45",
+    "Diff." : "+1.61"
+  }, {
+    "Rank" : "20",
+    "Bib" : "41",
+    "FIS Code" : "107613",
+    "Name" : "GRENIER Valerie",
+    "Year" : "1996",
+    "Nation" : "CAN",
+    "Total Time" : "1:48.51",
+    "Diff." : "+1.67"
+  }, {
+    "Rank" : "21",
+    "Bib" : "26",
+    "FIS Code" : "56177",
+    "Name" : "VENIER Stephanie",
+    "Year" : "1993",
+    "Nation" : "AUT",
+    "Total Time" : "1:48.52",
+    "Diff." : "+1.68"
+  }, {
+    "Rank" : "21",
+    "Bib" : "11",
+    "FIS Code" : "296729",
+    "Name" : "FANCHINI Nadia",
+    "Year" : "1986",
+    "Nation" : "ITA",
+    "Total Time" : "1:48.52",
+    "Diff." : "+1.68"
+  }, {
+    "Rank" : "21",
+    "Bib" : "10",
+    "FIS Code" : "55576",
+    "Name" : "GOERGL Elisabeth",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "1:48.52",
+    "Diff." : "+1.68"
+  }, {
+    "Rank" : "24",
+    "Bib" : "32",
+    "FIS Code" : "6535237",
+    "Name" : "SHIFFRIN Mikaela",
+    "Year" : "1995",
+    "Nation" : "USA",
+    "Total Time" : "1:48.67",
+    "Diff." : "+1.83"
+  }, {
+    "Rank" : "25",
+    "Bib" : "13",
+    "FIS Code" : "205218",
+    "Name" : "REBENSBURG Viktoria",
+    "Year" : "1989",
+    "Nation" : "GER",
+    "Total Time" : "1:48.77",
+    "Diff." : "+1.93"
+  }, {
+    "Rank" : "26",
+    "Bib" : "40",
+    "FIS Code" : "206460",
+    "Name" : "WENIG Michaela",
+    "Year" : "1992",
+    "Nation" : "GER",
+    "Total Time" : "1:48.79",
+    "Diff." : "+1.95"
+  }, {
+    "Rank" : "27",
+    "Bib" : "36",
+    "FIS Code" : "56198",
+    "Name" : "SCHEYER Christine",
+    "Year" : "1994",
+    "Nation" : "AUT",
+    "Total Time" : "1:48.80",
+    "Diff." : "+1.96"
+  }, {
+    "Rank" : "28",
+    "Bib" : "48",
+    "FIS Code" : "197295",
+    "Name" : "PIOT Jennifer",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:48.81",
+    "Diff." : "+1.97"
+  }, {
+    "Rank" : "29",
+    "Bib" : "38",
+    "FIS Code" : "197497",
+    "Name" : "MIRADOLI Romane",
+    "Year" : "1994",
+    "Nation" : "FRA",
+    "Total Time" : "1:48.90",
+    "Diff." : "+2.06"
+  }, {
+    "Rank" : "30",
+    "Bib" : "57",
+    "FIS Code" : "155763",
+    "Name" : "LEDECKA Ester",
+    "Year" : "1995",
+    "Nation" : "CZE",
+    "Total Time" : "1:48.93",
+    "Diff." : "+2.09"
+  }, {
+    "Rank" : "30",
+    "Bib" : "17",
+    "FIS Code" : "56128",
+    "Name" : "HUETTER Cornelia",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:48.93",
+    "Diff." : "+2.09"
+  }, {
+    "Rank" : "32",
+    "Bib" : "42",
+    "FIS Code" : "299466",
+    "Name" : "DELAGO Nicol",
+    "Year" : "1996",
+    "Nation" : "ITA",
+    "Total Time" : "1:49.03",
+    "Diff." : "+2.19"
+  }, {
+    "Rank" : "33",
+    "Bib" : "43",
+    "FIS Code" : "56328",
+    "Name" : "ORTLIEB Nina",
+    "Year" : "1996",
+    "Nation" : "AUT",
+    "Total Time" : "1:49.12",
+    "Diff." : "+2.28"
+  }, {
+    "Rank" : "34",
+    "Bib" : "34",
+    "FIS Code" : "6535455",
+    "Name" : "JOHNSON Breezy",
+    "Year" : "1996",
+    "Nation" : "USA",
+    "Total Time" : "1:49.14",
+    "Diff." : "+2.30"
+  }, {
+    "Rank" : "35",
+    "Bib" : "4",
+    "FIS Code" : "55970",
+    "Name" : "SCHMIDHOFER Nicole",
+    "Year" : "1989",
+    "Nation" : "AUT",
+    "Total Time" : "1:49.15",
+    "Diff." : "+2.31"
+  }, {
+    "Rank" : "36",
+    "Bib" : "47",
+    "FIS Code" : "538305",
+    "Name" : "SMITH Leanne",
+    "Year" : "1987",
+    "Nation" : "USA",
+    "Total Time" : "1:49.27",
+    "Diff." : "+2.43"
+  }, {
+    "Rank" : "37",
+    "Bib" : "16",
+    "FIS Code" : "296431",
+    "Name" : "STUFFER Verena",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Total Time" : "1:49.34",
+    "Diff." : "+2.50"
+  }, {
+    "Rank" : "38",
+    "Bib" : "6",
+    "FIS Code" : "296427",
+    "Name" : "SCHNARF Johanna",
+    "Year" : "1984",
+    "Nation" : "ITA",
+    "Total Time" : "1:49.35",
+    "Diff." : "+2.51"
+  }, {
+    "Rank" : "39",
+    "Bib" : "44",
+    "FIS Code" : "56224",
+    "Name" : "MAIER Sabrina",
+    "Year" : "1994",
+    "Nation" : "AUT",
+    "Total Time" : "1:49.40",
+    "Diff." : "+2.56"
+  }, {
+    "Rank" : "40",
+    "Bib" : "8",
+    "FIS Code" : "297910",
+    "Name" : "CURTONI Elena",
+    "Year" : "1991",
+    "Nation" : "ITA",
+    "Total Time" : "1:49.70",
+    "Diff." : "+2.86"
+  }, {
+    "Rank" : "41",
+    "Bib" : "50",
+    "FIS Code" : "375018",
+    "Name" : "COLETTI Alexandra",
+    "Year" : "1983",
+    "Nation" : "MON",
+    "Total Time" : "1:49.77",
+    "Diff." : "+2.93"
+  }, {
+    "Rank" : "42",
+    "Bib" : "60",
+    "FIS Code" : "196928",
+    "Name" : "WORLEY Tessa",
+    "Year" : "1989",
+    "Nation" : "FRA",
+    "Total Time" : "1:49.98",
+    "Diff." : "+3.14"
+  }, {
+    "Rank" : "43",
+    "Bib" : "55",
+    "FIS Code" : "516219",
+    "Name" : "NUFER Priska",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Total Time" : "1:50.00",
+    "Diff." : "+3.16"
+  }, {
+    "Rank" : "43",
+    "Bib" : "24",
+    "FIS Code" : "516185",
+    "Name" : "HAEHLEN Joana",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Total Time" : "1:50.00",
+    "Diff." : "+3.16"
+  }, {
+    "Rank" : "45",
+    "Bib" : "61",
+    "FIS Code" : "539457",
+    "Name" : "MARNO Anna",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:50.02",
+    "Diff." : "+3.18"
+  }, {
+    "Rank" : "46",
+    "Bib" : "35",
+    "FIS Code" : "206668",
+    "Name" : "WEIDLE Kira",
+    "Year" : "1996",
+    "Nation" : "GER",
+    "Total Time" : "1:50.15",
+    "Diff." : "+3.31"
+  }, {
+    "Rank" : "47",
+    "Bib" : "37",
+    "FIS Code" : "196812",
+    "Name" : "PELLISSIER Marion",
+    "Year" : "1988",
+    "Nation" : "FRA",
+    "Total Time" : "1:50.26",
+    "Diff." : "+3.42"
+  }, {
+    "Rank" : "48",
+    "Bib" : "53",
+    "FIS Code" : "197615",
+    "Name" : "BESSY Anouk",
+    "Year" : "1995",
+    "Nation" : "FRA",
+    "Total Time" : "1:50.27",
+    "Diff." : "+3.43"
+  }, {
+    "Rank" : "49",
+    "Bib" : "49",
+    "FIS Code" : "206520",
+    "Name" : "DORSCH Patrizia",
+    "Year" : "1994",
+    "Nation" : "GER",
+    "Total Time" : "1:50.51",
+    "Diff." : "+3.67"
+  }, {
+    "Rank" : "50",
+    "Bib" : "31",
+    "FIS Code" : "297601",
+    "Name" : "BRIGNONE Federica",
+    "Year" : "1990",
+    "Nation" : "ITA",
+    "Total Time" : "1:50.56",
+    "Diff." : "+3.72"
+  }, {
+    "Rank" : "51",
+    "Bib" : "59",
+    "FIS Code" : "298084",
+    "Name" : "AGERER Lisa Magdalena",
+    "Year" : "1991",
+    "Nation" : "ITA",
+    "Total Time" : "1:50.94",
+    "Diff." : "+4.10"
+  }, {
+    "Rank" : "52",
+    "Bib" : "22",
+    "FIS Code" : "515997",
+    "Name" : "FEIERABEND Denise",
+    "Year" : "1989",
+    "Nation" : "SUI",
+    "Total Time" : "1:51.01",
+    "Diff." : "+4.17"
+  }, {
+    "Rank" : "53",
+    "Bib" : "51",
+    "FIS Code" : "197383",
+    "Name" : "GAUTHIER Tiffany",
+    "Year" : "1993",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.25",
+    "Diff." : "+4.41"
+  }, {
+    "Rank" : "54",
+    "Bib" : "58",
+    "FIS Code" : "197665",
+    "Name" : "LARROUY Noemie",
+    "Year" : "1995",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.27",
+    "Diff." : "+4.43"
+  }, {
+    "Rank" : "55",
+    "Bib" : "54",
+    "FIS Code" : "197641",
+    "Name" : "GAUCHE Laura",
+    "Year" : "1995",
+    "Nation" : "FRA",
+    "Total Time" : "1:51.53",
+    "Diff." : "+4.69"
+  }, {
+    "Rank" : "56",
+    "Bib" : "56",
+    "FIS Code" : "56200",
+    "Name" : "NICOLUSSI Kerstin",
+    "Year" : "1994",
+    "Nation" : "AUT",
+    "Total Time" : "1:51.56",
+    "Diff." : "+4.72"
+  }, {
+    "Rank" : "57",
+    "Bib" : "39",
+    "FIS Code" : "297195",
+    "Name" : "HOFER Anna",
+    "Year" : "1988",
+    "Nation" : "ITA",
+    "Total Time" : "1:51.92",
+    "Diff." : "+5.08"
+  }, {
+    "Rank" : "58",
+    "Bib" : "66",
+    "FIS Code" : "107387",
+    "Name" : "CRAWFORD Candace",
+    "Year" : "1994",
+    "Nation" : "CAN",
+    "Total Time" : "1:51.99",
+    "Diff." : "+5.15"
+  }, {
+    "Rank" : "59",
+    "Bib" : "2",
+    "FIS Code" : "297702",
+    "Name" : "MARSAGLIA Francesca",
+    "Year" : "1990",
+    "Nation" : "ITA",
+    "Total Time" : "1:52.45",
+    "Diff." : "+5.61"
+  }, {
+    "Rank" : "60",
+    "Bib" : "65",
+    "FIS Code" : "415213",
+    "Name" : "WILLINGER Georgia",
+    "Year" : "1997",
+    "Nation" : "NZL",
+    "Total Time" : "1:54.38",
+    "Diff." : "+7.54"
+  }, {
+    "Rank" : "Did not start 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "64",
+    "FIS Code" : "107532",
+    "Name" : "TOMMY Mikaela",
+    "Year" : "1995",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "63",
+    "FIS Code" : "107697",
+    "Name" : "FLECKENSTEIN Stefanie",
+    "Year" : "1997",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "29",
+    "FIS Code" : "56088",
+    "Name" : "TIPPLER Tamara",
+    "Year" : "1991",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "62",
+    "FIS Code" : "465098",
+    "Name" : "CAILL Ania Monica",
+    "Year" : "1995",
+    "Nation" : "ROU",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "52",
+    "FIS Code" : "155563",
+    "Name" : "KRIZOVA Klara",
+    "Year" : "1989",
+    "Nation" : "CZE",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "33",
+    "FIS Code" : "56258",
+    "Name" : "AGER Christina",
+    "Year" : "1995",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "01.12.2016",
+    "Place" : "Lake Louise RUN CET LOC STATUS Run 1 20:30 12:30 Official result",
+    "Nation" : "CAN",
+    "Codex" : "5053",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 3 (1.08 MB)Training Analysis (3) (219.58 kb)Start List Training 3 (793.58 kb)Event Program"
+  }
+}

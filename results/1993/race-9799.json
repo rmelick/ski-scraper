@@ -1,0 +1,326 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "535468",
+    "Name" : "PARISIEN Julie M.j.",
+    "Year" : "1971",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:18.63",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "505083",
+    "Name" : "WIBERG Pernilla",
+    "Year" : "1970",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:18.66",
+    "Diff." : "+0.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "415022",
+    "Name" : "COBERGER Annelise",
+    "Year" : "1971",
+    "Nation" : "NZL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:19.59",
+    "Diff." : "+0.96",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "515106",
+    "Name" : "SCHNEIDER Vreni",
+    "Year" : "1964",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:19.91",
+    "Diff." : "+1.28",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "505006",
+    "Name" : "ANDERSSON Kristina",
+    "Year" : "1965",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:19.93",
+    "Diff." : "+1.30",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "55013",
+    "Name" : "BUDER Karin",
+    "Year" : "1964",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:19.93",
+    "Diff." : "+1.30",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "55042",
+    "Name" : "KRONBERGER Petra",
+    "Year" : "1969",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:20.01",
+    "Diff." : "+1.38",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "565004",
+    "Name" : "BOKAL Natasa",
+    "Year" : "1967",
+    "Nation" : "SLO",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:20.09",
+    "Diff." : "+1.46",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "295049",
+    "Name" : "GALLIZIO Morena",
+    "Year" : "1974",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:20.15",
+    "Diff." : "+1.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "55136",
+    "Name" : "KOELLERER Karin",
+    "Year" : "1970",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:20.29",
+    "Diff." : "+1.66",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "55049",
+    "Name" : "MAIERHOFER Monika",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:20.76",
+    "Diff." : "+2.13",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "55123",
+    "Name" : "EDER Elfi",
+    "Year" : "1970",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:20.92",
+    "Diff." : "+2.29",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "55068",
+    "Name" : "SALVENMOSER Ingrid",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:20.95",
+    "Diff." : "+2.32",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "195041",
+    "Name" : "CHAUVET Patricia",
+    "Year" : "1967",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:21.34",
+    "Diff." : "+2.71",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "505117",
+    "Name" : "RODLING Titti",
+    "Year" : "1970",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:21.40",
+    "Diff." : "+2.77",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "295303",
+    "Name" : "PEREZ Bibiana",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:21.65",
+    "Diff." : "+3.02",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "505141",
+    "Name" : "HANSSON Erika",
+    "Year" : "1973",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:21.66",
+    "Diff." : "+3.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "535176",
+    "Name" : "ROFFE STEINROTTER Diann",
+    "Year" : "1967",
+    "Nation" : "USA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:21.66",
+    "Diff." : "+3.03",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "565097",
+    "Name" : "PRETNAR Spela",
+    "Year" : "1973",
+    "Nation" : "SLO",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:21.87",
+    "Diff." : "+3.24",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "295310",
+    "Name" : "SERRA Roberta",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:22.04",
+    "Diff." : "+3.41",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "21",
+    "Bib" : "",
+    "FIS Code" : "515145",
+    "Name" : "ACCOLA Martina",
+    "Year" : "1969",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:22.07",
+    "Diff." : "+3.44",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "205265",
+    "Name" : "MUTTER Edda",
+    "Year" : "1970",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:22.11",
+    "Diff." : "+3.48",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "23",
+    "Bib" : "",
+    "FIS Code" : "515130",
+    "Name" : "VON GRUENIGEN Christine",
+    "Year" : "1964",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:22.37",
+    "Diff." : "+3.74",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "",
+    "FIS Code" : "425111",
+    "Name" : "KJOERSTAD Marianne",
+    "Year" : "1970",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "1:22.49",
+    "Diff." : "+3.86",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "29.11.1992",
+    "Place" : "Park City, UT",
+    "Nation" : "USA",
+    "Codex" : "5049",
+    "Discipline" : "Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : ""
+  }
+}

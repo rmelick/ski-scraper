@@ -1,0 +1,172 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "STENFORS TOR-BJöRN",
+        "country" : "FIN"
+      },
+      "Referee" : {
+        "name" : "M. WALDNER",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "T. ERICSSON",
+        "country" : "SWE"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "70 m.",
+      "Finish Altitude" : "10 m.",
+      "Vertical Drop" : "60 m.",
+      "Homologation Number" : "8762/12/07"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "18",
+      "Turning Gates" : "18",
+      "Start Time" : "17:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "18",
+      "Turning Gates" : "18",
+      "Start Time" : "17:00"
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "2",
+    "FIS Code" : "53831",
+    "Name" : "HIRSCHER Marcel",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "2",
+    "Bib" : "9",
+    "FIS Code" : "501017",
+    "Name" : "MYHRER Andre",
+    "Year" : "1983",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "3",
+    "Bib" : "6",
+    "FIS Code" : "293797",
+    "Name" : "GROSS Stefano",
+    "Year" : "1986",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "4",
+    "Bib" : "5",
+    "FIS Code" : "480736",
+    "Name" : "KHOROSHILOV Alexander",
+    "Year" : "1984",
+    "Nation" : "RUS"
+  }, {
+    "Rank" : "5",
+    "Bib" : "16",
+    "FIS Code" : "421483",
+    "Name" : "JANSRUD Kjetil",
+    "Year" : "1985",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "5",
+    "Bib" : "13",
+    "FIS Code" : "193967",
+    "Name" : "MUFFAT-JEANDET Victor",
+    "Year" : "1989",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "Bib" : "10",
+    "FIS Code" : "191459",
+    "Name" : "LIZEROUX Julien",
+    "Year" : "1979",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "Bib" : "3",
+    "FIS Code" : "201702",
+    "Name" : "NEUREUTHER Felix",
+    "Year" : "1984",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "9",
+    "Bib" : "15",
+    "FIS Code" : "421860",
+    "Name" : "NORDBOTTEN Jonathan",
+    "Year" : "1989",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "9",
+    "Bib" : "14",
+    "FIS Code" : "292491",
+    "Name" : "MOELGG Manfred",
+    "Year" : "1982",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "12",
+    "FIS Code" : "194364",
+    "Name" : "PINTURAULT Alexis",
+    "Year" : "1991",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "11",
+    "FIS Code" : "422082",
+    "Name" : "FOSS-SOLEVAAG Sebastian",
+    "Year" : "1991",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "9",
+    "Bib" : "8",
+    "FIS Code" : "290732",
+    "Name" : "THALER Patrick",
+    "Year" : "1978",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "7",
+    "FIS Code" : "501111",
+    "Name" : "HARGIN Mattias",
+    "Year" : "1985",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "9",
+    "Bib" : "4",
+    "FIS Code" : "202462",
+    "Name" : "DOPFER Fritz",
+    "Year" : "1987",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "9",
+    "Bib" : "1",
+    "FIS Code" : "422304",
+    "Name" : "KRISTOFFERSEN Henrik",
+    "Year" : "1994",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "23.02.2016",
+    "Place" : "Stockholm",
+    "Nation" : "SWE",
+    "Codex" : "0197",
+    "Discipline" : "City Event",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (111.1 kb)Results, Analysis, Standings (1.26 MB)Start List Ladder (569.9 kb)"
+  }
+}

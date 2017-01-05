@@ -1,0 +1,95 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BATTENDIER MARC ZINGERLE JOSEF",
+        "country" : "FRA ITA"
+      },
+      "Referee" : {
+        "name" : "G. HUJARA",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "U. HARTMANN",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1650 m.",
+      "Finish Altitude" : "1532 m.",
+      "Vertical Drop" : "118 m.",
+      "Homologation Number" : ""
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "H. PIEREN",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "29",
+      "Turning Gates" : "29",
+      "Start Time" : ""
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "FIS Code" : "511846",
+    "Name" : "SWITZERLAND",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "2",
+    "FIS Code" : "6530095",
+    "Name" : "UNITED STATES",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "3",
+    "FIS Code" : "54057",
+    "Name" : "AUSTRIA",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "4",
+    "FIS Code" : "6290057",
+    "Name" : "ITALY",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "206640",
+    "Name" : "GERMANY",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "194428",
+    "Name" : "FRANCE",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "501830",
+    "Name" : "SWEDEN",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "14.03.2014",
+    "Place" : "Lenzerheide",
+    "Nation" : "SUI",
+    "Codex" : "0505",
+    "Discipline" : "Team",
+    "Gender" : "A",
+    "Category" : "NGP",
+    "Comments" : "",
+    "Down load" : "Results (379.51 kb)Results, Analysis, Standings (2.97 MB)Start List (382.47 kb)Start List Ladder (370.31 kb)"
+  }
+}

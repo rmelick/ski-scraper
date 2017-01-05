@@ -1,0 +1,150 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "NUTZ WERNER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "4",
+    "FIS Code" : "201702",
+    "Name" : "NEUREUTHER Felix",
+    "Year" : "1984",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "2",
+    "Bib" : "2",
+    "FIS Code" : "53831",
+    "Name" : "HIRSCHER Marcel",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "3",
+    "Bib" : "11",
+    "FIS Code" : "194364",
+    "Name" : "PINTURAULT Alexis",
+    "Year" : "1991",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "4",
+    "Bib" : "1",
+    "FIS Code" : "501017",
+    "Name" : "MYHRER Andre",
+    "Year" : "1983",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "5",
+    "Bib" : "12",
+    "FIS Code" : "501111",
+    "Name" : "HARGIN Mattias",
+    "Year" : "1985",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "5",
+    "Bib" : "9",
+    "FIS Code" : "202462",
+    "Name" : "DOPFER Fritz",
+    "Year" : "1987",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "Bib" : "7",
+    "FIS Code" : "501101",
+    "Name" : "BYGGMARK Jens",
+    "Year" : "1985",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "5",
+    "Bib" : "3",
+    "FIS Code" : "380260",
+    "Name" : "KOSTELIC Ivica",
+    "Year" : "1979",
+    "Nation" : "CRO"
+  }, {
+    "Rank" : "9",
+    "Bib" : "16",
+    "FIS Code" : "511983",
+    "Name" : "AERNI Luca",
+    "Year" : "1993",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "9",
+    "Bib" : "15",
+    "FIS Code" : "50605",
+    "Name" : "HERBST Reinfried",
+    "Year" : "1978",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "14",
+    "FIS Code" : "421328",
+    "Name" : "SVINDAL Aksel Lund",
+    "Year" : "1982",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "9",
+    "Bib" : "13",
+    "FIS Code" : "534562",
+    "Name" : "LIGETY Ted",
+    "Year" : "1984",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "10",
+    "FIS Code" : "50624",
+    "Name" : "PRANGER Manfred",
+    "Year" : "1978",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "8",
+    "FIS Code" : "50707",
+    "Name" : "MATT Mario",
+    "Year" : "1979",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "9",
+    "Bib" : "6",
+    "FIS Code" : "293797",
+    "Name" : "GROSS Stefano",
+    "Year" : "1986",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "9",
+    "Bib" : "5",
+    "FIS Code" : "291145",
+    "Name" : "DEVILLE Cristian",
+    "Year" : "1981",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "01.01.2013",
+    "Place" : "City Event Munich",
+    "Nation" : "GER",
+    "Codex" : "0579",
+    "Discipline" : "City Event",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results (272.28 kb)Results, Analysis, Standings (496.69 kb)Start List (266.25 kb)"
+  }
+}

@@ -26,6 +26,7 @@ public class App {
     try {
       new App().run();
     } catch (Exception e) {
+      System.out.println("Error processing" + e);
       e.printStackTrace();
     }
   }
@@ -40,10 +41,9 @@ public class App {
       executorService.submit(() -> {
         try {
           downloadSeason(outputDirectory, seasonToExecute);
-        } catch (IOException e) {
-          e.printStackTrace();
-        } catch (InterruptedException e) {
-          e.printStackTrace();
+        } catch (Throwable t) {
+          System.err.println("Error while processing " + seasonToExecute);
+          t.printStackTrace();
         }
       });
     }
@@ -54,10 +54,10 @@ public class App {
   private void downloadSeason(File outputDirectory, int season) throws IOException, InterruptedException {
     File seasonDirectory = new File(outputDirectory, String.valueOf(season));
     boolean newSeason = seasonDirectory.mkdir();
-    if (!newSeason) {
-      System.out.println("Already downloaded season " + season);
-      return;
-    }
+//    if (!newSeason) {
+//      System.out.println("Already downloaded season " + season);
+//      return;
+//    }
 
     String seasonSearchUrl = String.format("http://data.fis-ski.com/global-links/all-fis-results.html?"
             + "seasoncode_search=%s&sector_search=AL&category_search=WC&date_from=01&search=Search&limit=100",
@@ -72,6 +72,10 @@ public class App {
       List<EventDetails> resultPages = EventDetailsParser.parse(detailPage);
 
       for (EventDetails eventResult: resultPages) {
+        if (eventResult.getResultsUrl() == null) {
+          System.out.println("Skipping downloading " + eventResult);
+          continue;
+        }
         File outputFile = new File(seasonDirectory, String.format("race-%s.json", extractRaceId(eventResult.getResultsUrl())));
         if (outputFile.exists()) {
           System.out.println("Skipping downloading " + outputFile);

@@ -1,0 +1,280 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "OBERNAUER PETER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "U. HARTMANN",
+        "country" : "SUI"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "2257 m.",
+      "Finish Altitude" : "1561 m.",
+      "Vertical Drop" : "696 m.",
+      "Course Length" : "2500 m.",
+      "Homologation Number" : "9243/10/09"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "J. TISCHHAUSER",
+        "country" : "FIS"
+      },
+      "Number of Gates" : "34",
+      "Start Time" : "10:30"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "",
+      "Turning Gates" : "",
+      "Start Time" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "12",
+    "FIS Code" : "516138",
+    "Name" : "GUT Lara",
+    "Year" : "1991",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "11",
+    "FIS Code" : "55947",
+    "Name" : "FENNINGER Anna",
+    "Year" : "1989",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.98"
+  }, {
+    "Rank" : "3",
+    "Bib" : "1",
+    "FIS Code" : "55576",
+    "Name" : "GOERGL Elisabeth",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.02"
+  }, {
+    "Rank" : "4",
+    "Bib" : "5",
+    "FIS Code" : "55766",
+    "Name" : "STERZ Regina",
+    "Year" : "1985",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.38"
+  }, {
+    "Rank" : "5",
+    "Bib" : "14",
+    "FIS Code" : "206001",
+    "Name" : "HOEFL-RIESCH Maria",
+    "Year" : "1984",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.57"
+  }, {
+    "Rank" : "6",
+    "Bib" : "10",
+    "FIS Code" : "296008",
+    "Name" : "MERIGHETTI Daniela",
+    "Year" : "1981",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.16"
+  }, {
+    "Rank" : "7",
+    "Bib" : "3",
+    "FIS Code" : "296472",
+    "Name" : "FANCHINI Elena",
+    "Year" : "1985",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.41"
+  }, {
+    "Rank" : "8",
+    "Bib" : "2",
+    "FIS Code" : "197295",
+    "Name" : "PIOT Jennifer",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.48"
+  }, {
+    "Rank" : "9",
+    "Bib" : "16",
+    "FIS Code" : "355050",
+    "Name" : "WEIRATHER Tina",
+    "Year" : "1989",
+    "Nation" : "LIE",
+    "Total Time" : "0.00",
+    "Diff." : "+2.49"
+  }, {
+    "Rank" : "10",
+    "Bib" : "4",
+    "FIS Code" : "565360",
+    "Name" : "STUHEC Ilka",
+    "Year" : "1990",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+2.62"
+  }, {
+    "Rank" : "11",
+    "Bib" : "23",
+    "FIS Code" : "515747",
+    "Name" : "GISIN Dominique",
+    "Year" : "1985",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.70"
+  }, {
+    "Rank" : "11",
+    "Bib" : "22",
+    "FIS Code" : "515573",
+    "Name" : "AUFDENBLATTEN Fraenzi",
+    "Year" : "1981",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.70"
+  }, {
+    "Rank" : "13",
+    "Bib" : "13",
+    "FIS Code" : "537545",
+    "Name" : "MANCUSO Julia",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.82"
+  }, {
+    "Rank" : "14",
+    "Bib" : "17",
+    "FIS Code" : "195983",
+    "Name" : "ROLLAND Marion",
+    "Year" : "1982",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.87"
+  }, {
+    "Rank" : "15",
+    "Bib" : "24",
+    "FIS Code" : "515782",
+    "Name" : "KAUFMANN-ABDERHALDEN Marianne",
+    "Year" : "1986",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.55"
+  }, {
+    "Rank" : "16",
+    "Bib" : "19",
+    "FIS Code" : "55913",
+    "Name" : "MOSER Stefanie",
+    "Year" : "1988",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+3.96"
+  }, {
+    "Rank" : "17",
+    "Bib" : "8",
+    "FIS Code" : "196460",
+    "Name" : "MARCHAND-ARVIER Marie",
+    "Year" : "1985",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.03"
+  }, {
+    "Rank" : "18",
+    "Bib" : "18",
+    "FIS Code" : "538305",
+    "Name" : "SMITH Leanne",
+    "Year" : "1987",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.09"
+  }, {
+    "Rank" : "19",
+    "Bib" : "20",
+    "FIS Code" : "205218",
+    "Name" : "REBENSBURG Viktoria",
+    "Year" : "1989",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+4.51"
+  }, {
+    "Rank" : "20",
+    "Bib" : "21",
+    "FIS Code" : "515766",
+    "Name" : "SUTER Fabienne",
+    "Year" : "1985",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+4.74"
+  }, {
+    "Rank" : "21",
+    "Bib" : "9",
+    "FIS Code" : "537582",
+    "Name" : "COOK Stacey",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.88"
+  }, {
+    "Rank" : "22",
+    "Bib" : "15",
+    "FIS Code" : "565243",
+    "Name" : "MAZE Tina",
+    "Year" : "1983",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+12.10"
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "7",
+    "FIS Code" : "495318",
+    "Name" : "RUIZ CASTILLO Carolina",
+    "Year" : "1981",
+    "Nation" : "ESP",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "6",
+    "FIS Code" : "538573",
+    "Name" : "ROSS Laurenne",
+    "Year" : "1988",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "11.03.2013",
+    "Place" : "Lenzerheide",
+    "Nation" : "SUI",
+    "Codex" : "6277",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (109.85 kb)Training Analysis (1) (348.38 kb)Start List Training 1 (109.01 kb)"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DAUM WERNER LAVALLEE DANIEL P.",
+        "country" : "AUT CAN"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "FIS Code" : "565392",
+    "Name" : "SLOVENIA",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "2",
+    "FIS Code" : "298120",
+    "Name" : "ITALY",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "3",
+    "FIS Code" : "516184",
+    "Name" : "SWITZERLAND",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "4",
+    "FIS Code" : "56105",
+    "Name" : "AUSTRIA",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "206640",
+    "Name" : "GERMANY",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "197205",
+    "Name" : "FRANCE",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "107141",
+    "Name" : "CANADA",
+    "Nation" : "CAN"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "422541",
+    "Name" : "NORWAY",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "05.03.2012",
+    "Place" : "Roccaraso",
+    "Nation" : "ITA",
+    "Codex" : "6752",
+    "Discipline" : "Team",
+    "Gender" : "A",
+    "Category" : "NGP",
+    "Comments" : "",
+    "Down load" : "Results 2nd run (41.72 kb)Marc Hodler Trophy"
+  }
+}

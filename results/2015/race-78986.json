@@ -1,0 +1,363 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "MURMANN MARKUS",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "A. SKAARDAL",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "M. MAYR",
+        "country" : "FIS"
+      },
+      "Chief of Race" : {
+        "name" : "J. GALINIER",
+        "country" : "FRA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "1830 m.",
+      "Finish Altitude" : "1432 m.",
+      "Vertical Drop" : "398 m.",
+      "Homologation Number" : "10804/12/12"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "C. THOMAS",
+        "country" : "SWE"
+      },
+      "Number of Gates" : "49",
+      "Turning Gates" : "48",
+      "Start Time" : "10:00"
+    },
+    "Run 2" : {
+      "Course Setter" : {
+        "name" : "M. TATSCHL",
+        "country" : "AUT"
+      },
+      "Number of Gates" : "49",
+      "Turning Gates" : "48",
+      "Start Time" : "12:30"
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "3",
+    "FIS Code" : "55947",
+    "Name" : "FENNINGER Anna",
+    "Year" : "1989",
+    "Nation" : "AUT",
+    "Run 1" : "1:13.26",
+    "Run 2" : "1:13.65",
+    "Total Time" : "2:26.91",
+    "Diff." : "",
+    "FIS Points" : "0.00",
+    "WC Points" : "100.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "7",
+    "FIS Code" : "55898",
+    "Name" : "BREM Eva-Maria",
+    "Year" : "1988",
+    "Nation" : "AUT",
+    "Run 1" : "1:13.69",
+    "Run 2" : "1:13.60",
+    "Total Time" : "2:27.29",
+    "Diff." : "+0.38",
+    "FIS Points" : "2.53",
+    "WC Points" : "80.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "5",
+    "FIS Code" : "565243",
+    "Name" : "MAZE Tina",
+    "Year" : "1983",
+    "Nation" : "SLO",
+    "Run 1" : "1:13.53",
+    "Run 2" : "1:13.84",
+    "Total Time" : "2:27.37",
+    "Diff." : "+0.46",
+    "FIS Points" : "3.07",
+    "WC Points" : "60.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "4",
+    "FIS Code" : "506399",
+    "Name" : "HECTOR Sara",
+    "Year" : "1992",
+    "Nation" : "SWE",
+    "Run 1" : "1:14.44",
+    "Run 2" : "1:14.02",
+    "Total Time" : "2:28.46",
+    "Diff." : "+1.55",
+    "FIS Points" : "10.34",
+    "WC Points" : "50.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "23",
+    "FIS Code" : "537544",
+    "Name" : "VONN Lindsey",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Run 1" : "1:14.25",
+    "Run 2" : "1:14.29",
+    "Total Time" : "2:28.54",
+    "Diff." : "+1.63",
+    "FIS Points" : "10.87",
+    "WC Points" : "45.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "6",
+    "FIS Code" : "296729",
+    "Name" : "FANCHINI Nadia",
+    "Year" : "1986",
+    "Nation" : "ITA",
+    "Run 1" : "1:14.92",
+    "Run 2" : "1:13.69",
+    "Total Time" : "2:28.61",
+    "Diff." : "+1.70",
+    "FIS Points" : "11.34",
+    "WC Points" : "40.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "2",
+    "FIS Code" : "6535237",
+    "Name" : "SHIFFRIN Mikaela",
+    "Year" : "1995",
+    "Nation" : "USA",
+    "Run 1" : "1:14.48",
+    "Run 2" : "1:14.28",
+    "Total Time" : "2:28.76",
+    "Diff." : "+1.85",
+    "FIS Points" : "12.34",
+    "WC Points" : "36.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "18",
+    "FIS Code" : "196928",
+    "Name" : "WORLEY Tessa",
+    "Year" : "1989",
+    "Nation" : "FRA",
+    "Run 1" : "1:15.47",
+    "Run 2" : "1:14.20",
+    "Total Time" : "2:29.67",
+    "Diff." : "+2.76",
+    "FIS Points" : "18.41",
+    "WC Points" : "32.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "11",
+    "FIS Code" : "505679",
+    "Name" : "HANSDOTTER Frida",
+    "Year" : "1985",
+    "Nation" : "SWE",
+    "Run 1" : "1:16.08",
+    "Run 2" : "1:13.95",
+    "Total Time" : "2:30.03",
+    "Diff." : "+3.12",
+    "FIS Points" : "20.81",
+    "WC Points" : "29.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "21",
+    "FIS Code" : "299276",
+    "Name" : "BASSINO Marta",
+    "Year" : "1996",
+    "Nation" : "ITA",
+    "Run 1" : "1:13.96",
+    "Run 2" : "1:16.13",
+    "Total Time" : "2:30.09",
+    "Diff." : "+3.18",
+    "FIS Points" : "21.21",
+    "WC Points" : "26.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "20",
+    "FIS Code" : "515747",
+    "Name" : "GISIN Dominique",
+    "Year" : "1985",
+    "Nation" : "SUI",
+    "Run 1" : "1:15.52",
+    "Run 2" : "1:15.00",
+    "Total Time" : "2:30.52",
+    "Diff." : "+3.61",
+    "FIS Points" : "24.08",
+    "WC Points" : "24.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "12",
+    "FIS Code" : "296259",
+    "Name" : "MOELGG Manuela",
+    "Year" : "1983",
+    "Nation" : "ITA",
+    "Run 1" : "1:15.59",
+    "Run 2" : "1:15.05",
+    "Total Time" : "2:30.64",
+    "Diff." : "+3.73",
+    "FIS Points" : "24.88",
+    "WC Points" : "22.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "13",
+    "FIS Code" : "106825",
+    "Name" : "PREFONTAINE Marie-Pier",
+    "Year" : "1988",
+    "Nation" : "CAN",
+    "Run 1" : "1:15.98",
+    "Run 2" : "1:14.69",
+    "Total Time" : "2:30.67",
+    "Diff." : "+3.76",
+    "FIS Points" : "25.08",
+    "WC Points" : "20.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "14",
+    "FIS Code" : "296509",
+    "Name" : "CURTONI Irene",
+    "Year" : "1985",
+    "Nation" : "ITA",
+    "Run 1" : "1:15.56",
+    "Run 2" : "1:15.18",
+    "Total Time" : "2:30.74",
+    "Diff." : "+3.83",
+    "FIS Points" : "25.55",
+    "WC Points" : "18.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "22",
+    "FIS Code" : "565268",
+    "Name" : "DREV Ana",
+    "Year" : "1985",
+    "Nation" : "SLO",
+    "Run 1" : "1:15.86",
+    "Run 2" : "1:14.90",
+    "Total Time" : "2:30.76",
+    "Diff." : "+3.85",
+    "FIS Points" : "25.68",
+    "WC Points" : "16.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "17",
+    "FIS Code" : "55576",
+    "Name" : "GOERGL Elisabeth",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Run 1" : "1:15.75",
+    "Run 2" : "1:15.20",
+    "Total Time" : "2:30.95",
+    "Diff." : "+4.04",
+    "FIS Points" : "26.95",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "15",
+    "FIS Code" : "505760",
+    "Name" : "PIETILAE-HOLMNER Maria",
+    "Year" : "1986",
+    "Nation" : "SWE",
+    "Run 1" : "1:16.67",
+    "Run 2" : "1:14.35",
+    "Total Time" : "2:31.02",
+    "Diff." : "+4.11",
+    "FIS Points" : "27.42",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "10",
+    "FIS Code" : "355050",
+    "Name" : "WEIRATHER Tina",
+    "Year" : "1989",
+    "Nation" : "LIE",
+    "Run 1" : "1:15.57",
+    "Run 2" : "1:15.51",
+    "Total Time" : "2:31.08",
+    "Diff." : "+4.17",
+    "FIS Points" : "27.82",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "16",
+    "FIS Code" : "516138",
+    "Name" : "GUT Lara",
+    "Year" : "1991",
+    "Nation" : "SUI",
+    "Run 1" : "1:15.86",
+    "Run 2" : "1:15.38",
+    "Total Time" : "2:31.24",
+    "Diff." : "+4.33",
+    "FIS Points" : "28.88",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "8",
+    "FIS Code" : "425771",
+    "Name" : "LOESETH Nina",
+    "Year" : "1989",
+    "Nation" : "NOR",
+    "Run 1" : "1:15.90",
+    "Run 2" : "1:15.52",
+    "Total Time" : "2:31.42",
+    "Diff." : "+4.51",
+    "FIS Points" : "30.09",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "21",
+    "Bib" : "19",
+    "FIS Code" : "55759",
+    "Name" : "KIRCHGASSER Michaela",
+    "Year" : "1985",
+    "Nation" : "AUT",
+    "Run 1" : "1:16.50",
+    "Run 2" : "1:15.16",
+    "Total Time" : "2:31.66",
+    "Diff." : "+4.75",
+    "FIS Points" : "31.69",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "9",
+    "FIS Code" : "505632",
+    "Name" : "LINDELL-VIKARBY Jessica",
+    "Year" : "1984",
+    "Nation" : "SWE",
+    "Run 1" : "1:17.19",
+    "Run 2" : "1:15.39",
+    "Total Time" : "2:32.58",
+    "Diff." : "+5.67",
+    "FIS Points" : "37.82",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish 2nd run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "1",
+    "FIS Code" : "297601",
+    "Name" : "BRIGNONE Federica",
+    "Year" : "1990",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WC Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "22.03.2015",
+    "Place" : "Meribel RUN CET LOC STATUS Run 1 10:00 Official result Run 2 12:30 Official result",
+    "Nation" : "FRA",
+    "Codex" : "5130",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : "Results, Analysis, Standings (3.5 MB)Results 2nd run (111.22 kb)Start List 2nd run (519.22 kb)Results 1st run (825.72 kb)Start List 1st run (520.83 kb)"
+  }
+}

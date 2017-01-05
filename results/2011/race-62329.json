@@ -1,0 +1,417 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "LANG ROINE",
+        "country" : "SWE"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Bib" : "1",
+    "FIS Code" : "102271",
+    "Name" : "HUDEC Jan",
+    "Year" : "1981",
+    "Nation" : "CAN"
+  }, {
+    "Bib" : "2",
+    "FIS Code" : "501076",
+    "Name" : "OLSSON Hans",
+    "Year" : "1984",
+    "Nation" : "SWE"
+  }, {
+    "Bib" : "3",
+    "FIS Code" : "191964",
+    "Name" : "POISSON David",
+    "Year" : "1982",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "4",
+    "FIS Code" : "291459",
+    "Name" : "PARIS Dominik",
+    "Year" : "1989",
+    "Nation" : "ITA"
+  }, {
+    "Bib" : "5",
+    "FIS Code" : "51327",
+    "Name" : "PUCHNER Joachim",
+    "Year" : "1987",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "6",
+    "FIS Code" : "191591",
+    "Name" : "BERTRAND Yannick",
+    "Year" : "1980",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "7",
+    "FIS Code" : "191740",
+    "Name" : "CLAREY Johan",
+    "Year" : "1981",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "8",
+    "FIS Code" : "192746",
+    "Name" : "THEAUX Adrien",
+    "Year" : "1984",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "9",
+    "FIS Code" : "292455",
+    "Name" : "FILL Peter",
+    "Year" : "1982",
+    "Nation" : "ITA"
+  }, {
+    "Bib" : "10",
+    "FIS Code" : "560332",
+    "Name" : "JERMAN Andrej",
+    "Year" : "1978",
+    "Nation" : "SLO"
+  }, {
+    "Bib" : "11",
+    "FIS Code" : "293006",
+    "Name" : "INNERHOFER Christof",
+    "Year" : "1984",
+    "Nation" : "ITA"
+  }, {
+    "Bib" : "12",
+    "FIS Code" : "50753",
+    "Name" : "KROELL Klaus",
+    "Year" : "1980",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "13",
+    "FIS Code" : "102263",
+    "Name" : "GUAY Erik",
+    "Year" : "1981",
+    "Nation" : "CAN"
+  }, {
+    "Bib" : "14",
+    "FIS Code" : "50041",
+    "Name" : "WALCHHOFER Michael",
+    "Year" : "1975",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "15",
+    "FIS Code" : "510030",
+    "Name" : "CUCHE Didier",
+    "Year" : "1974",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "16",
+    "FIS Code" : "510890",
+    "Name" : "ZURBRIGGEN Silvan",
+    "Year" : "1981",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "17",
+    "FIS Code" : "421328",
+    "Name" : "SVINDAL Aksel Lund",
+    "Year" : "1982",
+    "Nation" : "NOR"
+  }, {
+    "Bib" : "18",
+    "FIS Code" : "511313",
+    "Name" : "JANKA Carlo",
+    "Year" : "1986",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "19",
+    "FIS Code" : "560447",
+    "Name" : "SPORN Andrej",
+    "Year" : "1981",
+    "Nation" : "SLO"
+  }, {
+    "Bib" : "20",
+    "FIS Code" : "51215",
+    "Name" : "BAUMANN Romed",
+    "Year" : "1986",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "21",
+    "FIS Code" : "292514",
+    "Name" : "HEEL Werner",
+    "Year" : "1982",
+    "Nation" : "ITA"
+  }, {
+    "Bib" : "22",
+    "FIS Code" : "380260",
+    "Name" : "KOSTELIC Ivica",
+    "Year" : "1979",
+    "Nation" : "CRO"
+  }, {
+    "Bib" : "23",
+    "FIS Code" : "510767",
+    "Name" : "HOFFMANN Ambrosi",
+    "Year" : "1977",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "24",
+    "FIS Code" : "511383",
+    "Name" : "FEUZ Beat",
+    "Year" : "1987",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "25",
+    "FIS Code" : "192932",
+    "Name" : "FAYED Guillermo",
+    "Year" : "1985",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "26",
+    "FIS Code" : "500150",
+    "Name" : "JAERBYN Patrik",
+    "Year" : "1969",
+    "Nation" : "SWE"
+  }, {
+    "Bib" : "27",
+    "FIS Code" : "533866",
+    "Name" : "NYMAN Steven",
+    "Year" : "1982",
+    "Nation" : "USA"
+  }, {
+    "Bib" : "28",
+    "FIS Code" : "511139",
+    "Name" : "KUENG Patrick",
+    "Year" : "1984",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "29",
+    "FIS Code" : "510747",
+    "Name" : "GRUENENFELDER Tobias",
+    "Year" : "1977",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "30",
+    "FIS Code" : "201606",
+    "Name" : "KEPPLER Stephan",
+    "Year" : "1983",
+    "Nation" : "GER"
+  }, {
+    "Bib" : "31",
+    "FIS Code" : "511529",
+    "Name" : "GISIN Marc",
+    "Year" : "1988",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "32",
+    "FIS Code" : "421483",
+    "Name" : "JANSRUD Kjetil",
+    "Year" : "1985",
+    "Nation" : "NOR"
+  }, {
+    "Bib" : "33",
+    "FIS Code" : "534562",
+    "Name" : "LIGETY Ted",
+    "Year" : "1984",
+    "Nation" : "USA"
+  }, {
+    "Bib" : "34",
+    "FIS Code" : "294277",
+    "Name" : "KLOTZ Siegmar",
+    "Year" : "1987",
+    "Nation" : "ITA"
+  }, {
+    "Bib" : "35",
+    "FIS Code" : "510498",
+    "Name" : "ZUEGER Cornel",
+    "Year" : "1981",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "36",
+    "FIS Code" : "53837",
+    "Name" : "KRAMER Manuel",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "37",
+    "FIS Code" : "511142",
+    "Name" : "LUEOEND Vitus",
+    "Year" : "1984",
+    "Nation" : "SUI"
+  }, {
+    "Bib" : "38",
+    "FIS Code" : "50742",
+    "Name" : "REICHELT Hannes",
+    "Year" : "1980",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "39",
+    "FIS Code" : "561067",
+    "Name" : "PERKO Rok",
+    "Year" : "1985",
+    "Nation" : "SLO"
+  }, {
+    "Bib" : "40",
+    "FIS Code" : "53981",
+    "Name" : "KROELL Johannes",
+    "Year" : "1991",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "41",
+    "FIS Code" : "53817",
+    "Name" : "FRANZ Max",
+    "Year" : "1989",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "42",
+    "FIS Code" : "380292",
+    "Name" : "ZRNCIC-DIM Natko",
+    "Year" : "1986",
+    "Nation" : "CRO"
+  }, {
+    "Bib" : "43",
+    "FIS Code" : "180570",
+    "Name" : "ROMAR Andreas",
+    "Year" : "1989",
+    "Nation" : "FIN"
+  }, {
+    "Bib" : "44",
+    "FIS Code" : "53936",
+    "Name" : "DUERAGER Markus",
+    "Year" : "1990",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "45",
+    "FIS Code" : "294911",
+    "Name" : "PATSCHEIDER Hagen",
+    "Year" : "1988",
+    "Nation" : "ITA"
+  }, {
+    "Bib" : "46",
+    "FIS Code" : "930024",
+    "Name" : "MAPLE Wiley",
+    "Year" : "1990",
+    "Nation" : "USA"
+  }, {
+    "Bib" : "47",
+    "FIS Code" : "100558",
+    "Name" : "COOK Dustin",
+    "Year" : "1989",
+    "Nation" : "CAN"
+  }, {
+    "Bib" : "48",
+    "FIS Code" : "534939",
+    "Name" : "FISHER Erik",
+    "Year" : "1985",
+    "Nation" : "USA"
+  }, {
+    "Bib" : "49",
+    "FIS Code" : "150398",
+    "Name" : "BANK Ondrej",
+    "Year" : "1980",
+    "Nation" : "CZE"
+  }, {
+    "Bib" : "50",
+    "FIS Code" : "561087",
+    "Name" : "MARKIC Gasper",
+    "Year" : "1986",
+    "Nation" : "SLO"
+  }, {
+    "Bib" : "51",
+    "FIS Code" : "561216",
+    "Name" : "KLINE Bostjan",
+    "Year" : "1991",
+    "Nation" : "SLO"
+  }, {
+    "Bib" : "52",
+    "FIS Code" : "194167",
+    "Name" : "MUZATON Maxence",
+    "Year" : "1990",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "53",
+    "FIS Code" : "103271",
+    "Name" : "THOMSEN Benjamin",
+    "Year" : "1987",
+    "Nation" : "CAN"
+  }, {
+    "Bib" : "54",
+    "FIS Code" : "293550",
+    "Name" : "MARSAGLIA Matteo",
+    "Year" : "1985",
+    "Nation" : "ITA"
+  }, {
+    "Bib" : "55",
+    "FIS Code" : "501230",
+    "Name" : "ERICSSON Daniel",
+    "Year" : "1987",
+    "Nation" : "SWE"
+  }, {
+    "Bib" : "56",
+    "FIS Code" : "421400",
+    "Name" : "MYHRE Lars Elton",
+    "Year" : "1984",
+    "Nation" : "NOR"
+  }, {
+    "Bib" : "57",
+    "FIS Code" : "103656",
+    "Name" : "HALBERT Kelby",
+    "Year" : "1990",
+    "Nation" : "CAN"
+  }, {
+    "Bib" : "58",
+    "FIS Code" : "50600",
+    "Name" : "GOERGL Stephan",
+    "Year" : "1978",
+    "Nation" : "AUT"
+  }, {
+    "Bib" : "59",
+    "FIS Code" : "191746",
+    "Name" : "DE TESSIERES Gauthier",
+    "Year" : "1981",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "60",
+    "FIS Code" : "531799",
+    "Name" : "FORD Tommy",
+    "Year" : "1989",
+    "Nation" : "USA"
+  }, {
+    "Bib" : "61",
+    "FIS Code" : "192653",
+    "Name" : "FREY Thomas",
+    "Year" : "1984",
+    "Nation" : "FRA"
+  }, {
+    "Bib" : "62",
+    "FIS Code" : "151142",
+    "Name" : "SEDLAK Jan",
+    "Year" : "1987",
+    "Nation" : "CZE"
+  }, {
+    "Bib" : "63",
+    "FIS Code" : "170131",
+    "Name" : "FAARUP Christoffer",
+    "Year" : "1992",
+    "Nation" : "DEN"
+  }, {
+    "Bib" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "09.03.2011",
+    "Place" : "Kvitfjell",
+    "Nation" : "NOR",
+    "Codex" : "1194",
+    "Discipline" : "Downhill training",
+    "Gender" : "M",
+    "Category" : "TRA",
+    "Comments" : "Cancelled",
+    "Down load" : "Extended start list (html)Start List Training 1 (148.66 kb)Event Program (63.14 kb)"
+  }
+}

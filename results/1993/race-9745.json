@@ -1,0 +1,386 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "360002",
+    "Name" : "GIRARDELLI Marc",
+    "Year" : "1963",
+    "Nation" : "LUX",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:46.25",
+    "Diff." : "",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "190136",
+    "Name" : "FEUTRIER Alain",
+    "Year" : "1968",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:46.75",
+    "Diff." : "+0.50",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "290539",
+    "Name" : "TOMBA Alberto",
+    "Year" : "1966",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:46.81",
+    "Diff." : "+0.56",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "",
+    "FIS Code" : "510001",
+    "Name" : "ACCOLA Paul",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:46.88",
+    "Diff." : "+0.63",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "510318",
+    "Name" : "VON GRUENIGEN Michael",
+    "Year" : "1969",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:46.99",
+    "Diff." : "+0.74",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "500139",
+    "Name" : "NYBERG Fredrik",
+    "Year" : "1969",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:47.58",
+    "Diff." : "+1.33",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "510145",
+    "Name" : "LOCHER Steve",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:47.82",
+    "Diff." : "+1.57",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "",
+    "FIS Code" : "510198",
+    "Name" : "PIEREN Hans",
+    "Year" : "1962",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:47.87",
+    "Diff." : "+1.62",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "50171",
+    "Name" : "SALZGEBER Rainer",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.00",
+    "Diff." : "+1.75",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "500106",
+    "Name" : "WALLNER Johan",
+    "Year" : "1965",
+    "Nation" : "SWE",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.10",
+    "Diff." : "+1.85",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "290640",
+    "Name" : "BERGAMELLI Sergio",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.39",
+    "Diff." : "+2.14",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "420059",
+    "Name" : "FURUSETH Ole Christian",
+    "Year" : "1967",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.40",
+    "Diff." : "+2.15",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "420382",
+    "Name" : "AAMODT Kjetil Andre",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.42",
+    "Diff." : "+2.17",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "50126",
+    "Name" : "MAYER Christian",
+    "Year" : "1972",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.77",
+    "Diff." : "+2.52",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "420488",
+    "Name" : "MARKSTEN Didrik",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.90",
+    "Diff." : "+2.65",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "510125",
+    "Name" : "KAELIN Urs",
+    "Year" : "1966",
+    "Nation" : "SUI",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:48.91",
+    "Diff." : "+2.66",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "290756",
+    "Name" : "SENIGAGLIESI Alberto",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:49.11",
+    "Diff." : "+2.86",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "",
+    "FIS Code" : "190268",
+    "Name" : "PICCARD Franck",
+    "Year" : "1964",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:49.34",
+    "Diff." : "+3.09",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "50209",
+    "Name" : "STROLZ Hubert",
+    "Year" : "1962",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:49.45",
+    "Diff." : "+3.20",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "50360",
+    "Name" : "KNAUSS Hans",
+    "Year" : "1971",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:49.52",
+    "Diff." : "+3.27",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "560154",
+    "Name" : "KUNC Mitja",
+    "Year" : "1971",
+    "Nation" : "SLO",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:49.52",
+    "Diff." : "+3.27",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "420470",
+    "Name" : "KJUS Lasse",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:50.19",
+    "Diff." : "+3.94",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "23",
+    "Bib" : "",
+    "FIS Code" : "200008",
+    "Name" : "BARNERSSOI Tobias",
+    "Year" : "1969",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:50.48",
+    "Diff." : "+4.23",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "",
+    "FIS Code" : "50024",
+    "Name" : "EBERHARTER Stephan",
+    "Year" : "1969",
+    "Nation" : "AUT",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:50.61",
+    "Diff." : "+4.36",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "25",
+    "Bib" : "",
+    "FIS Code" : "190098",
+    "Name" : "CRETIN Stephane",
+    "Year" : "1967",
+    "Nation" : "FRA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:50.87",
+    "Diff." : "+4.62",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "26",
+    "Bib" : "",
+    "FIS Code" : "290426",
+    "Name" : "POLIG Josef",
+    "Year" : "1968",
+    "Nation" : "ITA",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:51.06",
+    "Diff." : "+4.81",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "27",
+    "Bib" : "",
+    "FIS Code" : "200271",
+    "Name" : "ROTH Peter",
+    "Year" : "1961",
+    "Nation" : "GER",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:51.18",
+    "Diff." : "+4.93",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "28",
+    "Bib" : "",
+    "FIS Code" : "430233",
+    "Name" : "EXARTIER Stephane",
+    "Year" : "1969",
+    "Nation" : "POL",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:51.19",
+    "Diff." : "+4.94",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : "29",
+    "Bib" : "",
+    "FIS Code" : "420205",
+    "Name" : "THORSEN Jan Einar",
+    "Year" : "1966",
+    "Nation" : "NOR",
+    "Run 1" : "",
+    "Run 2" : "",
+    "Total Time" : "2:51.69",
+    "Diff." : "+5.44",
+    "FIS Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "13.12.1992",
+    "Place" : "Alta Badia",
+    "Nation" : "ITA",
+    "Codex" : "0129",
+    "Discipline" : "Giant Slalom",
+    "Gender" : "M",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : ""
+  }
+}

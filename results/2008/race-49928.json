@@ -1,0 +1,210 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "BRIKER KARI",
+        "country" : "SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "6",
+    "FIS Code" : "296729",
+    "Name" : "FANCHINI Nadia",
+    "Year" : "1986",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "2",
+    "FIS Code" : "196460",
+    "Name" : "MARCHAND-ARVIER Marie",
+    "Year" : "1985",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.73"
+  }, {
+    "Rank" : "3",
+    "Bib" : "10",
+    "FIS Code" : "55069",
+    "Name" : "GOETSCHL Renate",
+    "Year" : "1975",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.75"
+  }, {
+    "Rank" : "4",
+    "Bib" : "17",
+    "FIS Code" : "106022",
+    "Name" : "JANYK Britt",
+    "Year" : "1980",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+0.97"
+  }, {
+    "Rank" : "5",
+    "Bib" : "11",
+    "FIS Code" : "195671",
+    "Name" : "JACQUEMOD Ingrid",
+    "Year" : "1978",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.98"
+  }, {
+    "Rank" : "6",
+    "Bib" : "5",
+    "FIS Code" : "55590",
+    "Name" : "SCHILD Marlies",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.37"
+  }, {
+    "Rank" : "7",
+    "Bib" : "16",
+    "FIS Code" : "537544",
+    "Name" : "VONN Lindsey",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.49"
+  }, {
+    "Rank" : "8",
+    "Bib" : "8",
+    "FIS Code" : "105997",
+    "Name" : "BRYDON Emily",
+    "Year" : "1980",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+1.51"
+  }, {
+    "Rank" : "9",
+    "Bib" : "22",
+    "FIS Code" : "55750",
+    "Name" : "FISCHBACHER Andrea",
+    "Year" : "1985",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.82"
+  }, {
+    "Rank" : "10",
+    "Bib" : "9",
+    "FIS Code" : "206001",
+    "Name" : "RIESCH Maria",
+    "Year" : "1984",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.91"
+  }, {
+    "Rank" : "11",
+    "Bib" : "7",
+    "FIS Code" : "55576",
+    "Name" : "GOERGL Elisabeth",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.09"
+  }, {
+    "Rank" : "12",
+    "Bib" : "20",
+    "FIS Code" : "515560",
+    "Name" : "SCHILD Martina",
+    "Year" : "1981",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.37"
+  }, {
+    "Rank" : "13",
+    "Bib" : "19",
+    "FIS Code" : "55690",
+    "Name" : "HOSP Nicole",
+    "Year" : "1983",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.55"
+  }, {
+    "Rank" : "13",
+    "Bib" : "1",
+    "FIS Code" : "55588",
+    "Name" : "RUMPFHUBER Ingrid",
+    "Year" : "1981",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.55"
+  }, {
+    "Rank" : "15",
+    "Bib" : "13",
+    "FIS Code" : "106402",
+    "Name" : "VANDERBEEK Kelly",
+    "Year" : "1983",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.68"
+  }, {
+    "Rank" : "16",
+    "Bib" : "4",
+    "FIS Code" : "565360",
+    "Name" : "STUHEC Ilka",
+    "Year" : "1990",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+3.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "15",
+    "FIS Code" : "515573",
+    "Name" : "AUFDENBLATTEN Fraenzi",
+    "Year" : "1981",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.21"
+  }, {
+    "Rank" : "18",
+    "Bib" : "23",
+    "FIS Code" : "565243",
+    "Name" : "MAZE Tina",
+    "Year" : "1983",
+    "Nation" : "SLO",
+    "Total Time" : "0.00",
+    "Diff." : "+3.70"
+  }, {
+    "Rank" : "19",
+    "Bib" : "12",
+    "FIS Code" : "537545",
+    "Name" : "MANCUSO Julia",
+    "Year" : "1984",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.06"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "10.03.2008",
+    "Place" : "Bormio",
+    "Nation" : "ITA",
+    "Codex" : "6168",
+    "Discipline" : "Downhill training",
+    "Gender" : "L",
+    "Category" : "TRA",
+    "Comments" : "",
+    "Down load" : "Results Training 1 (289.51 kb)Training Analysis (1) (705.43 kb)Start List Training 1 (289.89 kb)"
+  }
+}

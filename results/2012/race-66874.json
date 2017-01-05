@@ -1,0 +1,822 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "DAUM WERNER",
+        "country" : "AUT"
+      },
+      "Referee" : {
+        "name" : "J. FLERE",
+        "country" : "FIS"
+      },
+      "Assistant Referee" : {
+        "name" : "U. DELEA",
+        "country" : "SUI"
+      },
+      "Chief of Race" : {
+        "name" : "V. GHIRARDI",
+        "country" : "ITA"
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : "10067/02/11"
+    },
+    "Run 1" : {
+      "Course Setter" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Number of Gates" : "34",
+      "Start Time" : "09:30"
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "45",
+    "FIS Code" : "425982",
+    "Name" : "WINQUIST Annie",
+    "Year" : "1993",
+    "Nation" : "NOR",
+    "Total Time" : "1:06.99",
+    "Diff." : "",
+    "FIS Points" : "14.29",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "2",
+    "Bib" : "14",
+    "FIS Code" : "516185",
+    "Name" : "HAEHLEN Joana",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Total Time" : "1:07.02",
+    "Diff." : "+0.03",
+    "FIS Points" : "14.76",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "3",
+    "Bib" : "34",
+    "FIS Code" : "425929",
+    "Name" : "MOWINCKEL Ragnhild",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "1:07.03",
+    "Diff." : "+0.04",
+    "FIS Points" : "14.92",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "4",
+    "Bib" : "13",
+    "FIS Code" : "516319",
+    "Name" : "SUTER Corinne",
+    "Year" : "1994",
+    "Nation" : "SUI",
+    "Total Time" : "1:07.04",
+    "Diff." : "+0.05",
+    "FIS Points" : "15.08",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "5",
+    "Bib" : "32",
+    "FIS Code" : "56241",
+    "Name" : "SCHNEEBERGER Rosina",
+    "Year" : "1994",
+    "Nation" : "AUT",
+    "Total Time" : "1:07.05",
+    "Diff." : "+0.06",
+    "FIS Points" : "15.24",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "6",
+    "Bib" : "11",
+    "FIS Code" : "539363",
+    "Name" : "GHENT Abby",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:07.49",
+    "Diff." : "+0.50",
+    "FIS Points" : "22.20",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "7",
+    "Bib" : "12",
+    "FIS Code" : "197329",
+    "Name" : "MARCHAND Aurelie",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:07.50",
+    "Diff." : "+0.51",
+    "FIS Points" : "22.36",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "8",
+    "Bib" : "16",
+    "FIS Code" : "197616",
+    "Name" : "ALPHAND Estelle",
+    "Year" : "1995",
+    "Nation" : "FRA",
+    "Total Time" : "1:07.55",
+    "Diff." : "+0.56",
+    "FIS Points" : "23.15",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "9",
+    "Bib" : "17",
+    "FIS Code" : "197651",
+    "Name" : "DIREZ Clara",
+    "Year" : "1995",
+    "Nation" : "FRA",
+    "Total Time" : "1:07.58",
+    "Diff." : "+0.59",
+    "FIS Points" : "23.63",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "10",
+    "Bib" : "19",
+    "FIS Code" : "485631",
+    "Name" : "YAKOVISHINA Elena",
+    "Year" : "1992",
+    "Nation" : "RUS",
+    "Total Time" : "1:07.67",
+    "Diff." : "+0.68",
+    "FIS Points" : "25.05",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "11",
+    "Bib" : "28",
+    "FIS Code" : "485749",
+    "Name" : "PROKOPYEVA Aleksandra",
+    "Year" : "1994",
+    "Nation" : "RUS",
+    "Total Time" : "1:07.83",
+    "Diff." : "+0.84",
+    "FIS Points" : "27.58",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "36",
+    "FIS Code" : "298694",
+    "Name" : "PICHLER Karoline",
+    "Year" : "1994",
+    "Nation" : "ITA",
+    "Total Time" : "1:07.84",
+    "Diff." : "+0.85",
+    "FIS Points" : "27.74",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "12",
+    "Bib" : "15",
+    "FIS Code" : "56174",
+    "Name" : "HAASER Ricarda",
+    "Year" : "1993",
+    "Nation" : "AUT",
+    "Total Time" : "1:07.84",
+    "Diff." : "+0.85",
+    "FIS Points" : "27.74",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "44",
+    "FIS Code" : "425921",
+    "Name" : "HAUGEN Kristine Gjelsten",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "1:07.87",
+    "Diff." : "+0.88",
+    "FIS Points" : "28.21",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "14",
+    "Bib" : "4",
+    "FIS Code" : "197295",
+    "Name" : "PIOT Jennifer",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:07.87",
+    "Diff." : "+0.88",
+    "FIS Points" : "28.21",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "16",
+    "Bib" : "29",
+    "FIS Code" : "45331",
+    "Name" : "SMALL Greta",
+    "Year" : "1995",
+    "Nation" : "AUS",
+    "Total Time" : "1:07.89",
+    "Diff." : "+0.90",
+    "FIS Points" : "28.53",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "17",
+    "Bib" : "9",
+    "FIS Code" : "197319",
+    "Name" : "BAUD Adeline",
+    "Year" : "1992",
+    "Nation" : "FRA",
+    "Total Time" : "1:07.97",
+    "Diff." : "+0.98",
+    "FIS Points" : "29.80",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "18",
+    "Bib" : "30",
+    "FIS Code" : "298583",
+    "Name" : "MEDETTI Alessia",
+    "Year" : "1993",
+    "Nation" : "ITA",
+    "Total Time" : "1:07.98",
+    "Diff." : "+0.99",
+    "FIS Points" : "29.96",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "19",
+    "Bib" : "2",
+    "FIS Code" : "56177",
+    "Name" : "VENIER Stephanie",
+    "Year" : "1993",
+    "Nation" : "AUT",
+    "Total Time" : "1:08.03",
+    "Diff." : "+1.04",
+    "FIS Points" : "30.75",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "20",
+    "Bib" : "6",
+    "FIS Code" : "56128",
+    "Name" : "HUETTER Cornelia",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:08.18",
+    "Diff." : "+1.19",
+    "FIS Points" : "33.12",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "21",
+    "Bib" : "8",
+    "FIS Code" : "56125",
+    "Name" : "PUCHNER Mirjam",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "1:08.24",
+    "Diff." : "+1.25",
+    "FIS Points" : "34.07",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "22",
+    "Bib" : "21",
+    "FIS Code" : "516394",
+    "Name" : "SUTER Jasmina",
+    "Year" : "1995",
+    "Nation" : "SUI",
+    "Total Time" : "1:08.31",
+    "Diff." : "+1.32",
+    "FIS Points" : "35.18",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "23",
+    "Bib" : "18",
+    "FIS Code" : "539457",
+    "Name" : "MARNO Anna",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:08.34",
+    "Diff." : "+1.35",
+    "FIS Points" : "35.65",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "24",
+    "Bib" : "7",
+    "FIS Code" : "516248",
+    "Name" : "FLURY Jasmine",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Total Time" : "1:08.40",
+    "Diff." : "+1.41",
+    "FIS Points" : "36.60",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "25",
+    "Bib" : "25",
+    "FIS Code" : "539404",
+    "Name" : "SAMUELS Lauren",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:08.43",
+    "Diff." : "+1.44",
+    "FIS Points" : "37.08",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "26",
+    "Bib" : "47",
+    "FIS Code" : "705423",
+    "Name" : "VLHOVA Petra",
+    "Year" : "1995",
+    "Nation" : "SVK",
+    "Total Time" : "1:08.57",
+    "Diff." : "+1.58",
+    "FIS Points" : "39.29",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "27",
+    "Bib" : "53",
+    "FIS Code" : "206532",
+    "Name" : "SCHMOTZ Marlene",
+    "Year" : "1994",
+    "Nation" : "GER",
+    "Total Time" : "1:08.67",
+    "Diff." : "+1.68",
+    "FIS Points" : "40.87",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "28",
+    "Bib" : "10",
+    "FIS Code" : "485632",
+    "Name" : "BEDAREVA Maria",
+    "Year" : "1992",
+    "Nation" : "RUS",
+    "Total Time" : "1:08.79",
+    "Diff." : "+1.80",
+    "FIS Points" : "42.77",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "29",
+    "Bib" : "42",
+    "FIS Code" : "298767",
+    "Name" : "SOSIO Federica",
+    "Year" : "1994",
+    "Nation" : "ITA",
+    "Total Time" : "1:08.80",
+    "Diff." : "+1.81",
+    "FIS Points" : "42.93",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "30",
+    "Bib" : "49",
+    "FIS Code" : "298642",
+    "Name" : "GIARDINI Ida",
+    "Year" : "1993",
+    "Nation" : "ITA",
+    "Total Time" : "1:08.89",
+    "Diff." : "+1.90",
+    "FIS Points" : "44.35",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "31",
+    "Bib" : "46",
+    "FIS Code" : "705394",
+    "Name" : "KANTOROVA Barbara",
+    "Year" : "1992",
+    "Nation" : "SVK",
+    "Total Time" : "1:08.96",
+    "Diff." : "+1.97",
+    "FIS Points" : "45.46",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "32",
+    "Bib" : "22",
+    "FIS Code" : "539536",
+    "Name" : "WILES Jacqueline",
+    "Year" : "1992",
+    "Nation" : "USA",
+    "Total Time" : "1:09.03",
+    "Diff." : "+2.04",
+    "FIS Points" : "46.57",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "33",
+    "Bib" : "31",
+    "FIS Code" : "298124",
+    "Name" : "AGNELLI Nicole",
+    "Year" : "1992",
+    "Nation" : "ITA",
+    "Total Time" : "1:09.05",
+    "Diff." : "+2.06",
+    "FIS Points" : "46.89",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "34",
+    "Bib" : "48",
+    "FIS Code" : "405138",
+    "Name" : "JELINKOVA Adriana",
+    "Year" : "1995",
+    "Nation" : "NED",
+    "Total Time" : "1:09.16",
+    "Diff." : "+2.17",
+    "FIS Points" : "48.63",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "35",
+    "Bib" : "33",
+    "FIS Code" : "539678",
+    "Name" : "PETERSON Foreste",
+    "Year" : "1993",
+    "Nation" : "USA",
+    "Total Time" : "1:09.22",
+    "Diff." : "+2.23",
+    "FIS Points" : "49.58",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "36",
+    "Bib" : "57",
+    "FIS Code" : "306977",
+    "Name" : "MUKOGAWA Sakurako",
+    "Year" : "1992",
+    "Nation" : "JPN",
+    "Total Time" : "1:09.25",
+    "Diff." : "+2.26",
+    "FIS Points" : "50.05",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "37",
+    "Bib" : "41",
+    "FIS Code" : "107269",
+    "Name" : "CARROLL Tianda",
+    "Year" : "1993",
+    "Nation" : "CAN",
+    "Total Time" : "1:09.75",
+    "Diff." : "+2.76",
+    "FIS Points" : "57.96",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "38",
+    "Bib" : "60",
+    "FIS Code" : "185364",
+    "Name" : "JUUTINEN Jutta",
+    "Year" : "1993",
+    "Nation" : "FIN",
+    "Total Time" : "1:09.78",
+    "Diff." : "+2.79",
+    "FIS Points" : "58.44",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "39",
+    "Bib" : "59",
+    "FIS Code" : "255367",
+    "Name" : "VILHJALMSDOTTIR Helga Maria",
+    "Year" : "1995",
+    "Nation" : "ISL",
+    "Total Time" : "1:10.74",
+    "Diff." : "+3.75",
+    "FIS Points" : "73.63",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "40",
+    "Bib" : "61",
+    "FIS Code" : "435313",
+    "Name" : "MAJERCZYK Sabina",
+    "Year" : "1993",
+    "Nation" : "POL",
+    "Total Time" : "1:11.92",
+    "Diff." : "+4.93",
+    "FIS Points" : "92.30",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "41",
+    "Bib" : "63",
+    "FIS Code" : "325111",
+    "Name" : "JO Eun-Hwa",
+    "Year" : "1995",
+    "Nation" : "KOR",
+    "Total Time" : "1:13.19",
+    "Diff." : "+6.20",
+    "FIS Points" : "112.39",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "42",
+    "Bib" : "62",
+    "FIS Code" : "695101",
+    "Name" : "TIKUN Tetyana",
+    "Year" : "1994",
+    "Nation" : "UKR",
+    "Total Time" : "1:14.18",
+    "Diff." : "+7.19",
+    "FIS Points" : "128.06",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "43",
+    "Bib" : "65",
+    "FIS Code" : "695105",
+    "Name" : "GORBUNOVA Anastasiia",
+    "Year" : "1995",
+    "Nation" : "UKR",
+    "Total Time" : "1:14.49",
+    "Diff." : "+7.50",
+    "FIS Points" : "132.96",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "44",
+    "Bib" : "67",
+    "FIS Code" : "325119",
+    "Name" : "GIM So-Hui",
+    "Year" : "1996",
+    "Nation" : "KOR",
+    "Total Time" : "1:14.60",
+    "Diff." : "+7.61",
+    "FIS Points" : "134.70",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "45",
+    "Bib" : "69",
+    "FIS Code" : "235195",
+    "Name" : "KOKKINI Anastasia",
+    "Year" : "1992",
+    "Nation" : "GRE",
+    "Total Time" : "1:20.21",
+    "Diff." : "+13.22",
+    "FIS Points" : "223.47",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "Disqualified 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "68",
+    "FIS Code" : "695108",
+    "Name" : "KNYSH Olha",
+    "Year" : "1995",
+    "Nation" : "UKR",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "66",
+    "FIS Code" : "215020",
+    "Name" : "BARANOVA Svetlana",
+    "Year" : "1993",
+    "Nation" : "UZB",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "64",
+    "FIS Code" : "307493",
+    "Name" : "ANDO Asa",
+    "Year" : "1996",
+    "Nation" : "JPN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "52",
+    "FIS Code" : "107181",
+    "Name" : "MARCIL Stephanie",
+    "Year" : "1992",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "Did not start 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "58",
+    "FIS Code" : "565398",
+    "Name" : "HAFNER Ula",
+    "Year" : "1993",
+    "Nation" : "SLO",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "Did not finish 1st run"
+  }, {
+    "Rank" : ""
+  }, {
+    "Rank" : "",
+    "Bib" : "56",
+    "FIS Code" : "185357",
+    "Name" : "VIRKKULA Sohvi",
+    "Year" : "1993",
+    "Nation" : "FIN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "55",
+    "FIS Code" : "307120",
+    "Name" : "ARAI Makiko",
+    "Year" : "1993",
+    "Nation" : "JPN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "54",
+    "FIS Code" : "107532",
+    "Name" : "TOMMY Mikaela",
+    "Year" : "1995",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "51",
+    "FIS Code" : "298944",
+    "Name" : "MAZZOCCO Jessica",
+    "Year" : "1994",
+    "Nation" : "ITA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "50",
+    "FIS Code" : "506557",
+    "Name" : "GRASSL Paulina",
+    "Year" : "1994",
+    "Nation" : "SWE",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "43",
+    "FIS Code" : "506555",
+    "Name" : "BLOMQVIST Lisa",
+    "Year" : "1994",
+    "Nation" : "SWE",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "40",
+    "FIS Code" : "425916",
+    "Name" : "FAUSA Chloe Margrethe",
+    "Year" : "1992",
+    "Nation" : "NOR",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "39",
+    "FIS Code" : "506664",
+    "Name" : "FJAELLSTROEM Magdalena",
+    "Year" : "1995",
+    "Nation" : "SWE",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "38",
+    "FIS Code" : "539685",
+    "Name" : "RYAN Katherine",
+    "Year" : "1993",
+    "Nation" : "USA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "37",
+    "FIS Code" : "426092",
+    "Name" : "CHRISTENSEN Nora Grieg",
+    "Year" : "1995",
+    "Nation" : "NOR",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "35",
+    "FIS Code" : "107192",
+    "Name" : "FREEMAN Sarah",
+    "Year" : "1992",
+    "Nation" : "CAN",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "27",
+    "FIS Code" : "565401",
+    "Name" : "BUCIK Ana",
+    "Year" : "1993",
+    "Nation" : "SLO",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "26",
+    "FIS Code" : "485665",
+    "Name" : "KEDRINA Anastasia",
+    "Year" : "1992",
+    "Nation" : "RUS",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "24",
+    "FIS Code" : "565400",
+    "Name" : "HORVAT Katja",
+    "Year" : "1993",
+    "Nation" : "SLO",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "23",
+    "FIS Code" : "56126",
+    "Name" : "ZELLER Lisa-Maria",
+    "Year" : "1992",
+    "Nation" : "AUT",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "20",
+    "FIS Code" : "516289",
+    "Name" : "THUERLER Andrea",
+    "Year" : "1993",
+    "Nation" : "SUI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "5",
+    "FIS Code" : "197497",
+    "Name" : "MIRADOLI Romane",
+    "Year" : "1994",
+    "Nation" : "FRA",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "3",
+    "FIS Code" : "516219",
+    "Name" : "NUFER Priska",
+    "Year" : "1992",
+    "Nation" : "SUI",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : "",
+    "Bib" : "1",
+    "FIS Code" : "206460",
+    "Name" : "WENIG Michaela",
+    "Year" : "1992",
+    "Nation" : "GER",
+    "Total Time" : "",
+    "Diff." : "",
+    "FIS Points" : "",
+    "WJC Points" : "0.00"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "06.03.2012",
+    "Place" : "Roccaraso",
+    "Nation" : "ITA",
+    "Codex" : "5902",
+    "Discipline" : "Super G",
+    "Gender" : "L",
+    "Category" : "WJC",
+    "Comments" : "Replaces: 09.03.2012",
+    "Down load" : "Marc Hodler Trophy"
+  }
+}

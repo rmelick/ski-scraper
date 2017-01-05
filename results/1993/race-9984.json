@@ -1,0 +1,489 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Course Length" : "m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "Bib" : "",
+    "FIS Code" : "55159",
+    "Name" : "HAAS Anja",
+    "Year" : "1971",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : ""
+  }, {
+    "Rank" : "2",
+    "Bib" : "",
+    "FIS Code" : "195195",
+    "Name" : "CAVAGNOUD Regine",
+    "Year" : "1970",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.12"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "105101",
+    "Name" : "PACE LINDSAY Kate",
+    "Year" : "1969",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+0.52"
+  }, {
+    "Rank" : "3",
+    "Bib" : "",
+    "FIS Code" : "515142",
+    "Name" : "ZURBRIGGEN Heidi",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.52"
+  }, {
+    "Rank" : "5",
+    "Bib" : "",
+    "FIS Code" : "55066",
+    "Name" : "SADLEDER Barbara",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.59"
+  }, {
+    "Rank" : "6",
+    "Bib" : "",
+    "FIS Code" : "205171",
+    "Name" : "SEIZINGER Katja",
+    "Year" : "1972",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+0.61"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "55098",
+    "Name" : "STALLMAIER Veronika",
+    "Year" : "1966",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+0.65"
+  }, {
+    "Rank" : "7",
+    "Bib" : "",
+    "FIS Code" : "485068",
+    "Name" : "LEBEDEVA Tatiana",
+    "Year" : "1973",
+    "Nation" : "RUS",
+    "Total Time" : "0.00",
+    "Diff." : "+0.65"
+  }, {
+    "Rank" : "9",
+    "Bib" : "",
+    "FIS Code" : "205176",
+    "Name" : "STANGGASSINGER Ulrike",
+    "Year" : "1968",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+0.73"
+  }, {
+    "Rank" : "10",
+    "Bib" : "",
+    "FIS Code" : "535503",
+    "Name" : "STREET Picabo",
+    "Year" : "1971",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+0.78"
+  }, {
+    "Rank" : "11",
+    "Bib" : "",
+    "FIS Code" : "205193",
+    "Name" : "VOGT Miriam",
+    "Year" : "1967",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+0.82"
+  }, {
+    "Rank" : "12",
+    "Bib" : "",
+    "FIS Code" : "515138",
+    "Name" : "ZELLER-BAEHLER Heidi",
+    "Year" : "1967",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+0.88"
+  }, {
+    "Rank" : "13",
+    "Bib" : "",
+    "FIS Code" : "205091",
+    "Name" : "RENOTH Rosi",
+    "Year" : "1967",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+0.93"
+  }, {
+    "Rank" : "14",
+    "Bib" : "",
+    "FIS Code" : "195374",
+    "Name" : "MONTILLET Carole",
+    "Year" : "1973",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.09"
+  }, {
+    "Rank" : "15",
+    "Bib" : "",
+    "FIS Code" : "55097",
+    "Name" : "WACHTER Anita",
+    "Year" : "1967",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.16"
+  }, {
+    "Rank" : "16",
+    "Bib" : "",
+    "FIS Code" : "195118",
+    "Name" : "MERLE Carole",
+    "Year" : "1964",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.25"
+  }, {
+    "Rank" : "17",
+    "Bib" : "",
+    "FIS Code" : "205378",
+    "Name" : "ERTL Martina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.30"
+  }, {
+    "Rank" : "18",
+    "Bib" : "",
+    "FIS Code" : "55137",
+    "Name" : "KOGLER Monika",
+    "Year" : "1970",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.31"
+  }, {
+    "Rank" : "19",
+    "Bib" : "",
+    "FIS Code" : "205409",
+    "Name" : "OSTERRIED Martina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.35"
+  }, {
+    "Rank" : "20",
+    "Bib" : "",
+    "FIS Code" : "205392",
+    "Name" : "HAEUSL Regina",
+    "Year" : "1973",
+    "Nation" : "GER",
+    "Total Time" : "0.00",
+    "Diff." : "+1.39"
+  }, {
+    "Rank" : "21",
+    "Bib" : "",
+    "FIS Code" : "295303",
+    "Name" : "PEREZ Bibiana",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.44"
+  }, {
+    "Rank" : "22",
+    "Bib" : "",
+    "FIS Code" : "55075",
+    "Name" : "SCHUSTER Stefanie",
+    "Year" : "1969",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.55"
+  }, {
+    "Rank" : "23",
+    "Bib" : "",
+    "FIS Code" : "485062",
+    "Name" : "ZELENSKAJA Warwara",
+    "Year" : "1972",
+    "Nation" : "RUS",
+    "Total Time" : "0.00",
+    "Diff." : "+1.60"
+  }, {
+    "Rank" : "23",
+    "Bib" : "",
+    "FIS Code" : "55082",
+    "Name" : "STOECKL Ingrid",
+    "Year" : "1969",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.60"
+  }, {
+    "Rank" : "25",
+    "Bib" : "",
+    "FIS Code" : "425175",
+    "Name" : "LOEDEMEL Astrid",
+    "Year" : "1971",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+1.70"
+  }, {
+    "Rank" : "25",
+    "Bib" : "",
+    "FIS Code" : "55212",
+    "Name" : "MEISSNITZER Alexandra",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.70"
+  }, {
+    "Rank" : "27",
+    "Bib" : "",
+    "FIS Code" : "55198",
+    "Name" : "DORFMEISTER Michaela",
+    "Year" : "1973",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+1.84"
+  }, {
+    "Rank" : "28",
+    "Bib" : "",
+    "FIS Code" : "535304",
+    "Name" : "SCHMIDINGER Krista",
+    "Year" : "1970",
+    "Nation" : "USA",
+    "Total Time" : "0.00",
+    "Diff." : "+1.99"
+  }, {
+    "Rank" : "29",
+    "Bib" : "",
+    "FIS Code" : "515075",
+    "Name" : "BRIGGER-SUMMERMATTER Madlen",
+    "Year" : "1974",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.07"
+  }, {
+    "Rank" : "30",
+    "Bib" : "",
+    "FIS Code" : "105043",
+    "Name" : "GEE Nancy",
+    "Year" : "1968",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.23"
+  }, {
+    "Rank" : "31",
+    "Bib" : "",
+    "FIS Code" : "425213",
+    "Name" : "LUNDE Jeanette",
+    "Year" : "1972",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+2.27"
+  }, {
+    "Rank" : "31",
+    "Bib" : "",
+    "FIS Code" : "515289",
+    "Name" : "SCHELBERT Laura",
+    "Year" : "1974",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.27"
+  }, {
+    "Rank" : "33",
+    "Bib" : "",
+    "FIS Code" : "195321",
+    "Name" : "RICHON Eleonore",
+    "Year" : "1972",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.46"
+  }, {
+    "Rank" : "34",
+    "Bib" : "",
+    "FIS Code" : "515252",
+    "Name" : "DAETWYLER Celine",
+    "Year" : "1973",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+2.63"
+  }, {
+    "Rank" : "35",
+    "Bib" : "",
+    "FIS Code" : "295191",
+    "Name" : "MERLIN Barbara",
+    "Year" : "1972",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.64"
+  }, {
+    "Rank" : "36",
+    "Bib" : "",
+    "FIS Code" : "305068",
+    "Name" : "KAWABATA Emi",
+    "Year" : "1970",
+    "Nation" : "JPN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.65"
+  }, {
+    "Rank" : "37",
+    "Bib" : "",
+    "FIS Code" : "295085",
+    "Name" : "FRIZZARIN Barbara",
+    "Year" : "1969",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.66"
+  }, {
+    "Rank" : "38",
+    "Bib" : "",
+    "FIS Code" : "425257",
+    "Name" : "KVINLOG Siri",
+    "Year" : "1973",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+2.68"
+  }, {
+    "Rank" : "39",
+    "Bib" : "",
+    "FIS Code" : "105096",
+    "Name" : "RUTHVEN Michelle",
+    "Year" : "1967",
+    "Nation" : "CAN",
+    "Total Time" : "0.00",
+    "Diff." : "+2.75"
+  }, {
+    "Rank" : "40",
+    "Bib" : "",
+    "FIS Code" : "195074",
+    "Name" : "GATEL Marie-Pierre",
+    "Year" : "1968",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.76"
+  }, {
+    "Rank" : "41",
+    "Bib" : "",
+    "FIS Code" : "55051",
+    "Name" : "SALCHINGER Marianna",
+    "Year" : "1974",
+    "Nation" : "AUT",
+    "Total Time" : "0.00",
+    "Diff." : "+2.81"
+  }, {
+    "Rank" : "42",
+    "Bib" : "",
+    "FIS Code" : "195028",
+    "Name" : "BOUVIER Nathalie",
+    "Year" : "1969",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+2.85"
+  }, {
+    "Rank" : "43",
+    "Bib" : "",
+    "FIS Code" : "425008",
+    "Name" : "BERGE Anne",
+    "Year" : "1966",
+    "Nation" : "NOR",
+    "Total Time" : "0.00",
+    "Diff." : "+3.25"
+  }, {
+    "Rank" : "44",
+    "Bib" : "",
+    "FIS Code" : "515057",
+    "Name" : "HEUBI Manuela",
+    "Year" : "1971",
+    "Nation" : "SUI",
+    "Total Time" : "0.00",
+    "Diff." : "+3.36"
+  }, {
+    "Rank" : "45",
+    "Bib" : "",
+    "FIS Code" : "295269",
+    "Name" : "DELLA MORETTA Erika",
+    "Year" : "1970",
+    "Nation" : "ITA",
+    "Total Time" : "0.00",
+    "Diff." : "+3.49"
+  }, {
+    "Rank" : "46",
+    "Bib" : "",
+    "FIS Code" : "225021",
+    "Name" : "PRATT Debra",
+    "Year" : "1969",
+    "Nation" : "GBR",
+    "Total Time" : "0.00",
+    "Diff." : "+3.67"
+  }, {
+    "Rank" : "47",
+    "Bib" : "",
+    "FIS Code" : "195245",
+    "Name" : "CHARLES Nathalie",
+    "Year" : "1971",
+    "Nation" : "FRA",
+    "Total Time" : "0.00",
+    "Diff." : "+4.45"
+  }, {
+    "Rank" : "48",
+    "Bib" : "",
+    "FIS Code" : "485144",
+    "Name" : "KUZMINA Julia",
+    "Year" : "1976",
+    "Nation" : "RUS",
+    "Total Time" : "0.00",
+    "Diff." : "+4.62"
+  }, {
+    "Rank" : "49",
+    "Bib" : "",
+    "FIS Code" : "485022",
+    "Name" : "ZHIKOLUK Oksana",
+    "Year" : "1975",
+    "Nation" : "RUS",
+    "Total Time" : "0.00",
+    "Diff." : "+6.04"
+  }, {
+    "Rank" : "50",
+    "Bib" : "",
+    "FIS Code" : "485019",
+    "Name" : "GOLUB Mira",
+    "Year" : "1975",
+    "Nation" : "RUS",
+    "Total Time" : "0.00",
+    "Diff." : "+6.06"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "27.02.1993",
+    "Place" : "Veysonnaz",
+    "Nation" : "SUI",
+    "Codex" : "5510",
+    "Discipline" : "Downhill",
+    "Gender" : "L",
+    "Category" : "WC",
+    "Comments" : "",
+    "Down load" : ""
+  }
+}

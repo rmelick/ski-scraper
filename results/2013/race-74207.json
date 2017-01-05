@@ -1,0 +1,98 @@
+{
+  "raceInfo" : {
+    "Jury" : {
+      "TD FIS" : {
+        "name" : "HALL DOUGLAS BEREITER WILFRED JOSEPH",
+        "country" : "USA SUI"
+      },
+      "Referee" : {
+        "name" : "",
+        "country" : ""
+      },
+      "Chief of Race" : {
+        "name" : "",
+        "country" : ""
+      }
+    },
+    "Technical Data" : {
+      "Start Altitude" : "m.",
+      "Finish Altitude" : "m.",
+      "Vertical Drop" : "0 m.",
+      "Homologation Number" : ""
+    }
+  },
+  "results" : [ {
+    "Rank" : "1",
+    "FIS Code" : "501830",
+    "Name" : "SWEDEN",
+    "Nation" : "SWE"
+  }, {
+    "Rank" : "2",
+    "FIS Code" : "511846",
+    "Name" : "SWITZERLAND",
+    "Nation" : "SUI"
+  }, {
+    "Rank" : "3",
+    "FIS Code" : "103821",
+    "Name" : "CANADA",
+    "Nation" : "CAN"
+  }, {
+    "Rank" : "4",
+    "FIS Code" : "54057",
+    "Name" : "AUSTRIA",
+    "Nation" : "AUT"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "206640",
+    "Name" : "GERMANY",
+    "Nation" : "GER"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "6290057",
+    "Name" : "ITALY",
+    "Nation" : "ITA"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "194428",
+    "Name" : "FRANCE",
+    "Nation" : "FRA"
+  }, {
+    "Rank" : "5",
+    "FIS Code" : "422541",
+    "Name" : "NORWAY",
+    "Nation" : "NOR"
+  }, {
+    "Rank" : "9",
+    "FIS Code" : "700928",
+    "Name" : "SLOVAKIA",
+    "Nation" : "SVK"
+  }, {
+    "Rank" : "9",
+    "FIS Code" : "565392",
+    "Name" : "SLOVENIA",
+    "Nation" : "SLO"
+  }, {
+    "Rank" : "9",
+    "FIS Code" : "6530095",
+    "Name" : "UNITED STATES",
+    "Nation" : "USA"
+  }, {
+    "Rank" : "9",
+    "FIS Code" : "481822",
+    "Name" : "RUSSIA",
+    "Nation" : "RUS"
+  }, {
+    "Rank" : ""
+  } ],
+  "eventInfo" : {
+    "Date" : "23.02.2013",
+    "Place" : "Quebec",
+    "Nation" : "CAN",
+    "Codex" : "1720",
+    "Discipline" : "Team",
+    "Gender" : "M",
+    "Category" : "NGP",
+    "Comments" : "",
+    "Down load" : "Marc Hodler Trophy"
+  }
+}
